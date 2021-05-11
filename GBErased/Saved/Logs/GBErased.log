@@ -1503,3 +1503,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.11-07.26.45:438][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.11-07.26.45:442][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
 [2021.05.11-07.26.45:460][561]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.11-07.27.49:897][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.11-07.28.25:364][859]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-07.28.25:435][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.05.11-07.28.27:344][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-07.28.27:377][  4]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar838FCF044DEF9955E403DCBC51CB7BA0.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-07.28.27:400][  4]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-07.28.27:400][  4]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
