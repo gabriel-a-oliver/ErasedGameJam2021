@@ -1665,3 +1665,1469 @@ Make sure 'PlayerChar_C' has been compiled for  Get SpringArm
 [2021.05.11-06.11.06:202][823]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.11-06.11.06:202][823]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
 [2021.05.11-06.11.06:202][823]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.11-06.13.17:413][137]BlueprintLog: New page: Compile EraserBullet
+[2021.05.11-06.13.17:467][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.05.11-06.13.18:372][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.11-06.13.18:379][195]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBulletB97C195544BAD844E014C8BEBF33C372.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.11-06.13.18:398][195]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.11-06.13.18:398][195]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.11-06.13.23:483][593]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2021.05.11-06.13.23:485][593]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.13.23:788][593]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.13.23:798][593]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.11-06.13.26:860][849]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.11-06.13.29:660][ 57]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.05.11-06.13.29:660][ 57]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.05.11-06.13.29:660][ 57]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.05.11-06.13.29:660][ 57]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.11-06.13.29:660][ 57]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.11-06.13.32:149][258]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.13.32:160][258]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.11-06.13.33:926][336]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.13.33:941][336]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.11-06.13.35:394][407]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.13.35:405][407]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.11-06.13.35:411][407]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.11-06.13.39:312][755]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2021.05.11-06.13.39:851][755]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.13.39:906][755]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.13.39:993][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.05.11-06.13.39:998][755]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.11-06.14.06:829][755]TextureStreamingBuild: Display: Compiling optional shaders took 26.836 seconds.
+[2021.05.11-06.14.06:859][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.11-06.14.06:959][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2021.05.11-06.14.06:964][755]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/BasicShapeMaterial5B761F0F4E9DF689103FFFB15E934E13.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2021.05.11-06.14.06:965][755]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2021.05.11-06.14.07:465][755]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.05.11-06.14.07:502][755]AssetCheck: New page: Asset Save: BasicShapeMaterial
+[2021.05.11-06.14.07:502][755]LogContentValidation: Display: Validating Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2021.05.11-06.14.07:503][755]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.05.11-06.14.07:503][755]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.05.11-06.14.07:504][755]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.05.11-06.14.07:504][755]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.11-06.14.07:504][755]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.11-06.14.17:086][144]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.14.17:100][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.11-06.14.19:564][329]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.14.19:578][329]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.11-06.14.19:584][329]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.11-06.14.21:413][484]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2021.05.11-06.14.21:952][484]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.14.22:003][484]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.05.11-06.14.22:082][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.05.11-06.14.22:088][484]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.11-06.14.47:331][484]TextureStreamingBuild: Display: Compiling optional shaders took 25.249 seconds.
+[2021.05.11-06.14.47:359][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.11-06.14.47:462][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2021.05.11-06.14.47:467][484]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/BasicShapeMaterial6898AC7E4A682DFC92B84282EB67FEBE.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2021.05.11-06.14.47:500][484]AssetCheck: New page: Asset Save: BasicShapeMaterial
+[2021.05.11-06.14.47:500][484]LogContentValidation: Display: Validating Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2021.05.11-06.14.47:501][484]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.05.11-06.14.47:501][484]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.05.11-06.14.47:501][484]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.05.11-06.14.47:501][484]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.11-06.14.47:501][484]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.11-06.15.11:397][282]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.15.11:397][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.15.15:454][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.11-06.15.15:457][616]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBulletBB03F0B4406D39EF6B0FDD8424730CC5.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.11-06.15.15:490][616]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.11-06.15.15:490][616]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.11-06.15.15:812][643]BlueprintLog: New page: Compile EraserBullet
+[2021.05.11-06.15.15:862][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.05.11-06.17.31:115][508]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.11-06.18.15:896][720]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.18.15:899][720]LogBlueprint: Warning: [AssetLog] B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\GBErased\Content\Characters\PlayerChar.uasset: [Compiler] Cast To EraserBullet Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.05.11-06.18.15:899][720]LogBlueprint: Error: [AssetLog] B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\GBErased\Content\Characters\PlayerChar.uasset: [Compiler] Spawn node  SpawnActor  must have a  Class  specified.
+[2021.05.11-06.18.15:953][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.05.11-06.19.38:250][442]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.11-06.19.45:005][921]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.19.45:011][921]LogBlueprint: Error: [AssetLog] B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\GBErased\Content\Characters\PlayerChar.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.05.11-06.19.45:011][921]LogBlueprint: Error: [AssetLog] B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\GBErased\Content\Characters\PlayerChar.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.05.11-06.19.45:062][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.05.11-06.20.58:538][403]LogEditorTransaction: Undo Add Node
+[2021.05.11-06.21.52:703][852]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.21.52:761][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.05.11-06.21.53:576][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.05.11-06.21.53:576][890]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.032
+[2021.05.11-06.21.53:577][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/PlayerChar] ([1] browsable assets)...
+[2021.05.11-06.21.53:586][890]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/PlayerChar.PlayerChar]
+[2021.05.11-06.21.53:586][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/PlayerChar]
+[2021.05.11-06.21.53:615][890]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar_Auto1ED4E97FB435D5DFF9EC40DA3A1F15264.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Autosaves/Game/Characters/PlayerChar_Auto1.uasset'
+[2021.05.11-06.21.53:615][890]LogFileHelpers: Auto-saving content packages took 0.039
+[2021.05.11-06.21.55:914][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.21.55:938][ 54]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar906951314F642E991DD143858C1B5940.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.21.56:002][ 54]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.21.56:002][ 54]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.22.08:344][336]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.22.08:348][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.22.08:348][336]PIE: New page: PIE session: TestMap (May 10, 2021, 4:22:08 PM)
+[2021.05.11-06.22.08:348][336]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.22.08:350][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002002s)
+[2021.05.11-06.22.08:351][336]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.22.08:351][336]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2021.05.11-06.22.08:351][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003111s)
+[2021.05.11-06.22.08:382][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.05.11-06.22.08:383][336]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.05.11-06.22.08:383][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.22.08:383][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.22.08:383][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.22.08:383][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.22.08:383][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.22.08:383][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.22.08:383][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.22.08:383][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.22.08:383][336]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.22.08:383][336]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.22.08:387][336]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.22.08:387][336]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.22.08:387][336]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.22.08:387][336]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.22.08:387][336]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.22.08:387][336]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.22.08:387][336]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.22.08:387][336]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.22.08:542][336]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.22.08:543][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.22.08:543][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.22.08:543][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.22.08:543][336]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.22.08:543][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.22.08:543][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.22.08:557][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.22.08:557][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.22.08:557][336]LogInit: FAudioDevice initialized.
+[2021.05.11-06.22.08:557][336]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap'.
+[2021.05.11-06.22.08:565][336]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.22.08:566][336]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.22.08
+[2021.05.11-06.22.08:566][336]LogWorld: Bringing up level for play took: 0.000467
+[2021.05.11-06.22.08:566][336]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.11-06.22.08:568][336]PIE: Server logged in
+[2021.05.11-06.22.08:569][336]PIE: Play in editor total start time 0.222 seconds.
+[2021.05.11-06.22.26:435][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.22.26:435][474]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.22.26:435][474]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.22.26:436][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.22.26:446][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.22.26:460][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.22.26:488][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.22.26:488][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.22.26:489][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.22.26:507][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.11-06.22.26:532][475]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.11-06.22.28:840][692]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.22.28:844][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.22.28:844][692]PIE: New page: PIE session: TestMap (May 10, 2021, 4:22:28 PM)
+[2021.05.11-06.22.28:864][692]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.22.28:866][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2021.05.11-06.22.28:867][692]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.22.28:867][692]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2021.05.11-06.22.28:867][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.002947s)
+[2021.05.11-06.22.28:898][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.05.11-06.22.28:899][692]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.05.11-06.22.28:899][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.22.28:899][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.22.28:899][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.22.28:899][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.22.28:899][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.22.28:899][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.22.28:899][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.22.28:899][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.22.28:899][692]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.22.28:899][692]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.22.28:903][692]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.22.28:903][692]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.22.28:903][692]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.22.28:903][692]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.22.28:903][692]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.22.28:903][692]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.22.28:903][692]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.22.28:903][692]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.22.29:057][692]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.22.29:057][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.22.29:057][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.22.29:057][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.22.29:058][692]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.22.29:058][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.22.29:058][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.22.29:070][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.22.29:070][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.22.29:070][692]LogInit: FAudioDevice initialized.
+[2021.05.11-06.22.29:070][692]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap'.
+[2021.05.11-06.22.29:075][692]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.22.29:076][692]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.22.29
+[2021.05.11-06.22.29:076][692]LogWorld: Bringing up level for play took: 0.000432
+[2021.05.11-06.22.29:076][692]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.05.11-06.22.29:078][692]PIE: Server logged in
+[2021.05.11-06.22.29:079][692]PIE: Play in editor total start time 0.236 seconds.
+[2021.05.11-06.22.45:855][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.22.45:856][308]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.22.45:856][308]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.22.45:856][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.22.45:861][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.22.45:875][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.22.45:903][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.22.45:904][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.22.45:904][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.22.45:923][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.05.11-06.22.45:946][309]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.05.11-06.23.29:659][342]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.23.29:716][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.11-06.23.30:387][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.23.30:416][389]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar1145780348E6A5E692E37BA10905C658.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.23.30:437][389]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.23.30:437][389]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.23.31:816][481]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.23.31:820][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.23.31:820][481]PIE: New page: PIE session: TestMap (May 10, 2021, 4:23:31 PM)
+[2021.05.11-06.23.31:844][481]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.23.31:846][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002109s)
+[2021.05.11-06.23.31:848][481]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.23.31:848][481]LogPlayLevel: PIE: World Init took: (0.001707s)
+[2021.05.11-06.23.31:848][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003965s)
+[2021.05.11-06.23.31:880][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.05.11-06.23.31:880][481]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.05.11-06.23.31:880][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.23.31:880][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.23.31:880][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.23.31:880][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.23.31:880][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.23.31:881][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.23.31:881][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.23.31:881][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.23.31:881][481]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.23.31:881][481]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.23.31:885][481]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.23.31:885][481]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.23.31:885][481]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.23.31:885][481]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.23.31:885][481]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.23.31:885][481]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.23.31:885][481]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.23.31:885][481]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.23.32:038][481]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.23.32:038][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.23.32:038][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.23.32:038][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.23.32:038][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.23.32:038][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.23.32:039][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.23.32:052][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.23.32:052][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.23.32:052][481]LogInit: FAudioDevice initialized.
+[2021.05.11-06.23.32:052][481]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestMap'.
+[2021.05.11-06.23.32:059][481]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.23.32:060][481]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.23.32
+[2021.05.11-06.23.32:060][481]LogWorld: Bringing up level for play took: 0.000417
+[2021.05.11-06.23.32:060][481]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.05.11-06.23.32:062][481]PIE: Server logged in
+[2021.05.11-06.23.32:063][481]PIE: Play in editor total start time 0.243 seconds.
+[2021.05.11-06.23.48:835][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.23.48:835][488]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.23.48:835][488]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.23.48:835][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.23.48:846][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.23.48:861][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.23.48:890][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.23.48:890][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.23.48:891][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.23.48:906][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.23.48:910][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.05.11-06.23.48:934][489]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.05.11-06.25.02:018][810]LogSlate: Took 0.006840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.11-06.27.12:758][306]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.27.12:819][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.05.11-06.27.39:998][933]LogEditorTransaction: Undo Move Node
+[2021.05.11-06.27.41:333][ 26]LogEditorTransaction: Redo Move Node
+[2021.05.11-06.28.01:511][491]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.28.01:692][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.05.11-06.28.02:379][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.28.02:409][533]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar7ABD779247FE0E897CB7119170131C08.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.28.02:435][533]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.28.02:435][533]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.28.03:991][672]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.28.03:995][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.28.03:995][672]PIE: New page: PIE session: TestMap (May 10, 2021, 4:28:03 PM)
+[2021.05.11-06.28.03:995][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.28.03:997][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001939s)
+[2021.05.11-06.28.03:998][672]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.28.03:998][672]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2021.05.11-06.28.03:998][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003034s)
+[2021.05.11-06.28.04:029][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.11-06.28.04:030][672]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.05.11-06.28.04:030][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.28.04:030][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.28.04:030][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.28.04:030][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.28.04:030][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.28.04:031][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.28.04:031][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.28.04:031][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.28.04:031][672]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.28.04:031][672]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.28.04:035][672]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.28.04:035][672]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.28.04:035][672]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.28.04:035][672]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.28.04:035][672]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.28.04:035][672]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.28.04:035][672]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.28.04:035][672]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.28.04:189][672]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.28.04:189][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.28.04:189][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.28.04:190][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.28.04:190][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.28.04:190][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.28.04:190][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.28.04:203][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.28.04:203][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.28.04:203][672]LogInit: FAudioDevice initialized.
+[2021.05.11-06.28.04:203][672]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestMap'.
+[2021.05.11-06.28.04:210][672]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.28.04:211][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.28.04
+[2021.05.11-06.28.04:211][672]LogWorld: Bringing up level for play took: 0.000446
+[2021.05.11-06.28.04:211][672]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.05.11-06.28.04:214][672]PIE: Server logged in
+[2021.05.11-06.28.04:214][672]PIE: Play in editor total start time 0.22 seconds.
+[2021.05.11-06.28.09:065][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.28.09:065][246]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.28.09:066][246]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.28.09:066][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.28.09:071][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.28.09:085][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.28.09:113][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.28.09:113][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.28.09:114][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.28.09:129][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.28.09:132][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.05.11-06.28.09:155][247]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.05.11-06.28.15:137][492]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.28.15:221][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.05.11-06.28.15:726][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.28.15:755][518]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerCharCAD8A8024B990739C3ECFDA805179E95.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.28.15:792][518]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.28.15:792][518]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.28.18:412][689]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.28.18:417][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.28.18:417][689]PIE: New page: PIE session: TestMap (May 10, 2021, 4:28:18 PM)
+[2021.05.11-06.28.18:417][689]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.28.18:419][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001781s)
+[2021.05.11-06.28.18:419][689]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.28.18:419][689]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2021.05.11-06.28.18:419][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.002751s)
+[2021.05.11-06.28.18:451][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.05.11-06.28.18:452][689]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.05.11-06.28.18:452][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.28.18:452][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.28.18:452][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.28.18:452][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.28.18:452][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.28.18:452][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.28.18:452][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.28.18:452][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.28.18:452][689]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.28.18:452][689]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.28.18:456][689]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.28.18:456][689]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.28.18:456][689]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.28.18:456][689]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.28.18:456][689]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.28.18:456][689]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.28.18:456][689]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.28.18:456][689]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.28.18:609][689]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.28.18:610][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.28.18:610][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.28.18:610][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.28.18:610][689]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.28.18:610][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.28.18:610][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.28.18:623][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.28.18:623][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.28.18:623][689]LogInit: FAudioDevice initialized.
+[2021.05.11-06.28.18:623][689]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestMap'.
+[2021.05.11-06.28.18:628][689]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.28.18:629][689]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.28.18
+[2021.05.11-06.28.18:629][689]LogWorld: Bringing up level for play took: 0.000414
+[2021.05.11-06.28.18:629][689]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.05.11-06.28.18:631][689]PIE: Server logged in
+[2021.05.11-06.28.18:632][689]PIE: Play in editor total start time 0.216 seconds.
+[2021.05.11-06.28.23:296][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.28.23:296][243]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.28.23:296][243]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.28.23:296][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.28.23:305][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.28.23:318][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.28.23:346][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.28.23:347][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.28.23:348][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.28.23:362][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.28.23:366][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.11-06.28.23:387][244]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.05.11-06.28.41:459][261]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:459][261]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:467][262]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:468][262]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:468][262]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:476][263]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:476][263]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:476][263]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:484][264]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:484][264]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:484][264]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:492][265]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:492][265]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:492][265]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:500][266]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:500][266]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:500][266]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:509][267]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:509][267]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:509][267]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:517][268]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:517][268]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:517][268]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:525][269]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:526][269]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:526][269]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:534][270]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:534][270]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:534][270]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:542][271]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:542][271]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:542][271]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:550][272]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:551][272]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:551][272]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:559][273]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:559][273]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:559][273]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:567][274]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:567][274]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:567][274]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:575][275]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:576][275]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:576][275]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:584][276]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:584][276]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:584][276]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:592][277]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:592][277]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:592][277]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:601][278]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:601][278]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:601][278]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:609][279]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:609][279]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:609][279]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:618][280]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:618][280]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:618][280]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:625][281]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:625][281]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:625][281]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:633][282]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:634][282]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:634][282]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:642][283]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:642][283]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:642][283]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:650][284]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:651][284]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:651][284]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:659][285]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:659][285]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:659][285]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:667][286]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:667][286]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:667][286]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:676][287]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:676][287]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:676][287]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:683][288]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:684][288]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:684][288]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:692][289]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:692][289]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:692][289]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:700][290]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:700][290]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:700][290]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:709][291]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:709][291]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:710][291]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:717][292]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:717][292]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:717][292]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:725][293]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:726][293]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:726][293]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:734][294]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:734][294]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:734][294]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:742][295]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:742][295]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:742][295]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:750][296]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:750][296]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:750][296]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:759][297]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:759][297]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:759][297]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:767][298]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:767][298]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:767][298]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:776][299]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:776][299]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:776][299]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:784][300]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:784][300]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:784][300]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:792][301]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:792][301]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:792][301]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:801][302]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:801][302]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:801][302]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:808][303]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:809][303]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:809][303]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:817][304]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:817][304]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:817][304]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:825][305]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:825][305]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:826][305]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:834][306]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:834][306]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:834][306]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:842][307]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:842][307]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:842][307]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:851][308]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:851][308]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:851][308]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:859][309]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:859][309]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:859][309]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:867][310]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:867][310]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:867][310]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:875][311]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:875][311]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:875][311]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:884][312]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:884][312]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:884][312]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:892][313]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:892][313]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:892][313]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:900][314]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:901][314]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:901][314]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:909][315]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:909][315]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:909][315]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:917][316]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:917][316]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:917][316]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:926][317]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:926][317]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:926][317]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:934][318]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:934][318]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:934][318]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:942][319]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:942][319]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:942][319]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:950][320]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:950][320]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:950][320]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:959][321]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:959][321]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:959][321]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:967][322]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:967][322]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:967][322]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:975][323]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:976][323]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:976][323]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:984][324]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:984][324]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:984][324]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:992][325]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:992][325]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.41:992][325]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:000][326]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:000][326]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:000][326]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:008][327]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:009][327]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:009][327]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:017][328]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:017][328]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:017][328]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:025][329]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:025][329]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:026][329]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:034][330]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:034][330]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:034][330]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:042][331]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:042][331]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:042][331]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:051][332]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:051][332]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:051][332]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:059][333]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:059][333]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:059][333]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:067][334]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:067][334]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:067][334]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:075][335]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:075][335]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:075][335]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:084][336]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:084][336]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:084][336]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:092][337]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:092][337]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:092][337]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:101][338]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:101][338]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:101][338]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:109][339]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:109][339]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:109][339]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:117][340]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:117][340]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:117][340]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:125][341]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:125][341]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:126][341]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:134][342]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:134][342]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:134][342]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:142][343]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:142][343]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:142][343]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:150][344]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:151][344]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:151][344]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:159][345]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:159][345]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:159][345]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:167][346]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:167][346]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:167][346]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:176][347]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:176][347]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:176][347]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:184][348]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:184][348]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:184][348]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:192][349]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:192][349]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:192][349]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:200][350]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:200][350]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:201][350]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:209][351]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:209][351]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:209][351]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:217][352]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:217][352]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:217][352]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:226][353]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.42:226][353]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.EraserBullet_C_0.Temp Rectangular Prism has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.05.11-06.28.43:994][517]BlueprintLog: New page: Compile EraserBullet
+[2021.05.11-06.28.44:059][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.05.11-06.28.44:729][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.11-06.28.44:737][563]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBulletA5B75AC740149B02B4886FBD3C43CBD6.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.11-06.28.44:758][563]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.11-06.28.44:758][563]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.11-06.28.47:424][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.11-06.28.47:456][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.05.11-06.28.47:463][766]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap1C59F47745ED7EE1908A58AE28906795.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.11-06.28.47:467][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.11-06.28.47:479][766]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataFB09EE17460F8886CF182392D91F36A8.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.11-06.28.47:500][766]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.11-06.28.47:500][766]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.11-06.28.47:500][766]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.11-06.28.48:619][829]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.28.48:623][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.28.48:623][829]PIE: New page: PIE session: TestMap (May 10, 2021, 4:28:48 PM)
+[2021.05.11-06.28.48:645][829]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.28.48:647][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001865s)
+[2021.05.11-06.28.48:648][829]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.28.48:648][829]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2021.05.11-06.28.48:648][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003226s)
+[2021.05.11-06.28.48:679][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.05.11-06.28.48:680][829]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.05.11-06.28.48:680][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.28.48:680][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.28.48:680][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.28.48:680][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.28.48:680][829]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.28.48:680][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.28.48:680][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.28.48:680][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.28.48:681][829]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.28.48:681][829]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.28.48:684][829]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.28.48:684][829]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.28.48:684][829]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.28.48:684][829]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.28.48:684][829]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.28.48:684][829]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.28.48:684][829]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.28.48:684][829]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.28.48:839][829]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.28.48:840][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.28.48:840][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.28.48:840][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.28.48:840][829]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.28.48:840][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.28.48:840][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.28.48:853][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.28.48:853][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.28.48:853][829]LogInit: FAudioDevice initialized.
+[2021.05.11-06.28.48:853][829]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestMap'.
+[2021.05.11-06.28.48:858][829]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.28.48:859][829]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.28.48
+[2021.05.11-06.28.48:860][829]LogWorld: Bringing up level for play took: 0.000405
+[2021.05.11-06.28.48:860][829]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.05.11-06.28.48:862][829]PIE: Server logged in
+[2021.05.11-06.28.48:862][829]PIE: Play in editor total start time 0.24 seconds.
+[2021.05.11-06.29.00:075][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.29.00:075][168]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.29.00:076][168]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.29.00:076][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.29.00:080][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.29.00:095][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.29.00:124][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.29.00:124][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.29.00:125][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.29.00:144][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.05.11-06.29.00:168][169]Cmd: SELECT NONE
+[2021.05.11-06.29.00:169][169]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.05.11-06.29.03:791][556]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.29.03:796][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.29.03:796][556]PIE: New page: PIE session: TestMap (May 10, 2021, 4:29:03 PM)
+[2021.05.11-06.29.03:796][556]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.29.03:798][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001932s)
+[2021.05.11-06.29.03:799][556]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.29.03:799][556]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2021.05.11-06.29.03:799][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.002921s)
+[2021.05.11-06.29.03:829][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.05.11-06.29.03:830][556]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.05.11-06.29.03:830][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.29.03:830][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.29.03:830][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.29.03:830][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.29.03:830][556]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.29.03:830][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.29.03:830][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.29.03:830][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.29.03:830][556]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.29.03:830][556]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.29.03:834][556]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.29.03:834][556]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.29.03:834][556]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.29.03:834][556]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.29.03:834][556]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.29.03:834][556]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.29.03:834][556]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.29.03:834][556]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.29.03:984][556]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.29.03:984][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.29.03:984][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.29.03:984][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.29.03:984][556]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.29.03:984][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.29.03:984][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.29.03:998][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.29.03:998][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.29.03:998][556]LogInit: FAudioDevice initialized.
+[2021.05.11-06.29.03:998][556]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestMap'.
+[2021.05.11-06.29.04:003][556]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.29.04:004][556]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.29.04
+[2021.05.11-06.29.04:004][556]LogWorld: Bringing up level for play took: 0.000417
+[2021.05.11-06.29.04:004][556]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.05.11-06.29.04:006][556]PIE: Server logged in
+[2021.05.11-06.29.04:007][556]PIE: Play in editor total start time 0.212 seconds.
+[2021.05.11-06.29.13:645][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.29.13:645][686]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.29.13:645][686]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.29.13:646][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.29.13:656][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.29.13:660][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.29.13:688][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.29.13:688][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.29.13:689][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.29.13:709][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.05.11-06.29.13:728][687]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.05.11-06.29.25:518][645]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.29.25:628][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.11-06.29.26:211][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.29.26:240][680]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar16B2589B44CC5960790B24A6C43C1D64.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.29.26:262][680]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.29.26:262][680]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.29.27:602][780]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.29.27:606][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.29.27:606][780]PIE: New page: PIE session: TestMap (May 10, 2021, 4:29:27 PM)
+[2021.05.11-06.29.27:644][780]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.29.27:646][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001819s)
+[2021.05.11-06.29.27:647][780]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.29.27:647][780]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2021.05.11-06.29.27:647][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003182s)
+[2021.05.11-06.29.27:679][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.05.11-06.29.27:679][780]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.05.11-06.29.27:679][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.29.27:679][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.29.27:679][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.29.27:679][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.29.27:679][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.29.27:679][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.29.27:679][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.29.27:679][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.29.27:680][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.29.27:680][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.29.27:683][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.29.27:683][780]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.29.27:683][780]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.29.27:683][780]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.29.27:683][780]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.29.27:683][780]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.29.27:683][780]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.29.27:683][780]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.29.27:836][780]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.29.27:836][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.29.27:837][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.29.27:837][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.29.27:837][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.29.27:837][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.29.27:837][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.29.27:851][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.29.27:851][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.29.27:851][780]LogInit: FAudioDevice initialized.
+[2021.05.11-06.29.27:851][780]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestMap'.
+[2021.05.11-06.29.27:856][780]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.29.27:857][780]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.29.27
+[2021.05.11-06.29.27:857][780]LogWorld: Bringing up level for play took: 0.000390
+[2021.05.11-06.29.27:857][780]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.05.11-06.29.27:859][780]PIE: Server logged in
+[2021.05.11-06.29.27:860][780]PIE: Play in editor total start time 0.255 seconds.
+[2021.05.11-06.29.43:425][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.29.43:425][642]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.29.43:425][642]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.29.43:425][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.29.43:432][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.29.43:437][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.29.43:466][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.29.43:466][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.29.43:467][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.29.43:481][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.29.43:484][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.05.11-06.29.43:505][643]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.05.11-06.30.14:186][465]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.30.14:242][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.05.11-06.30.14:835][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.30.14:864][496]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar8252F1B04F3EF545EF5B7BA3BD53063D.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.30.14:900][496]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.30.14:900][496]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.30.17:118][651]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.30.17:122][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.30.17:122][651]PIE: New page: PIE session: TestMap (May 10, 2021, 4:30:17 PM)
+[2021.05.11-06.30.17:123][651]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.30.17:125][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002048s)
+[2021.05.11-06.30.17:126][651]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.30.17:126][651]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.05.11-06.30.17:126][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003194s)
+[2021.05.11-06.30.17:156][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.05.11-06.30.17:157][651]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.05.11-06.30.17:157][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.30.17:157][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.30.17:157][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.30.17:157][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.30.17:157][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.30.17:157][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.30.17:157][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.30.17:157][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.30.17:157][651]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.30.17:157][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.30.17:161][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.30.17:161][651]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.30.17:161][651]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.30.17:161][651]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.30.17:161][651]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.30.17:161][651]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.30.17:161][651]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.30.17:161][651]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.30.17:314][651]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.30.17:314][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.30.17:314][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.30.17:314][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.30.17:315][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.30.17:315][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.30.17:315][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.30.17:328][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.30.17:328][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.30.17:328][651]LogInit: FAudioDevice initialized.
+[2021.05.11-06.30.17:328][651]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestMap'.
+[2021.05.11-06.30.17:333][651]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.30.17:334][651]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.30.17
+[2021.05.11-06.30.17:334][651]LogWorld: Bringing up level for play took: 0.000474
+[2021.05.11-06.30.17:334][651]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.05.11-06.30.17:336][651]PIE: Server logged in
+[2021.05.11-06.30.17:337][651]PIE: Play in editor total start time 0.216 seconds.
+[2021.05.11-06.30.27:035][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.30.27:035][809]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.30.27:035][809]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.30.27:036][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.30.27:045][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.30.27:049][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.30.27:077][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.30.27:077][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.30.27:078][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.30.27:093][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.30.27:096][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.11-06.30.27:115][810]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.05.11-06.31.46:324][649]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.31.46:381][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.05.11-06.31.47:800][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.31.47:831][721]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar43DC3BC54860B480C83AFE9FD8BA3ABE.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.31.47:854][721]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.31.47:854][721]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.31.51:087][991]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.31.51:092][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.31.51:092][991]PIE: New page: PIE session: TestMap (May 10, 2021, 4:31:51 PM)
+[2021.05.11-06.31.51:092][991]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.31.51:094][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001879s)
+[2021.05.11-06.31.51:095][991]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.31.51:095][991]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2021.05.11-06.31.51:095][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.002908s)
+[2021.05.11-06.31.51:126][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.05.11-06.31.51:126][991]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.05.11-06.31.51:126][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.31.51:126][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.31.51:126][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.31.51:126][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.31.51:126][991]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.31.51:126][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.31.51:126][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.31.51:126][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.31.51:127][991]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.31.51:127][991]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.31.51:130][991]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.31.51:130][991]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.31.51:130][991]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.31.51:130][991]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.31.51:130][991]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.31.51:130][991]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.31.51:130][991]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.31.51:130][991]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.31.51:270][991]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.31.51:270][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.31.51:270][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.31.51:270][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.31.51:270][991]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.31.51:270][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.31.51:270][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.31.51:284][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.31.51:284][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.31.51:284][991]LogInit: FAudioDevice initialized.
+[2021.05.11-06.31.51:284][991]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestMap'.
+[2021.05.11-06.31.51:289][991]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.31.51:290][991]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.31.51
+[2021.05.11-06.31.51:290][991]LogWorld: Bringing up level for play took: 0.000420
+[2021.05.11-06.31.51:290][991]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.05.11-06.31.51:292][991]PIE: Server logged in
+[2021.05.11-06.31.51:293][991]PIE: Play in editor total start time 0.202 seconds.
+[2021.05.11-06.32.15:965][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.32.15:965][938]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.32.15:965][938]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.32.15:966][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.32.15:972][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.32.15:977][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.32.16:006][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.32.16:006][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.32.16:007][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.32.16:022][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.32.16:025][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.11-06.32.16:046][939]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.05.11-06.32.40:743][934]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.32.40:801][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.05.11-06.32.41:520][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.32.41:551][978]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar1A42208942305E0CDC2F31AC1C0BB779.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.32.41:573][978]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.32.41:574][978]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.32.43:155][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.32.43:160][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.32.43:160][ 85]PIE: New page: PIE session: TestMap (May 10, 2021, 4:32:43 PM)
+[2021.05.11-06.32.43:184][ 85]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.32.43:186][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001897s)
+[2021.05.11-06.32.43:187][ 85]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.32.43:187][ 85]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2021.05.11-06.32.43:187][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003056s)
+[2021.05.11-06.32.43:218][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.05.11-06.32.43:219][ 85]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.05.11-06.32.43:219][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.32.43:219][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.32.43:219][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.32.43:219][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.32.43:219][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.32.43:219][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.32.43:219][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.32.43:219][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.32.43:219][ 85]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.32.43:219][ 85]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.32.43:223][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.32.43:223][ 85]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.32.43:223][ 85]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.32.43:223][ 85]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.32.43:223][ 85]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.32.43:223][ 85]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.32.43:223][ 85]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.32.43:223][ 85]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.32.43:377][ 85]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.32.43:377][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.32.43:377][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.32.43:377][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.32.43:378][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.32.43:378][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.32.43:378][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.32.43:391][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.32.43:391][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.32.43:391][ 85]LogInit: FAudioDevice initialized.
+[2021.05.11-06.32.43:391][ 85]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestMap'.
+[2021.05.11-06.32.43:400][ 85]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.32.43:401][ 85]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.32.43
+[2021.05.11-06.32.43:401][ 85]LogWorld: Bringing up level for play took: 0.000481
+[2021.05.11-06.32.43:401][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.05.11-06.32.43:404][ 85]PIE: Server logged in
+[2021.05.11-06.32.43:404][ 85]PIE: Play in editor total start time 0.245 seconds.
+[2021.05.11-06.32.54:145][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.32.54:145][367]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.32.54:145][367]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.32.54:145][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.32.54:155][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.32.54:160][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.32.54:187][367]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.32.54:187][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.32.54:188][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.32.54:203][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.32.54:206][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.11-06.32.54:229][368]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.05.11-06.33.18:965][952]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.33.19:023][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.05.11-06.33.19:719][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.33.19:748][989]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar7722A60E4870269215ACBD99791CBFA8.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.33.19:810][989]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.33.19:810][989]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.33.21:016][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.33.21:022][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.33.21:022][ 98]PIE: New page: PIE session: TestMap (May 10, 2021, 4:33:21 PM)
+[2021.05.11-06.33.21:054][ 98]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.33.21:056][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001862s)
+[2021.05.11-06.33.21:057][ 98]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.33.21:057][ 98]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2021.05.11-06.33.21:057][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.002911s)
+[2021.05.11-06.33.21:089][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.05.11-06.33.21:089][ 98]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.05.11-06.33.21:089][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.33.21:089][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.33.21:089][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.33.21:089][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.33.21:089][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.33.21:089][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.33.21:089][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.33.21:089][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.33.21:090][ 98]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.33.21:090][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.33.21:094][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.33.21:094][ 98]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.33.21:094][ 98]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.33.21:094][ 98]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.33.21:094][ 98]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.33.21:094][ 98]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.33.21:094][ 98]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.33.21:094][ 98]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.33.21:233][ 98]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.33.21:234][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.33.21:234][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.33.21:234][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.33.21:234][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.33.21:234][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.33.21:234][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.33.21:247][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.33.21:247][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.33.21:247][ 98]LogInit: FAudioDevice initialized.
+[2021.05.11-06.33.21:247][ 98]LogAudio: Display: Audio Device (ID: 23) registered with world 'TestMap'.
+[2021.05.11-06.33.21:256][ 98]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.33.21:257][ 98]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.33.21
+[2021.05.11-06.33.21:257][ 98]LogWorld: Bringing up level for play took: 0.000422
+[2021.05.11-06.33.21:257][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.05.11-06.33.21:259][ 98]PIE: Server logged in
+[2021.05.11-06.33.21:260][ 98]PIE: Play in editor total start time 0.238 seconds.
+[2021.05.11-06.33.26:245][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.33.26:245][689]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.33.26:245][689]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.33.26:245][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.33.26:256][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.33.26:261][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.33.26:289][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.33.26:289][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.33.26:290][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.33.26:306][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.33.26:309][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.11-06.33.26:329][690]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.05.11-06.37.38:561][263]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.37.38:619][263]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.05.11-06.39.36:215][961]LogSlate: Window 'Delete Variable' being destroyed
+[2021.05.11-06.39.40:968][178]LogSlate: Window 'Delete Variable' being destroyed
+[2021.05.11-06.39.49:341][959]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.39.49:401][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.05.11-06.39.50:247][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.39.50:275][  2]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar5767777948A2CB6E50B7CCB338554283.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.39.50:308][  2]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.39.50:308][  2]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.40.25:129][306]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.40.25:204][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.05.11-06.40.25:710][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.40.25:737][332]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar0AD37DE74A8A44E897A56C8010FCBFC4.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.40.25:760][332]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.40.25:760][332]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.40.27:151][422]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.40.27:155][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.40.27:155][422]PIE: New page: PIE session: TestMap (May 10, 2021, 4:40:27 PM)
+[2021.05.11-06.40.27:184][422]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.40.27:186][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001959s)
+[2021.05.11-06.40.27:187][422]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.40.27:187][422]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2021.05.11-06.40.27:188][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003248s)
+[2021.05.11-06.40.27:219][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.05.11-06.40.27:221][422]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.05.11-06.40.27:221][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.40.27:221][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.40.27:221][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.40.27:221][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.40.27:221][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.40.27:221][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.40.27:221][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.40.27:221][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.40.27:221][422]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.40.27:221][422]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.40.27:228][422]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.40.27:228][422]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.40.27:228][422]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.40.27:228][422]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.40.27:229][422]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.40.27:229][422]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.40.27:229][422]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.40.27:229][422]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.40.27:390][422]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.40.27:391][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.40.27:391][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.40.27:391][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.40.27:391][422]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.40.27:391][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.40.27:391][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.40.27:405][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.40.27:405][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.40.27:405][422]LogInit: FAudioDevice initialized.
+[2021.05.11-06.40.27:405][422]LogAudio: Display: Audio Device (ID: 24) registered with world 'TestMap'.
+[2021.05.11-06.40.27:412][422]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.40.27:413][422]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.40.27
+[2021.05.11-06.40.27:413][422]LogWorld: Bringing up level for play took: 0.000438
+[2021.05.11-06.40.27:414][422]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.05.11-06.40.27:416][422]PIE: Server logged in
+[2021.05.11-06.40.27:417][422]PIE: Play in editor total start time 0.262 seconds.
+[2021.05.11-06.40.32:635][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.40.32:635][ 30]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.40.32:636][ 30]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.40.32:636][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.40.32:640][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.40.32:645][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.40.32:676][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.40.32:676][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.40.32:677][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.40.32:692][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.40.32:695][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.05.11-06.40.32:715][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.05.11-06.40.34:195][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.11-06.40.34:224][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.05.11-06.40.34:230][111]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap5D99061545B58137820A33A4904ED1C8.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.11-06.40.34:235][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.11-06.40.34:246][111]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData480BBD0F47FEC823A1DB8490CD55ED0C.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.11-06.40.34:268][111]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.11-06.40.34:269][111]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.11-06.40.34:269][111]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.11-06.42.59:399][143]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.42.59:454][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.05.11-06.43.00:386][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.43.00:413][204]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar0CD3205D43B949D56C461888938038FE.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.43.00:451][204]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.43.00:451][204]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.43.01:938][311]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.43.01:942][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.43.01:942][311]PIE: New page: PIE session: TestMap (May 10, 2021, 4:43:01 PM)
+[2021.05.11-06.43.01:942][311]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.43.01:944][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001927s)
+[2021.05.11-06.43.01:945][311]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.43.01:945][311]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2021.05.11-06.43.01:945][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003085s)
+[2021.05.11-06.43.01:976][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.05.11-06.43.01:976][311]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.05.11-06.43.01:977][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.43.01:977][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.43.01:977][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.43.01:977][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.43.01:977][311]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.43.01:977][311]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.43.01:977][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.43.01:977][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.43.01:977][311]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.43.01:977][311]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.43.01:981][311]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.43.01:981][311]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.43.01:981][311]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.43.01:981][311]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.43.01:981][311]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.43.01:981][311]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.43.01:981][311]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.43.01:981][311]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.43.02:138][311]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.43.02:138][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.43.02:138][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.43.02:138][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.43.02:139][311]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.43.02:139][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.43.02:139][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.43.02:152][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.43.02:152][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.43.02:152][311]LogInit: FAudioDevice initialized.
+[2021.05.11-06.43.02:152][311]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMap'.
+[2021.05.11-06.43.02:157][311]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.43.02:158][311]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.43.02
+[2021.05.11-06.43.02:158][311]LogWorld: Bringing up level for play took: 0.000423
+[2021.05.11-06.43.02:158][311]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.05.11-06.43.02:160][311]PIE: Server logged in
+[2021.05.11-06.43.02:161][311]PIE: Play in editor total start time 0.22 seconds.
+[2021.05.11-06.43.06:715][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.43.06:715][852]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.43.06:715][852]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.43.06:716][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.43.06:720][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.43.06:724][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.43.06:751][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.43.06:752][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.43.06:753][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.43.06:768][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.43.06:771][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.05.11-06.43.06:788][853]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.05.11-06.43.17:714][673]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.17:715][673]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_12 via property Sphere, but TRASH_StaticMeshComponent_12 is pending kill
+	PlayerChar_C /Engine/Transient.World_3:PersistentLevel.PlayerChar_C_22
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.19:612][817]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.19:614][817]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_12 via property Sphere, but TRASH_StaticMeshComponent_12 is pending kill
+	PlayerChar_C /Engine/Transient.World_3:PersistentLevel.PlayerChar_C_22
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.22:767][ 27]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:695][591]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:720][594]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:729][595]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:737][596]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:745][597]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:755][598]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:762][599]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:778][601]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:787][602]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:796][603]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:804][604]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:812][605]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.27:820][606]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_18 via property Sphere, but TRASH_StaticMeshComponent_18 is pending kill
+	PlayerChar_C /Engine/Transient.World_2:PersistentLevel.PlayerChar_C_0
+	Function /Game/Characters/PlayerChar.PlayerChar_C:UserConstructionScript:000D
+[2021.05.11-06.43.29:702][805]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.43.29:761][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.05.11-06.43.30:360][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.43.30:388][833]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerCharAD2165C144F1B111E2A77A9E4F2D991D.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.43.30:427][833]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.43.30:427][833]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.43.32:458][965]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.43.32:461][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.43.32:461][965]PIE: New page: PIE session: TestMap (May 10, 2021, 4:43:32 PM)
+[2021.05.11-06.43.32:484][965]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.43.32:486][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001810s)
+[2021.05.11-06.43.32:487][965]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.43.32:487][965]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2021.05.11-06.43.32:487][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.002870s)
+[2021.05.11-06.43.32:518][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.05.11-06.43.32:519][965]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.05.11-06.43.32:519][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.43.32:519][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.43.32:519][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.43.32:519][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.43.32:519][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.43.32:519][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.43.32:519][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.43.32:519][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.43.32:519][965]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.43.32:519][965]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.43.32:523][965]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.43.32:523][965]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.43.32:523][965]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.43.32:523][965]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.43.32:523][965]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.43.32:523][965]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.43.32:523][965]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.43.32:523][965]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.43.32:676][965]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.43.32:676][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.43.32:676][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.43.32:676][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.43.32:677][965]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.43.32:677][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.43.32:677][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.43.32:690][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.43.32:690][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.43.32:690][965]LogInit: FAudioDevice initialized.
+[2021.05.11-06.43.32:690][965]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestMap'.
+[2021.05.11-06.43.32:698][965]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.43.32:699][965]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.43.32
+[2021.05.11-06.43.32:699][965]LogWorld: Bringing up level for play took: 0.000426
+[2021.05.11-06.43.32:699][965]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.05.11-06.43.32:701][965]PIE: Server logged in
+[2021.05.11-06.43.32:702][965]PIE: Play in editor total start time 0.242 seconds.
+[2021.05.11-06.43.38:025][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.43.38:025][598]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.43.38:025][598]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.43.38:026][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.43.38:033][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.43.38:038][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.43.38:067][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.43.38:067][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.43.38:068][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.43.38:083][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.43.38:087][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.11-06.43.38:173][599]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.05.11-06.43.39:465][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.11-06.43.39:496][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.05.11-06.43.39:501][680]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap420E7F394D9ECFDE48E2ED947ECF23BD.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.11-06.43.39:505][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.11-06.43.39:529][680]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData39F0EFE94F4EC3EAEAD7168489B94DD7.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.11-06.43.39:550][680]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.11-06.43.39:550][680]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.11-06.43.39:550][680]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.11-06.43.58:578][719]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.43.58:578][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.45.50:477][ 62]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.11-06.46.00:130][873]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.46.00:136][873]LogBlueprint: Error: [AssetLog] B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\GBErased\Content\Characters\PlayerChar.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To PlayerChar  to imply a specific type.
+[2021.05.11-06.46.00:136][873]LogBlueprint: Error: [AssetLog] B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\GBErased\Content\Characters\PlayerChar.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.05.11-06.46.00:187][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.05.11-06.47.32:973][685]BlueprintLog: New page: Compile PlayerChar
+[2021.05.11-06.47.33:027][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.05.11-06.47.37:537][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.11-06.47.37:567][ 33]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar84AAB7BB404B35EB82382EA02787A4D4.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.11-06.47.37:589][ 33]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.11-06.47.37:589][ 33]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.11-06.47.40:353][236]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.11-06.47.40:357][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.11-06.47.40:357][236]PIE: New page: PIE session: TestMap (May 10, 2021, 4:47:40 PM)
+[2021.05.11-06.47.40:357][236]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.47.40:359][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001870s)
+[2021.05.11-06.47.40:360][236]LogAIModule: Creating AISystem for world TestMap
+[2021.05.11-06.47.40:360][236]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2021.05.11-06.47.40:360][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003060s)
+[2021.05.11-06.47.40:389][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.05.11-06.47.40:390][236]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.05.11-06.47.40:390][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.11-06.47.40:390][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.11-06.47.40:390][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.11-06.47.40:390][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.11-06.47.40:390][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.11-06.47.40:390][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.11-06.47.40:390][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.11-06.47.40:390][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.11-06.47.40:390][236]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.11-06.47.40:390][236]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.11-06.47.40:394][236]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.11-06.47.40:394][236]LogAudioMixer: Display: 1: FrontRight
+[2021.05.11-06.47.40:394][236]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.11-06.47.40:394][236]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.11-06.47.40:394][236]LogAudioMixer: Display: 4: BackLeft
+[2021.05.11-06.47.40:394][236]LogAudioMixer: Display: 5: BackRight
+[2021.05.11-06.47.40:394][236]LogAudioMixer: Display: 6: SideLeft
+[2021.05.11-06.47.40:394][236]LogAudioMixer: Display: 7: SideRight
+[2021.05.11-06.47.40:546][236]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.11-06.47.40:546][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.11-06.47.40:546][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.11-06.47.40:546][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.11-06.47.40:547][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.11-06.47.40:547][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.11-06.47.40:547][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.11-06.47.40:560][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.11-06.47.40:560][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.11-06.47.40:560][236]LogInit: FAudioDevice initialized.
+[2021.05.11-06.47.40:560][236]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestMap'.
+[2021.05.11-06.47.40:565][236]LogLoad: Game class is 'TestGM_C'
+[2021.05.11-06.47.40:565][236]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.10-23.47.40
+[2021.05.11-06.47.40:565][236]LogWorld: Bringing up level for play took: 0.000448
+[2021.05.11-06.47.40:566][236]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.05.11-06.47.40:568][236]PIE: Server logged in
+[2021.05.11-06.47.40:569][236]PIE: Play in editor total start time 0.212 seconds.
+[2021.05.11-06.47.59:506][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.47.59:506][489]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.11-06.47.59:506][489]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.11-06.47.59:506][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.47.59:515][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.11-06.47.59:520][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.11-06.47.59:545][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.11-06.47.59:545][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.47.59:546][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.11-06.47.59:560][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.11-06.47.59:564][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.05.11-06.47.59:585][490]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.05.11-06.48.00:407][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.11-06.48.00:436][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.05.11-06.48.00:442][560]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap810D09864FD58C0F757B118AD23989E4.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.11-06.48.00:446][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.11-06.48.00:457][560]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData2FBCA27F4241D3D0FBA4C790AA7C1527.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.11-06.48.00:480][560]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.11-06.48.00:480][560]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.11-06.48.00:480][560]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
