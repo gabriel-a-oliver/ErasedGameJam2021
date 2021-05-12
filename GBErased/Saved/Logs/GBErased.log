@@ -7167,3 +7167,17 @@ Script Stack (0 frames):
 [2021.05.12-07.11.06:367][655]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.12-07.11.06:367][655]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
 [2021.05.12-07.11.06:367][655]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.12-07.13.01:445][198]BlueprintLog: New page: Compile Enemy
+[2021.05.12-07.13.01:509][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.05.12-07.13.02:188][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy.uasset" SILENT=true
+[2021.05.12-07.13.02:215][244]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy61875EBB4E607724568CD2BDC7DC3261.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy.uasset'
+[2021.05.12-07.13.02:250][244]AssetCheck: New page: Asset Save: Enemy
+[2021.05.12-07.13.02:250][244]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy.Enemy
+[2021.05.12-07.13.03:122][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.12-07.13.03:152][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.05.12-07.13.03:158][297]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap44CBDACB4EDFA422584D6EA1A8DA85FB.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.12-07.13.03:164][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.12-07.13.03:175][297]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData33F4EDFB4BAAADE3AC692AB14460A91D.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.12-07.13.03:197][297]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.12-07.13.03:197][297]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.12-07.13.03:197][297]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
