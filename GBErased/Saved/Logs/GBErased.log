@@ -1148,3 +1148,1060 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.13-06.44.35:880][179]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
 [2021.05.13-06.44.36:228][208]BlueprintLog: New page: Compile EraserBullet
 [2021.05.13-06.44.36:281][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.05.13-06.45.07:679][650]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.13-06.45.07:695][650]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.05.13-06.45.07:707][650]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.05.13-06.45.10:052][932]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.05.13-06.45.10:056][932]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.05.13-06.45.11:266][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.13-06.45.12:333][ 74]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.13-06.45.12:481][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.05.13-06.45.13:257][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.13-06.45.14:167][138]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.13-06.45.14:251][138]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Killbox.Killbox
+[2021.05.13-06.45.14:779][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.05.13-06.45.14:830][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.05.13-06.45.17:738][235]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.13-06.45.17:759][235]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.05.13-06.45.17:771][235]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.05.13-06.45.23:566][931]LogContentBrowser: Attempting asset rename: NewBlueprint -> Killbox
+[2021.05.13-06.45.23:569][931]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.05.13-06.45.24:452][999]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Killbox.Killbox
+[2021.05.13-06.47.25:790][344]BlueprintLog: New page: Compile Killbox
+[2021.05.13-06.47.25:850][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.05.13-06.47.26:948][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Killbox" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset" SILENT=true
+[2021.05.13-06.47.26:956][416]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Killbox21C08ECA46616C6CF9402D8CD9834428.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset'
+[2021.05.13-06.47.26:987][416]AssetCheck: New page: Asset Save: Killbox
+[2021.05.13-06.47.26:987][416]LogContentValidation: Display: Validating Blueprint /Game/Models/Killbox.Killbox
+[2021.05.13-06.47.40:243][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-06.47.40:275][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.05.13-06.47.40:282][690]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap9704291F40D8017F0742A5ABB8F38015.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-06.47.40:287][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-06.47.40:299][690]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData96DE66684A5BB8D04E315CBE6A4DCE21.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-06.47.40:322][690]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-06.47.40:322][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-06.47.40:322][690]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-06.47.46:099][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-06.47.46:105][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.13-06.47.46:105][ 49]PIE: New page: PIE session: TestMap (May 12, 2021, 4:47:46 PM)
+[2021.05.13-06.47.46:130][ 49]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-06.47.46:132][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002042s)
+[2021.05.13-06.47.46:133][ 49]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-06.47.46:133][ 49]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2021.05.13-06.47.46:133][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003212s)
+[2021.05.13-06.47.46:163][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.13-06.47.46:163][ 49]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.13-06.47.46:163][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-06.47.46:163][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-06.47.46:163][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-06.47.46:163][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-06.47.46:163][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-06.47.46:164][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-06.47.46:164][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-06.47.46:164][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-06.47.46:164][ 49]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-06.47.46:164][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-06.47.46:168][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-06.47.46:168][ 49]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-06.47.46:168][ 49]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-06.47.46:168][ 49]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-06.47.46:168][ 49]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-06.47.46:168][ 49]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-06.47.46:168][ 49]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-06.47.46:168][ 49]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-06.47.46:322][ 49]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-06.47.46:322][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-06.47.46:322][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-06.47.46:323][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-06.47.46:323][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-06.47.46:323][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-06.47.46:323][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-06.47.46:336][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-06.47.46:336][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-06.47.46:337][ 49]LogInit: FAudioDevice initialized.
+[2021.05.13-06.47.46:337][ 49]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2021.05.13-06.47.46:342][ 49]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-06.47.46:343][ 49]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.12-23.47.46
+[2021.05.13-06.47.46:343][ 49]LogWorld: Bringing up level for play took: 0.000594
+[2021.05.13-06.47.46:343][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.05.13-06.47.46:345][ 49]PIE: Server logged in
+[2021.05.13-06.47.46:346][ 49]PIE: Play in editor total start time 0.243 seconds.
+[2021.05.13-06.47.51:091][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-06.47.51:091][612]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-06.47.51:091][612]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-06.47.51:091][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-06.47.51:103][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-06.47.51:112][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-06.47.51:140][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-06.47.51:140][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-06.47.51:141][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-06.47.51:159][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.05.13-06.47.51:284][613]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.05.13-06.48.06:540][814]BlueprintLog: New page: Compile Killbox
+[2021.05.13-06.48.06:594][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.05.13-06.48.07:356][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Killbox" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset" SILENT=true
+[2021.05.13-06.48.07:364][857]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Killbox184C057C45D3E92504526B93BF5EC42E.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset'
+[2021.05.13-06.48.07:401][857]AssetCheck: New page: Asset Save: Killbox
+[2021.05.13-06.48.07:401][857]LogContentValidation: Display: Validating Blueprint /Game/Models/Killbox.Killbox
+[2021.05.13-06.48.08:383][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-06.48.08:415][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.13-06.48.08:427][923]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap876BD40941536B98BB33C694E405F8DA.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-06.48.08:433][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-06.48.08:456][923]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataEC46317042CD84D141D6D09188285816.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-06.48.08:482][923]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-06.48.08:482][923]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-06.48.08:482][923]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-06.48.08:953][954]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-06.48.08:958][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.13-06.48.08:958][954]PIE: New page: PIE session: TestMap (May 12, 2021, 4:48:08 PM)
+[2021.05.13-06.48.08:958][954]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-06.48.08:960][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001986s)
+[2021.05.13-06.48.08:961][954]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-06.48.08:961][954]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2021.05.13-06.48.08:961][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.002962s)
+[2021.05.13-06.48.08:991][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.05.13-06.48.08:991][954]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.13-06.48.08:992][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-06.48.08:992][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-06.48.08:992][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-06.48.08:992][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-06.48.08:992][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-06.48.08:992][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-06.48.08:992][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-06.48.08:992][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-06.48.08:992][954]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-06.48.08:992][954]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-06.48.08:996][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-06.48.08:996][954]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-06.48.08:996][954]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-06.48.08:996][954]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-06.48.08:996][954]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-06.48.08:996][954]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-06.48.08:996][954]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-06.48.08:996][954]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-06.48.09:146][954]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-06.48.09:146][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-06.48.09:146][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-06.48.09:146][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-06.48.09:146][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-06.48.09:146][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-06.48.09:146][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-06.48.09:160][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-06.48.09:160][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-06.48.09:160][954]LogInit: FAudioDevice initialized.
+[2021.05.13-06.48.09:160][954]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2021.05.13-06.48.09:167][954]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-06.48.09:168][954]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.12-23.48.09
+[2021.05.13-06.48.09:169][954]LogWorld: Bringing up level for play took: 0.000586
+[2021.05.13-06.48.09:169][954]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.05.13-06.48.09:172][954]PIE: Server logged in
+[2021.05.13-06.48.09:173][954]PIE: Play in editor total start time 0.216 seconds.
+[2021.05.13-06.48.20:551][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-06.48.20:551][312]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-06.48.20:552][312]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-06.48.20:552][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-06.48.20:564][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-06.48.20:573][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-06.48.20:601][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-06.48.20:601][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-06.48.20:602][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-06.48.20:622][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.05.13-06.48.20:648][313]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.05.13-06.48.22:286][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-06.48.22:317][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.05.13-06.48.22:324][456]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap0D0263D84E678E3ECBBF8B910B3C8645.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-06.48.22:329][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-06.48.22:341][456]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData63869D1E49F6608366620EA7C537DDCA.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-06.48.22:365][456]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-06.48.22:365][456]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-06.48.22:365][456]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-06.51.20:198][468]BlueprintLog: New page: Compile Killbox
+[2021.05.13-06.51.20:255][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.05.13-06.51.22:085][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-06.51.22:116][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.05.13-06.51.22:123][569]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapDB5DEFC241BEFC4872A264BCD24350BD.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-06.51.22:128][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-06.51.22:139][569]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataBB8C10B94CE67CB598ADBF9FF2E3AA77.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-06.51.22:188][569]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-06.51.22:188][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-06.51.22:188][569]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-06.51.22:803][591]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-06.51.22:808][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.13-06.51.22:808][591]PIE: New page: PIE session: TestMap (May 12, 2021, 4:51:22 PM)
+[2021.05.13-06.51.22:829][591]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-06.51.22:832][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2021.05.13-06.51.22:832][591]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-06.51.22:833][591]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2021.05.13-06.51.22:833][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003252s)
+[2021.05.13-06.51.22:863][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.05.13-06.51.22:863][591]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.13-06.51.22:863][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-06.51.22:863][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-06.51.22:863][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-06.51.22:863][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-06.51.22:863][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-06.51.22:863][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-06.51.22:863][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-06.51.22:863][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-06.51.22:864][591]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-06.51.22:864][591]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-06.51.22:868][591]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-06.51.22:868][591]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-06.51.22:868][591]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-06.51.22:868][591]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-06.51.22:868][591]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-06.51.22:868][591]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-06.51.22:868][591]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-06.51.22:868][591]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-06.51.23:012][591]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-06.51.23:012][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-06.51.23:012][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-06.51.23:012][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-06.51.23:013][591]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-06.51.23:013][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-06.51.23:013][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-06.51.23:027][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-06.51.23:027][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-06.51.23:027][591]LogInit: FAudioDevice initialized.
+[2021.05.13-06.51.23:027][591]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMap'.
+[2021.05.13-06.51.23:035][591]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-06.51.23:036][591]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.12-23.51.23
+[2021.05.13-06.51.23:036][591]LogWorld: Bringing up level for play took: 0.000594
+[2021.05.13-06.51.23:037][591]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.05.13-06.51.23:039][591]PIE: Server logged in
+[2021.05.13-06.51.23:040][591]PIE: Play in editor total start time 0.232 seconds.
+[2021.05.13-06.51.27:290][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-06.51.27:290][ 95]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-06.51.27:291][ 95]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-06.51.27:291][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-06.51.27:303][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-06.51.27:312][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-06.51.27:340][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-06.51.27:340][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-06.51.27:341][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-06.51.27:360][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.05.13-06.51.27:389][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.05.13-06.55.01:699][158]BlueprintLog: New page: Compile Killbox
+[2021.05.13-06.55.01:757][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.05.13-06.55.02:208][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Killbox" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset" SILENT=true
+[2021.05.13-06.55.02:218][177]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/KillboxFC10CDF544386BB8EE9FF0BC57E8E8B9.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset'
+[2021.05.13-06.55.02:261][177]AssetCheck: New page: Asset Save: Killbox
+[2021.05.13-06.55.02:261][177]LogContentValidation: Display: Validating Blueprint /Game/Models/Killbox.Killbox
+[2021.05.13-06.55.03:344][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-06.55.03:376][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.05.13-06.55.03:383][253]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap920E6AD3482BD4645D61EAB2DC3A3CF1.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-06.55.03:388][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-06.55.03:399][253]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData4D7EC134410D40C375936BB7070F5885.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-06.55.03:599][253]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-06.55.03:599][253]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-06.55.03:599][253]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-06.55.44:133][893]LogSlate: Took 0.006448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.13-06.58.01:414][840]BlueprintLog: New page: Compile Killbox
+[2021.05.13-06.58.01:472][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.05.13-06.58.02:021][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Killbox" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset" SILENT=true
+[2021.05.13-06.58.02:031][863]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Killbox09B77AA149557FE4AB46808220A51425.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset'
+[2021.05.13-06.58.02:213][863]AssetCheck: New page: Asset Save: Killbox
+[2021.05.13-06.58.02:213][863]LogContentValidation: Display: Validating Blueprint /Game/Models/Killbox.Killbox
+[2021.05.13-06.58.11:727][954]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:727][954]LogPhysics: Warning: Scale for /Game/Levels/TestMap.TestMap:PersistentLevel.Killbox_2.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:727][954]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:735][955]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:735][955]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:735][955]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:744][956]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:744][956]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:744][956]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:752][957]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:752][957]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:752][957]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:760][958]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:760][958]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:760][958]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:769][959]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.11:769][959]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:560][ 54]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:561][ 54]LogPhysics: Warning: Scale for /Game/Levels/TestMap.TestMap:PersistentLevel.Killbox_2.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:561][ 54]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:568][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:569][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:569][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:577][ 56]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:577][ 56]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:577][ 56]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:586][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:586][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:586][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:594][ 58]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:594][ 58]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:594][ 58]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:601][ 59]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:602][ 59]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:602][ 59]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:611][ 60]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:611][ 60]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:611][ 60]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:618][ 61]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:619][ 61]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:619][ 61]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:627][ 62]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.12:628][ 62]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=20.000 Z=20.000
+[2021.05.13-06.58.34:719][915]BlueprintLog: New page: Compile Killbox
+[2021.05.13-06.58.34:799][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.05.13-06.58.56:514][312]Cmd: EDIT COPY
+[2021.05.13-06.58.56:732][338]Cmd: EDIT PASTE
+[2021.05.13-06.59.24:409][618]Cmd: EDIT COPY
+[2021.05.13-06.59.24:653][647]Cmd: EDIT PASTE
+[2021.05.13-06.59.24:689][648]Cmd: EDIT PASTE
+[2021.05.13-07.00.16:240][417]Cmd: EDIT COPY
+[2021.05.13-07.00.16:453][442]Cmd: EDIT PASTE
+[2021.05.13-07.00.35:852][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-07.00.35:887][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.05.13-07.00.35:896][719]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap6243C6C049BDA93B49C1FA835DEAE2E8.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-07.00.35:902][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-07.00.35:913][719]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData6EF0F94544818DDC65DFCDBB05842C19.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-07.00.35:937][719]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-07.00.35:937][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-07.00.35:938][719]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-07.00.51:156][ 65]Cmd: DELETE
+[2021.05.13-07.00.51:156][ 65]Cmd: ACTOR DELETE
+[2021.05.13-07.00.51:158][ 65]LogEditorActor: Deleted Actor: Killbox_C
+[2021.05.13-07.00.51:190][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.05.13-07.00.51:191][ 65]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.13-07.00.53:514][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-07.00.53:543][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.13-07.00.53:551][280]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap34E1E0224353190A47145ABC00AC8C32.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-07.00.53:556][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-07.00.53:567][280]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataDA7D7C4F4DA7ECDE75FE12BBEE1B8868.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-07.00.53:592][280]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-07.00.53:592][280]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-07.00.53:592][280]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-07.01.51:236][427]BlueprintLog: New page: Compile Killbox
+[2021.05.13-07.01.51:287][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.05.13-07.01.51:902][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Killbox" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset" SILENT=true
+[2021.05.13-07.01.51:910][464]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Killbox67F6D8CD48D2F466D9ED69ABE2437D3D.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset'
+[2021.05.13-07.01.51:935][464]AssetCheck: New page: Asset Save: Killbox
+[2021.05.13-07.01.51:935][464]LogContentValidation: Display: Validating Blueprint /Game/Models/Killbox.Killbox
+[2021.05.13-07.05.48:347][712]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.Killbox_2.myBox) Not currently registered. Aborting.
+[2021.05.13-07.05.48:347][712]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.Killbox5.myBox) Not currently registered. Aborting.
+[2021.05.13-07.05.48:347][712]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.Killbox3.myBox) Not currently registered. Aborting.
+[2021.05.13-07.05.48:347][712]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.Killbox4.myBox) Not currently registered. Aborting.
+[2021.05.13-07.05.48:347][712]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.Killbox_C_7.myBox) Not currently registered. Aborting.
+[2021.05.13-07.05.48:347][712]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox) Not currently registered. Aborting.
+[2021.05.13-07.05.52:230][ 23]BlueprintLog: New page: Compile Killbox
+[2021.05.13-07.05.52:285][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.05.13-07.05.53:134][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Killbox" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset" SILENT=true
+[2021.05.13-07.05.53:141][ 46]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Killbox909BFB824C2960FAC5A1759DAC70C0FA.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset'
+[2021.05.13-07.05.53:236][ 46]AssetCheck: New page: Asset Save: Killbox
+[2021.05.13-07.05.53:236][ 46]LogContentValidation: Display: Validating Blueprint /Game/Models/Killbox.Killbox
+[2021.05.13-07.05.55:561][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-07.05.55:592][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.05.13-07.05.55:600][246]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap15AF199746F550F5DF971690CCF340EB.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-07.05.55:605][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-07.05.55:616][246]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData14E8CC8E43ED08F1D7D90ABAAC3DD548.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-07.05.55:662][246]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-07.05.55:662][246]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-07.05.55:662][246]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-07.05.56:285][264]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-07.05.56:290][264]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.13-07.05.56:292][264]LogPlayLevel: [PlayLevel] Compiling EraserBullet before play...
+[2021.05.13-07.05.56:361][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.05.13-07.05.56:361][264]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2021.05.13-07.05.56:361][264]PIE: New page: PIE session: TestMap (May 12, 2021, 5:05:56 PM)
+[2021.05.13-07.05.56:389][264]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.05.56:392][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002348s)
+[2021.05.13-07.05.56:393][264]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-07.05.56:393][264]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2021.05.13-07.05.56:393][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003600s)
+[2021.05.13-07.05.56:423][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.05.13-07.05.56:424][264]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.13-07.05.56:424][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-07.05.56:424][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-07.05.56:424][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-07.05.56:424][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-07.05.56:424][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-07.05.56:424][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-07.05.56:424][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-07.05.56:424][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-07.05.56:424][264]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-07.05.56:424][264]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-07.05.56:428][264]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-07.05.56:428][264]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-07.05.56:428][264]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-07.05.56:428][264]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-07.05.56:428][264]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-07.05.56:428][264]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-07.05.56:428][264]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-07.05.56:428][264]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-07.05.56:580][264]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-07.05.56:580][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-07.05.56:580][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-07.05.56:580][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-07.05.56:581][264]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-07.05.56:581][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-07.05.56:581][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-07.05.56:595][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-07.05.56:595][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-07.05.56:595][264]LogInit: FAudioDevice initialized.
+[2021.05.13-07.05.56:595][264]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2021.05.13-07.05.56:601][264]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-07.05.56:603][264]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.13-00.05.56
+[2021.05.13-07.05.56:603][264]LogWorld: Bringing up level for play took: 0.000687
+[2021.05.13-07.05.56:603][264]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.13-07.05.56:605][264]PIE: Server logged in
+[2021.05.13-07.05.56:606][264]PIE: Play in editor total start time 0.316 seconds.
+[2021.05.13-07.05.58:581][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.05.58:581][375]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.05.58:581][375]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-07.05.58:581][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.05.58:590][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-07.05.58:595][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.05.58:624][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.05.58:624][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.05.58:625][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.05.58:644][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.05.13-07.05.58:727][376]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.13-07.06.01:856][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.13-07.06.01:867][529]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBullet149DCF3447FF6DEA5512EC82A0A70A22.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.13-07.06.01:908][529]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.13-07.06.01:908][529]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.13-07.06.03:626][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-07.06.03:656][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.05.13-07.06.03:664][649]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapA3A69227416B0CD4F7E1499C642F0128.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-07.06.03:669][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-07.06.03:680][649]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataCDF8752D47E6D27E7ABE8E87AE42A70D.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-07.06.03:706][649]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-07.06.03:706][649]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-07.06.03:706][649]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-07.06.04:769][762]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-07.06.04:774][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.13-07.06.04:775][762]PIE: New page: PIE session: TestMap (May 12, 2021, 5:06:04 PM)
+[2021.05.13-07.06.04:775][762]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.06.04:777][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002209s)
+[2021.05.13-07.06.04:778][762]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-07.06.04:778][762]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2021.05.13-07.06.04:778][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003204s)
+[2021.05.13-07.06.04:807][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.13-07.06.04:808][762]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.05.13-07.06.04:808][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-07.06.04:808][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-07.06.04:808][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-07.06.04:808][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-07.06.04:808][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-07.06.04:808][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-07.06.04:808][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-07.06.04:808][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-07.06.04:808][762]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-07.06.04:808][762]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-07.06.04:812][762]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-07.06.04:812][762]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-07.06.04:812][762]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-07.06.04:812][762]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-07.06.04:812][762]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-07.06.04:812][762]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-07.06.04:812][762]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-07.06.04:812][762]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-07.06.04:966][762]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-07.06.04:967][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-07.06.04:967][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-07.06.04:967][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-07.06.04:967][762]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-07.06.04:967][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-07.06.04:967][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-07.06.04:980][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-07.06.04:980][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-07.06.04:980][762]LogInit: FAudioDevice initialized.
+[2021.05.13-07.06.04:980][762]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2021.05.13-07.06.04:986][762]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-07.06.04:988][762]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.13-00.06.04
+[2021.05.13-07.06.04:988][762]LogWorld: Bringing up level for play took: 0.000703
+[2021.05.13-07.06.04:988][762]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.13-07.06.04:990][762]PIE: Server logged in
+[2021.05.13-07.06.04:991][762]PIE: Play in editor total start time 0.218 seconds.
+[2021.05.13-07.06.09:060][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.06.09:060][243]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.06.09:061][243]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-07.06.09:061][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.06.09:072][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-07.06.09:077][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.06.09:105][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.06.09:105][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.06.09:106][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.06.09:124][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.13-07.06.09:177][244]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.13-07.07.40:867][729]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.Killbox5.myBox) Not currently registered. Aborting.
+[2021.05.13-07.07.40:867][729]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.Killbox3.myBox) Not currently registered. Aborting.
+[2021.05.13-07.07.40:867][729]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.Killbox4.myBox) Not currently registered. Aborting.
+[2021.05.13-07.07.40:867][729]LogActorComponent: ReregisterComponent: (/Game/Levels/TestMap.TestMap:PersistentLevel.Killbox_2.myBox) Not currently registered. Aborting.
+[2021.05.13-07.07.40:867][729]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.Killbox_C_8.myBox) Not currently registered. Aborting.
+[2021.05.13-07.07.40:867][729]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_7:PersistentLevel.Killbox_C_0.myBox) Not currently registered. Aborting.
+[2021.05.13-07.07.42:089][814]BlueprintLog: New page: Compile Killbox
+[2021.05.13-07.07.42:144][814]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.05.13-07.07.42:777][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Killbox" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset" SILENT=true
+[2021.05.13-07.07.42:785][842]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/KillboxBC156F22476D461AB36A7AAD9AF5EBF1.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset'
+[2021.05.13-07.07.42:821][842]AssetCheck: New page: Asset Save: Killbox
+[2021.05.13-07.07.42:821][842]LogContentValidation: Display: Validating Blueprint /Game/Models/Killbox.Killbox
+[2021.05.13-07.07.44:532][959]BlueprintLog: New page: Compile EraserBullet
+[2021.05.13-07.07.44:583][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.05.13-07.07.45:416][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.13-07.07.45:430][  3]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBullet243646714B6B627E2FFF7382BB607554.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.13-07.07.45:508][  3]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.13-07.07.45:508][  3]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.13-07.07.47:445][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-07.07.47:476][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.05.13-07.07.47:484][128]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapA3BDB3354A38AE47608029B27BD967D0.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-07.07.47:489][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-07.07.47:500][128]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataC18EC88D4210F8587A64389DFDB9E2F8.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-07.07.47:573][128]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-07.07.47:573][128]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-07.07.47:573][128]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-07.07.48:890][224]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-07.07.48:895][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.13-07.07.48:895][224]PIE: New page: PIE session: TestMap (May 12, 2021, 5:07:48 PM)
+[2021.05.13-07.07.48:919][224]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.07.48:922][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002234s)
+[2021.05.13-07.07.48:923][224]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-07.07.48:923][224]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2021.05.13-07.07.48:923][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003325s)
+[2021.05.13-07.07.48:954][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.05.13-07.07.48:954][224]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.05.13-07.07.48:954][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-07.07.48:954][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-07.07.48:954][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-07.07.48:954][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-07.07.48:954][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-07.07.48:954][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-07.07.48:954][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-07.07.48:954][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-07.07.48:955][224]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-07.07.48:955][224]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-07.07.48:959][224]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-07.07.48:959][224]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-07.07.48:959][224]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-07.07.48:959][224]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-07.07.48:959][224]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-07.07.48:959][224]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-07.07.48:959][224]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-07.07.48:959][224]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-07.07.49:116][224]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-07.07.49:117][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-07.07.49:117][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-07.07.49:117][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-07.07.49:117][224]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-07.07.49:117][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-07.07.49:117][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-07.07.49:131][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-07.07.49:131][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-07.07.49:131][224]LogInit: FAudioDevice initialized.
+[2021.05.13-07.07.49:131][224]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2021.05.13-07.07.49:139][224]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-07.07.49:141][224]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.13-00.07.49
+[2021.05.13-07.07.49:141][224]LogWorld: Bringing up level for play took: 0.000638
+[2021.05.13-07.07.49:141][224]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.13-07.07.49:143][224]PIE: Server logged in
+[2021.05.13-07.07.49:144][224]PIE: Play in editor total start time 0.249 seconds.
+[2021.05.13-07.07.55:770][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.07.55:770][ 15]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.07.55:771][ 15]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-07.07.55:771][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.07.55:777][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-07.07.55:781][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.07.55:809][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.07.55:810][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.07.55:810][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.07.55:829][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.13-07.07.55:849][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.13-07.08.27:173][  1]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.05.13-07.08.27:173][  1]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  Event ActorBeginOverlap  and was replaced as a Custom Event!
+[2021.05.13-07.09.14:585][627]LogEditorTransaction: Undo Move Node
+[2021.05.13-07.09.37:748][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.13-07.09.37:759][620]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBullet7B0F691F4040208B1DE4AFA8628AAD83.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.13-07.09.37:784][620]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.13-07.09.37:784][620]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.13-07.09.39:289][772]BlueprintLog: New page: Compile EraserBullet
+[2021.05.13-07.09.39:341][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.05.13-07.10.26:179][571]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2021.05.13-07.10.27:681][693]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.13-07.10.29:121][816]BlueprintLog: New page: Compile PlayerChar
+[2021.05.13-07.10.29:185][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.05.13-07.10.29:686][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.13-07.10.29:720][840]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar743E0691439494C465F5CDB8AE9B947C.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.13-07.10.29:751][840]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.13-07.10.29:751][840]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.13-07.10.33:573][165]BlueprintLog: New page: Compile PlayerChar
+[2021.05.13-07.10.33:632][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.05.13-07.10.36:789][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-07.10.36:823][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.05.13-07.10.36:860][372]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap3BCE416B415B63714565DA91714FA008.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-07.10.36:866][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-07.10.36:877][372]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData023A7AA04C21144C69E924A7A0277924.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-07.10.36:904][372]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-07.10.36:904][372]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-07.10.36:904][372]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-07.10.38:408][518]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-07.10.38:414][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.13-07.10.38:414][518]PIE: New page: PIE session: TestMap (May 12, 2021, 5:10:38 PM)
+[2021.05.13-07.10.38:414][518]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.10.38:417][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002260s)
+[2021.05.13-07.10.38:417][518]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-07.10.38:418][518]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2021.05.13-07.10.38:418][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003318s)
+[2021.05.13-07.10.38:449][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.05.13-07.10.38:449][518]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.05.13-07.10.38:449][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-07.10.38:449][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-07.10.38:449][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-07.10.38:449][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-07.10.38:449][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-07.10.38:449][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-07.10.38:449][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-07.10.38:449][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-07.10.38:450][518]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-07.10.38:450][518]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-07.10.38:453][518]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-07.10.38:453][518]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-07.10.38:453][518]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-07.10.38:453][518]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-07.10.38:453][518]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-07.10.38:453][518]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-07.10.38:453][518]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-07.10.38:453][518]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-07.10.38:596][518]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-07.10.38:596][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-07.10.38:596][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-07.10.38:596][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-07.10.38:597][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-07.10.38:597][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-07.10.38:597][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-07.10.38:610][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-07.10.38:610][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-07.10.38:610][518]LogInit: FAudioDevice initialized.
+[2021.05.13-07.10.38:610][518]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMap'.
+[2021.05.13-07.10.38:617][518]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-07.10.38:618][518]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.13-00.10.38
+[2021.05.13-07.10.38:618][518]LogWorld: Bringing up level for play took: 0.000652
+[2021.05.13-07.10.38:618][518]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.13-07.10.38:620][518]PIE: Server logged in
+[2021.05.13-07.10.38:621][518]PIE: Play in editor total start time 0.208 seconds.
+[2021.05.13-07.10.40:501][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:501][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:509][743]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:509][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:517][744]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:517][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:526][745]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:526][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:534][746]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:534][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:542][747]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:542][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:550][748]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:551][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:559][749]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:559][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:567][750]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:567][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:576][751]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:576][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:584][752]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:584][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:592][753]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:593][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:601][754]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:601][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:609][755]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:609][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:617][756]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:618][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:626][757]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Enemy_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_2
+	Function /Game/Characters/Enemy.Enemy_C:ExecuteUbergraph_Enemy:005C
+[2021.05.13-07.10.40:626][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:634][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:642][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:651][760]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:659][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:667][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:676][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:684][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:692][765]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:701][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:709][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:717][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:726][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:734][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:742][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:750][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:759][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:767][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:776][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:784][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:792][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:801][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:809][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:817][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:825][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:834][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:842][783]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:851][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:859][785]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:868][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:876][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:884][788]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:892][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:901][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:909][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:918][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:927][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:934][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:943][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:952][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:959][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:968][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:977][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:984][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.40:993][801]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:001][802]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:009][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:017][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:026][805]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:034][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:043][807]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:051][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:060][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:068][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:076][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:084][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:093][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:102][814]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:109][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:118][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:126][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:135][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:143][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:152][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:159][821]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:168][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:176][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:185][824]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:192][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:201][826]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:209][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:218][828]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:227][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:234][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:243][831]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:251][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:259][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:268][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:277][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:284][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:293][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:301][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:309][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:318][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:326][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:334][842]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:343][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:351][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:359][845]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:368][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:376][847]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:384][848]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:393][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:401][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:410][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:419][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:426][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:434][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:443][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:451][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:459][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:468][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:476][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:485][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:493][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:501][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:509][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:518][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:526][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:534][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:544][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:551][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:560][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:568][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:576][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:584][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:593][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:601][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:610][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:618][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:626][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:635][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:642][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:651][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:660][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:668][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:677][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:684][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:693][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:701][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:710][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:718][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:726][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:735][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:743][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:751][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:759][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:768][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:776][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:784][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:793][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:801][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:810][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:818][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:826][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:834][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:843][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:852][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:860][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:868][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:876][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:884][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:893][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:901][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:909][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:917][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:926][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:934][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:942][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:951][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:959][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:968][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:976][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:984][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.41:993][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:001][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:009][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:017][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:026][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:034][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:042][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:051][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:059][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:067][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:076][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:084][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:092][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:101][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:109][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:117][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:125][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:134][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:142][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:151][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:159][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:168][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:175][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:184][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:192][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:200][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:209][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:217][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:226][949]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:234][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:243][951]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Enemy Function:  Execute Ubergraph Enemy Graph:  EventGraph Node:  AI MoveTo
+[2021.05.13-07.10.42:280][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.10.42:280][951]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.10.42:281][951]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-07.10.42:281][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.10.42:293][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-07.10.42:298][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.10.42:325][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.10.42:326][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.10.42:326][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.10.42:344][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.13-07.10.42:607][952]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.13-07.10.54:203][554]LogSlate: Window 'Message Log' being destroyed
+[2021.05.13-07.10.54:237][554]LogSlate: Window 'Message Log' being destroyed
+[2021.05.13-07.11.08:215][724]BlueprintLog: New page: Compile PlayerChar
+[2021.05.13-07.11.08:273][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.05.13-07.11.08:809][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.13-07.11.08:843][750]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PlayerChar57C671E74B884425641F449C201A7380.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.13-07.11.08:892][750]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.13-07.11.08:892][750]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.13-07.11.13:933][198]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-07.11.13:933][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.12.07:614][ 62]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2021.05.13-07.12.09:448][168]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.13-07.12.33:232][143]BlueprintLog: New page: Compile EraserBullet
+[2021.05.13-07.12.33:292][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.05.13-07.12.33:853][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.13-07.12.33:864][165]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBullet497977444598235FE77772BDE3940B1A.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.13-07.12.33:929][165]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.13-07.12.33:930][165]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.13-07.12.38:103][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-07.12.38:132][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.05.13-07.12.38:139][458]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap764604384C9840335C5380B4B8775D27.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-07.12.38:144][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-07.12.38:156][458]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataEB9F42B84705F7A984E90495AFE6B3B9.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-07.12.38:181][458]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-07.12.38:181][458]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-07.12.38:181][458]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-07.12.39:029][493]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-07.12.39:033][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.13-07.12.39:033][493]PIE: New page: PIE session: TestMap (May 12, 2021, 5:12:39 PM)
+[2021.05.13-07.12.39:034][493]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.12.39:036][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002259s)
+[2021.05.13-07.12.39:037][493]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-07.12.39:037][493]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2021.05.13-07.12.39:037][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003250s)
+[2021.05.13-07.12.39:066][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.13-07.12.39:066][493]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.05.13-07.12.39:066][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-07.12.39:066][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-07.12.39:066][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-07.12.39:066][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-07.12.39:066][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-07.12.39:066][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-07.12.39:066][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-07.12.39:066][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-07.12.39:067][493]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-07.12.39:067][493]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-07.12.39:070][493]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-07.12.39:071][493]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-07.12.39:071][493]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-07.12.39:071][493]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-07.12.39:071][493]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-07.12.39:071][493]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-07.12.39:071][493]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-07.12.39:071][493]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-07.12.39:223][493]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-07.12.39:223][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-07.12.39:223][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-07.12.39:223][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-07.12.39:224][493]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-07.12.39:224][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-07.12.39:224][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-07.12.39:237][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-07.12.39:237][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-07.12.39:237][493]LogInit: FAudioDevice initialized.
+[2021.05.13-07.12.39:237][493]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap'.
+[2021.05.13-07.12.39:245][493]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-07.12.39:246][493]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.13-00.12.39
+[2021.05.13-07.12.39:246][493]LogWorld: Bringing up level for play took: 0.000620
+[2021.05.13-07.12.39:246][493]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.05.13-07.12.39:249][493]PIE: Server logged in
+[2021.05.13-07.12.39:249][493]PIE: Play in editor total start time 0.217 seconds.
+[2021.05.13-07.12.42:350][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.12.42:350][861]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.12.42:351][861]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-07.12.42:351][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.12.42:357][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-07.12.42:361][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.12.42:386][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.12.42:386][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.12.42:387][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.12.42:406][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.05.13-07.12.42:430][863]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.05.13-07.13.01:058][528]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemy.Enemy
+[2021.05.13-07.13.11:128][563]BlueprintLog: New page: Compile Enemy
+[2021.05.13-07.13.11:181][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.05.13-07.13.12:154][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy.uasset" SILENT=true
+[2021.05.13-07.13.12:177][629]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy1C8F2D7D417A57CD02925E854EC73118.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy.uasset'
+[2021.05.13-07.13.12:202][629]AssetCheck: New page: Asset Save: Enemy
+[2021.05.13-07.13.12:202][629]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy.Enemy
+[2021.05.13-07.13.14:047][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.13-07.13.14:078][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.05.13-07.13.14:085][765]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap89CDB9F84C514B5906E79EB570C316F7.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.13-07.13.14:090][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.13-07.13.14:102][765]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataC9173BA04CB1F6DFB3E74B82B745F2A6.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.13-07.13.14:181][765]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.13-07.13.14:181][765]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.13-07.13.14:181][765]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.13-07.13.14:609][803]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.13-07.13.14:614][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.13-07.13.14:614][803]PIE: New page: PIE session: TestMap (May 12, 2021, 5:13:14 PM)
+[2021.05.13-07.13.14:639][803]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.13.14:642][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002546s)
+[2021.05.13-07.13.14:643][803]LogAIModule: Creating AISystem for world TestMap
+[2021.05.13-07.13.14:643][803]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2021.05.13-07.13.14:643][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003634s)
+[2021.05.13-07.13.14:673][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.13-07.13.14:674][803]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.05.13-07.13.14:674][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.13-07.13.14:674][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.13-07.13.14:674][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.13-07.13.14:674][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.13-07.13.14:674][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.13-07.13.14:674][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.13-07.13.14:674][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.13-07.13.14:674][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.13-07.13.14:674][803]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.13-07.13.14:674][803]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.13-07.13.14:678][803]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.13-07.13.14:678][803]LogAudioMixer: Display: 1: FrontRight
+[2021.05.13-07.13.14:678][803]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.13-07.13.14:678][803]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.13-07.13.14:678][803]LogAudioMixer: Display: 4: BackLeft
+[2021.05.13-07.13.14:678][803]LogAudioMixer: Display: 5: BackRight
+[2021.05.13-07.13.14:678][803]LogAudioMixer: Display: 6: SideLeft
+[2021.05.13-07.13.14:678][803]LogAudioMixer: Display: 7: SideRight
+[2021.05.13-07.13.14:833][803]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.13-07.13.14:833][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.13-07.13.14:833][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.13-07.13.14:833][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.13-07.13.14:834][803]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.13-07.13.14:834][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.13-07.13.14:834][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.13-07.13.14:848][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.13-07.13.14:848][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.13-07.13.14:848][803]LogInit: FAudioDevice initialized.
+[2021.05.13-07.13.14:848][803]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap'.
+[2021.05.13-07.13.14:852][803]LogLoad: Game class is 'TestGM_C'
+[2021.05.13-07.13.14:854][803]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.13-00.13.14
+[2021.05.13-07.13.14:854][803]LogWorld: Bringing up level for play took: 0.000639
+[2021.05.13-07.13.14:854][803]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.05.13-07.13.14:856][803]PIE: Server logged in
+[2021.05.13-07.13.14:857][803]PIE: Play in editor total start time 0.243 seconds.
+[2021.05.13-07.13.17:170][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.13.17:170][ 76]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.13-07.13.17:171][ 76]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.13-07.13.17:171][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.13.17:177][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.13-07.13.17:182][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.13-07.13.17:211][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.13-07.13.17:211][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.13.17:212][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.13-07.13.17:230][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.13-07.13.17:250][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_23
