@@ -1499,3 +1499,131 @@ Please see Output Log for details.
 [2021.05.18-21.12.54:071][403]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.18-21.12.54:071][403]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
 [2021.05.18-21.12.54:071][403]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.18-21.17.09:336][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.18-21.17.09:358][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.18-21.17.09:368][140]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap25B5B12C44D6E2A8C964B9A78E1D07DA.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.18-21.17.09:375][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.18-21.17.09:387][140]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData95E5729B4AD5DBE39C076B9C188B215F.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.18-21.17.09:405][140]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.18-21.17.09:405][140]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.18-21.17.09:405][140]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.18-21.20.31:762][565]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.05.18-21.20.31:772][565]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.05.18-21.20.35:134][969]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2021.05.18-21.20.35:136][969]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.05.18-21.20.37:720][201]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.23.03:622][772]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.23.03:684][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.05.18-21.23.04:103][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.23.04:107][802]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenuCF5A4B8945995A9FA55B59AC43B1754A.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.23.04:138][802]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.23.04:139][802]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.23.35:822][369]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.23.35:872][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.05.18-21.23.37:668][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.23.37:671][514]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenu52D94092408B7FAF1D852FAAF69C5FAA.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.23.37:697][514]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.23.37:697][514]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.25.20:350][354]LogSlate: Took 0.014752 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.18-21.26.01:621][780]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.26.01:670][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.05.18-21.26.02:225][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.26.02:230][828]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenu113E8D7E4344F2E3BC8ACC83F9FA361C.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.26.02:254][828]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.26.02:255][828]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.27.53:006][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.27.53:010][849]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenu96FBC9AC4DDAC37E9709D694E24336F8.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.27.53:051][849]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.27.53:051][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.27.53:625][902]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.27.53:677][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.05.18-21.27.54:094][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.27.54:098][933]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenu7E4F2E164E45F3F0AB723494FDE110A8.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.27.54:123][933]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.27.54:123][933]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.29.33:319][159]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.29.33:370][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.05.18-21.29.34:083][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.29.34:088][208]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenu672323C04801619D88281FB0F1298348.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.29.34:113][208]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.29.34:113][208]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.31.16:149][131]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.18-21.31.17:670][288]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.31.17:721][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.18-21.32.23:784][496]LogEditorTransaction: Undo Move Widget
+[2021.05.18-21.34.14:466][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.05.18-21.34.14:467][995]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.037
+[2021.05.18-21.34.14:468][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2021.05.18-21.34.14:468][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2021.05.18-21.34.14:468][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.05.18-21.34.14:472][995]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenu_Auto2190AF1F14BC08F1208F3219AD7EF7CE0.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset'
+[2021.05.18-21.34.14:473][995]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.05.18-21.37.36:037][324]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.37.36:071][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.05.18-21.37.36:618][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.37.36:623][356]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenuC789966B46A2C86BA3D013B79AD1A0B7.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.37.36:647][356]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.37.36:647][356]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.38.15:324][337]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.05.18-21.38.16:105][383]LogEditorTransaction: Undo Edit Size To Content
+[2021.05.18-21.39.48:281][627]LogEditorTransaction: Undo Edit Top
+[2021.05.18-21.39.48:678][650]LogEditorTransaction: Undo Edit Top
+[2021.05.18-21.39.49:011][674]LogEditorTransaction: Undo Edit Size Rule
+[2021.05.18-21.40.27:624][ 39]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 200039
+[2021.05.18-21.40.27:625][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-21.40.27:631][ 40]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.18-21.40.27:635][ 40]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.18-21.40.27:636][ 40]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.18-21.40.27:637][ 40]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.18-21.40.27:640][ 40]LogSlate: Took 0.001034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.18-21.40.27:641][ 40]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.18-21.40.27:852][ 64]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 25
+[2021.05.18-21.40.27:853][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-21.40.27:859][ 65]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.18-21.40.27:864][ 65]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.18-21.40.27:864][ 65]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.18-21.40.27:865][ 65]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.18-21.40.27:868][ 65]LogSlate: Took 0.000790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.18-21.40.27:868][ 65]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.18-21.40.27:977][ 76]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 12
+[2021.05.18-21.40.27:977][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-21.40.27:982][ 77]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.18-21.40.27:986][ 77]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.18-21.40.27:987][ 77]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.18-21.40.27:988][ 77]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.18-21.40.27:991][ 77]LogSlate: Took 0.000763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.18-21.40.27:991][ 77]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.18-21.43.15:137][544]LogEditorTransaction: Undo Edit Bottom
+[2021.05.18-21.43.31:178][101]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.43.31:233][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.05.18-21.43.31:733][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.43.31:738][107]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenuCE111DE34126CE689F87FCBAD9498CD5.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.43.31:765][107]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.43.31:765][107]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.49.00:012][675]BlueprintLog: New page: Compile MainMenu
+[2021.05.18-21.49.00:067][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.05.18-21.49.00:993][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" SILENT=true
+[2021.05.18-21.49.00:999][691]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenu1A4129E545C244C72DEE8FB3FC2B0F72.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset'
+[2021.05.18-21.49.01:026][691]AssetCheck: New page: Asset Save: MainMenu
+[2021.05.18-21.49.01:026][691]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.05.18-21.49.56:162][ 49]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.18-21.50.09:746][828]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.05.18-21.50.09:760][828]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.05.18-21.50.15:480][515]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PauseMenu
+[2021.05.18-21.50.15:481][515]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.05.18-21.50.20:023][795]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.05.18-21.50.20:037][795]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.05.18-21.50.28:218][776]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> DiedMenu
+[2021.05.18-21.50.28:219][776]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.05.18-21.50.38:815][414]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.05.18-21.50.38:828][414]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.05.18-21.50.58:640][771]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WonMenu
+[2021.05.18-21.50.58:642][771]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.05.18-21.51.03:907][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.18-21.51.03:947][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.05.18-21.51.03:959][202]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap063CB4A440085E0E713E348F1449D32B.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.18-21.51.03:967][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.18-21.51.03:980][202]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataA72B9A6748EDC7199909B997B3024B16.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.18-21.51.04:003][202]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.18-21.51.04:003][202]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.18-21.51.04:003][202]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
