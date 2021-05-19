@@ -4257,3 +4257,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.19-01.26.47:828][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.19-01.26.47:835][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
 [2021.05.19-01.26.47:902][892]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.05.19-01.27.21:942][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.27.21:986][527]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM9D1F575D46752C9AC0D7FCB4708B1AC8.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.27.22:033][527]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.27.22:034][527]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.33.52:134][785]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.33.52:239][785]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2021.05.19-01.34.14:917][855]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.34.15:014][855]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2021.05.19-01.34.15:560][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.34.15:612][872]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM63AE39BF41AB228BAD27759D5737024D.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.34.15:658][872]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.34.15:658][872]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.35.15:386][785]LogSlate: Took 0.018763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.19-01.35.32:475][572]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.35.32:578][572]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.05.19-01.35.33:068][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.35.33:127][587]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGMF79D3B2644730D7E93B8C8B47FE16DF2.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.35.33:163][587]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.35.33:163][587]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.36.11:048][467]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.36.11:143][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.05.19-01.36.50:407][431]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.19-01.36.58:370][743]BlueprintLog: New page: Compile PlayerChar
+[2021.05.19-01.36.58:491][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.05.19-01.36.59:079][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/PlayerChar" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" SILENT=true
+[2021.05.19-01.36.59:201][753]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/PlayerCharE38D711640E1ADE24E39199E497E1EDF.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset'
+[2021.05.19-01.36.59:230][753]AssetCheck: New page: Asset Save: PlayerChar
+[2021.05.19-01.36.59:230][753]LogContentValidation: Display: Validating Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.19-01.37.34:743][533]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.37.34:857][533]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2021.05.19-01.37.35:468][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.37.35:529][558]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGMABBD3AD9413C66B06C1917849DDB933B.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.37.35:574][558]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.37.35:574][558]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
