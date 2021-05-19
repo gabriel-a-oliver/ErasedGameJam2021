@@ -2865,3 +2865,1320 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.19-00.53.43:954][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.19-00.53.43:960][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
 [2021.05.19-00.53.44:032][136]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.05.19-00.54.39:325][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.05.19-00.54.39:388][905]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2021.05.19-00.54.39:388][905]Cmd: MAP LOAD FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.19-00.54.39:388][905]LightingResults: New page: Lighting Build
+[2021.05.19-00.54.39:388][905]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.05.19-00.54.39:389][905]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.54.39:390][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.54.39:390][905]MapCheck: New page: Map Check
+[2021.05.19-00.54.39:390][905]LightingResults: New page: Lighting Build
+[2021.05.19-00.54.39:437][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-00.54.39:446][905]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.05.19-00.54.39:446][905]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.05.19-00.54.39:552][905]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.19-00.54.39:552][905]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.19-00.54.39:583][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.05.19-00.54.39:590][905]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.19-00.54.39:590][905]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2021.05.19-00.54.39:590][905]LogFileHelpers: Loading map 'MainMenuLevel' took 0.203
+[2021.05.19-00.54.40:765][961]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-00.54.40:781][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-00.54.40:782][961]PIE: New page: PIE session: MainMenuLevel (May 18, 2021, 10:54:40 AM)
+[2021.05.19-00.54.40:782][961]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.19-00.54.40:785][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002521s)
+[2021.05.19-00.54.40:786][961]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.19-00.54.40:787][961]LogPlayLevel: PIE: World Init took: (0.001967s)
+[2021.05.19-00.54.40:787][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004723s)
+[2021.05.19-00.54.40:840][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.05.19-00.54.40:842][961]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.05.19-00.54.40:842][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-00.54.40:842][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-00.54.40:842][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-00.54.40:842][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-00.54.40:842][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-00.54.40:842][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-00.54.40:842][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-00.54.40:842][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-00.54.40:842][961]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-00.54.40:842][961]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-00.54.40:847][961]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-00.54.40:847][961]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-00.54.40:878][961]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-00.54.40:879][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-00.54.40:879][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-00.54.40:879][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-00.54.40:879][961]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-00.54.40:879][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-00.54.40:879][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-00.54.40:910][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-00.54.40:910][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-00.54.40:910][961]LogInit: FAudioDevice initialized.
+[2021.05.19-00.54.40:910][961]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainMenuLevel'.
+[2021.05.19-00.54.40:924][961]LogLoad: Game class is 'MainMenuGM_C'
+[2021.05.19-00.54.40:926][961]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.05.18-17.54.40
+[2021.05.19-00.54.40:926][961]LogWorld: Bringing up level for play took: 0.000699
+[2021.05.19-00.54.40:926][961]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.05.19-00.54.40:932][961]PIE: Server logged in
+[2021.05.19-00.54.40:933][961]PIE: Play in editor total start time 0.152 seconds.
+[2021.05.19-00.54.41:883][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-00.54.41:884][ 12]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.19-00.54.41:918][ 12]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.54.41:918][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.54.41:930][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-00.54.41:937][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.54.41:985][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-00.54.41:985][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-00.54.41:987][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-00.54.42:031][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.05.19-00.54.42:114][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.05.19-00.54.43:095][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-00.54.43:109][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-00.54.43:110][ 67]PIE: New page: PIE session: MainMenuLevel (May 18, 2021, 10:54:43 AM)
+[2021.05.19-00.54.43:138][ 67]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.19-00.54.43:140][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002390s)
+[2021.05.19-00.54.43:142][ 67]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.19-00.54.43:143][ 67]LogPlayLevel: PIE: World Init took: (0.002164s)
+[2021.05.19-00.54.43:143][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004926s)
+[2021.05.19-00.54.43:193][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.05.19-00.54.43:194][ 67]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.05.19-00.54.43:194][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-00.54.43:194][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-00.54.43:195][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-00.54.43:195][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-00.54.43:195][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-00.54.43:196][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-00.54.43:196][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-00.54.43:196][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-00.54.43:197][ 67]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-00.54.43:197][ 67]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-00.54.43:201][ 67]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-00.54.43:201][ 67]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-00.54.43:229][ 67]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-00.54.43:229][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-00.54.43:230][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-00.54.43:230][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-00.54.43:230][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-00.54.43:230][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-00.54.43:230][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-00.54.43:265][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-00.54.43:265][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-00.54.43:265][ 67]LogInit: FAudioDevice initialized.
+[2021.05.19-00.54.43:265][ 67]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainMenuLevel'.
+[2021.05.19-00.54.43:278][ 67]LogLoad: Game class is 'MainMenuGM_C'
+[2021.05.19-00.54.43:281][ 67]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.05.18-17.54.43
+[2021.05.19-00.54.43:282][ 67]LogWorld: Bringing up level for play took: 0.001169
+[2021.05.19-00.54.43:282][ 67]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.05.19-00.54.43:287][ 67]PIE: Server logged in
+[2021.05.19-00.54.43:289][ 67]PIE: Play in editor total start time 0.181 seconds.
+[2021.05.19-00.54.44:272][123]LogNet: Browse: /Game/Levels/TestMap
+[2021.05.19-00.54.44:272][123]LogLoad: LoadMap: /Game/Levels/TestMap
+[2021.05.19-00.54.44:272][123]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.19-00.54.44:272][123]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.54.44:272][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.54.44:322][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-00.54.44:330][123]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.05.19-00.54.44:348][123]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestMap'.
+[2021.05.19-00.54.44:351][123]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-00.54.44:352][123]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-00.54.44:365][123]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-17.54.44
+[2021.05.19-00.54.44:365][123]LogWorld: Bringing up level for play took: 0.010754
+[2021.05.19-00.54.44:369][123]LogLoad: Took 0.097265 seconds to LoadMap(/Game/Levels/TestMap)
+[2021.05.19-00.54.52:758][600]LogNet: Browse: /Game/Levels/TestMap
+[2021.05.19-00.54.52:758][600]LogLoad: LoadMap: /Game/Levels/TestMap
+[2021.05.19-00.54.52:758][600]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-00.54.52:759][600]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.54.52:759][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.54.52:811][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-00.54.52:819][600]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.05.19-00.54.52:832][600]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestMap'.
+[2021.05.19-00.54.52:834][600]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-00.54.52:834][600]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-00.54.52:849][600]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-17.54.52
+[2021.05.19-00.54.52:849][600]LogWorld: Bringing up level for play took: 0.011964
+[2021.05.19-00.54.52:854][600]LogLoad: Took 0.095823 seconds to LoadMap(/Game/Levels/TestMap)
+[2021.05.19-00.54.57:155][844]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2021.05.19-00.54.57:155][844]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2021.05.19-00.54.57:155][844]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-00.54.57:156][844]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.54.57:157][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.54.57:208][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-00.54.57:215][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.05.19-00.54.57:216][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.19-00.54.57:219][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002401s)
+[2021.05.19-00.54.57:222][844]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.19-00.54.57:222][844]LogPlayLevel: PIE: World Init took: (0.002132s)
+[2021.05.19-00.54.57:222][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004857s)
+[2021.05.19-00.54.57:222][844]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainMenuLevel'.
+[2021.05.19-00.54.57:222][844]LogLoad: Game class is 'MainMenuGM_C'
+[2021.05.19-00.54.57:225][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.05.18-17.54.57
+[2021.05.19-00.54.57:225][844]LogWorld: Bringing up level for play took: 0.000627
+[2021.05.19-00.54.57:226][844]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.19-00.54.57:228][844]LogLoad: Took 0.073609 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenuLevel)
+[2021.05.19-00.57.52:110][974]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.57.52:110][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.57.52:677][999]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.19-00.57.52:677][999]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.57.52:677][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.57.53:196][ 26]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.57.53:196][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.57.53:208][ 26]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.57.53:208][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.57.53:706][ 53]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.57.53:706][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.57.53:718][ 53]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.57.53:719][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.57.55:272][132]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.05.19-00.57.55:288][132]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/MainMenuLevel59435D134982AF64B212EB9AB921863C.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/MainMenuLevel.umap'
+[2021.05.19-00.57.55:314][132]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.05.19-00.57.55:314][132]LogContentValidation: Display: Validating World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2021.05.19-00.58.00:676][418]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.05.19-00.58.00:698][418]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2021.05.19-00.58.04:630][418]LogSlate: Window 'Message' being destroyed
+[2021.05.19-00.58.04:654][418]Message dialog closed, result: No, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2021.05.19-00.58.06:059][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-00.58.06:059][487]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.19-00.58.06:059][487]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.58.06:060][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.58.06:081][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-00.58.06:089][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.58.06:125][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-00.58.06:125][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-00.58.06:127][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-00.58.06:170][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.05.19-00.58.06:200][488]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.05.19-00.58.12:897][819]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.05.19-00.58.12:954][819]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2021.05.19-00.58.12:954][819]Cmd: MAP LOAD FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.19-00.58.12:955][819]LightingResults: New page: Lighting Build
+[2021.05.19-00.58.12:955][819]LoadErrors: New page: Loading map: TestMap.umap
+[2021.05.19-00.58.12:989][819]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-00.58.12:989][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-00.58.12:989][819]MapCheck: New page: Map Check
+[2021.05.19-00.58.12:989][819]LightingResults: New page: Lighting Build
+[2021.05.19-00.58.13:022][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-00.58.13:029][819]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.05.19-00.58.13:029][819]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2021.05.19-00.58.13:155][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.19-00.58.13:155][819]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-00.58.13:181][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.05.19-00.58.13:188][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.19-00.58.13:188][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2021.05.19-00.58.13:189][819]LogFileHelpers: Loading map 'TestMap' took 0.235
+[2021.05.19-00.58.44:380][667]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.19-00.58.46:743][789]LogEditorViewport: Clicking on Actor (LMB): Killbox_C (Killbox)
+[2021.05.19-00.58.56:871][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.05.19-00.58.56:907][357]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestMapD8EAE5B74B117B00132B42B51F098485.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.19-00.58.56:926][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.19-00.58.56:980][357]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataACD9E1104FE55633845A00BA36C9D9AE.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.19-00.58.57:013][357]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-00.58.57:013][357]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.19-00.58.57:013][357]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.19-00.58.58:493][435]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.19-00.58.59:934][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.19-00.58.59:961][511]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestMapB621DC614D2A97B9D8965B921B1CE309.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.19-00.58.59:982][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.19-00.59.00:023][511]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData0806316B42C5C44E3D315F9C368531D1.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.19-00.59.00:060][511]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-00.59.00:060][511]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.19-00.59.00:060][511]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.19-00.59.04:275][535]LogEditorViewport: Clicking on Actor (LMB): Killbox_C (Killbox3)
+[2021.05.19-00.59.20:887][456]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.00.03:431][595]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.00.03:527][595]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2021.05.19-01.00.04:240][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.00.04:279][624]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM5063E5684B80642DF4B56AB4B51CFD64.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.00.04:306][624]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.00.04:306][624]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.00.13:935][ 82]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UUserWidget::AddToViewport' [Element not found.]
+[2021.05.19-01.00.17:708][265]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.00.17:804][265]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2021.05.19-01.00.18:553][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.00.18:594][296]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM5B05AB294B731D4142979CA31A8DE350.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.00.18:623][296]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.00.18:623][296]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.01.00:044][465]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.01.00:139][465]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2021.05.19-01.01.00:537][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.01.00:580][479]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM3F5331AD4B6BA8CFD14E4B8FD637F955.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.01.00:633][479]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.01.00:633][479]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.01.03:211][603]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-01.01.03:227][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-01.01.03:227][603]PIE: New page: PIE session: TestMap (May 18, 2021, 11:01:03 AM)
+[2021.05.19-01.01.03:228][603]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.01.03:234][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006181s)
+[2021.05.19-01.01.03:236][603]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-01.01.03:236][603]LogPlayLevel: PIE: World Init took: (0.002224s)
+[2021.05.19-01.01.03:236][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.008786s)
+[2021.05.19-01.01.03:285][603]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.05.19-01.01.03:286][603]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.05.19-01.01.03:287][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-01.01.03:287][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-01.01.03:287][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-01.01.03:287][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-01.01.03:287][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-01.01.03:287][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-01.01.03:287][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-01.01.03:287][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-01.01.03:288][603]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-01.01.03:288][603]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-01.01.03:293][603]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-01.01.03:294][603]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-01.01.03:326][603]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-01.01.03:326][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-01.01.03:327][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-01.01.03:327][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-01.01.03:327][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-01.01.03:327][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-01.01.03:327][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-01.01.03:361][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-01.01.03:361][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-01.01.03:361][603]LogInit: FAudioDevice initialized.
+[2021.05.19-01.01.03:361][603]LogAudio: Display: Audio Device (ID: 29) registered with world 'TestMap'.
+[2021.05.19-01.01.03:373][603]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-01.01.03:377][603]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-18.01.03
+[2021.05.19-01.01.03:377][603]LogWorld: Bringing up level for play took: 0.002162
+[2021.05.19-01.01.03:378][603]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.05.19-01.01.03:385][603]PIE: Server logged in
+[2021.05.19-01.01.03:387][603]PIE: Play in editor total start time 0.162 seconds.
+[2021.05.19-01.01.18:079][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.01.18:079][472]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.01.18:079][472]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-01.01.18:080][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.01.18:094][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-01.01.18:114][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.01.18:153][472]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-01.01.18:154][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.01.18:156][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.01.18:201][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.01.18:208][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.05.19-01.01.18:275][473]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.05.19-01.02.16:408][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.02.16:452][703]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM6CB4FE16466F1459BEA869AD65DDAD86.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.02.16:478][703]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.02.16:478][703]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.05.55:875][457]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.05.55:977][457]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2021.05.19-01.05.56:628][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.05.56:675][484]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM93AE4ED342188FAE0B388C99E040B2DB.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.05.56:732][484]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.05.56:732][484]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.05.59:016][598]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2021.05.19-01.05.59:043][598]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestMap7D6D26FD4FAA1F125E5BB5BCC7460C3D.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.19-01.05.59:060][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.19-01.05.59:104][598]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData8A6A7B7F402B961F779C64AC3283A553.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.19-01.05.59:137][598]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-01.05.59:137][598]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.19-01.05.59:137][598]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.19-01.05.59:778][622]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-01.05.59:794][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-01.05.59:794][622]PIE: New page: PIE session: TestMap (May 18, 2021, 11:05:59 AM)
+[2021.05.19-01.05.59:795][622]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.05.59:801][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006653s)
+[2021.05.19-01.05.59:804][622]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-01.05.59:805][622]LogPlayLevel: PIE: World Init took: (0.003475s)
+[2021.05.19-01.05.59:805][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.010607s)
+[2021.05.19-01.05.59:848][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.05.19-01.05.59:849][622]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.05.19-01.05.59:849][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-01.05.59:850][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-01.05.59:850][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-01.05.59:850][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-01.05.59:851][622]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-01.05.59:851][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-01.05.59:851][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-01.05.59:851][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-01.05.59:851][622]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-01.05.59:851][622]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-01.05.59:856][622]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-01.05.59:856][622]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-01.05.59:901][622]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-01.05.59:902][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-01.05.59:902][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-01.05.59:902][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-01.05.59:903][622]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-01.05.59:903][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-01.05.59:903][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-01.05.59:938][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-01.05.59:939][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-01.05.59:939][622]LogInit: FAudioDevice initialized.
+[2021.05.19-01.05.59:939][622]LogAudio: Display: Audio Device (ID: 30) registered with world 'TestMap'.
+[2021.05.19-01.05.59:954][622]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-01.05.59:958][622]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-18.05.59
+[2021.05.19-01.05.59:959][622]LogWorld: Bringing up level for play took: 0.001894
+[2021.05.19-01.05.59:960][622]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.05.19-01.05.59:967][622]PIE: Server logged in
+[2021.05.19-01.05.59:969][622]PIE: Play in editor total start time 0.178 seconds.
+[2021.05.19-01.06.12:982][394]LogBlueprintUserMessages: [Enemy1_C_2] hit!!
+[2021.05.19-01.06.16:195][586]LogBlueprintUserMessages: [Enemy1_C_2] hit!!
+[2021.05.19-01.06.19:071][758]LogBlueprintUserMessages: [Enemy1_C_2] hit!!
+[2021.05.19-01.06.20:737][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.06.20:737][856]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.06.20:738][856]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-01.06.20:738][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.06.20:757][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-01.06.20:779][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.06.20:819][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.06.20:819][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.06.20:821][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.06.20:869][856]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2021.05.19-01.06.20:939][857]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.05.19-01.07.43:169][693]LogEditorTransaction: Undo Move Node
+[2021.05.19-01.10.19:723][551]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.10.19:810][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.05.19-01.10.20:571][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.10.20:617][583]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM5E3880A2472B403792C9EEAB6DDDF4D4.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.10.20:673][583]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.10.20:673][583]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.10.22:979][699]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-01.10.22:996][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-01.10.22:996][699]PIE: New page: PIE session: TestMap (May 18, 2021, 11:10:22 AM)
+[2021.05.19-01.10.22:996][699]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.10.23:004][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007105s)
+[2021.05.19-01.10.23:006][699]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-01.10.23:007][699]LogPlayLevel: PIE: World Init took: (0.003357s)
+[2021.05.19-01.10.23:007][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.010833s)
+[2021.05.19-01.10.23:054][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2021.05.19-01.10.23:056][699]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.05.19-01.10.23:056][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-01.10.23:056][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-01.10.23:056][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-01.10.23:056][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-01.10.23:056][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-01.10.23:056][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-01.10.23:056][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-01.10.23:056][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-01.10.23:057][699]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-01.10.23:057][699]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-01.10.23:061][699]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-01.10.23:062][699]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-01.10.23:103][699]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-01.10.23:103][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-01.10.23:103][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-01.10.23:104][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-01.10.23:105][699]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-01.10.23:105][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-01.10.23:105][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-01.10.23:138][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-01.10.23:138][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-01.10.23:138][699]LogInit: FAudioDevice initialized.
+[2021.05.19-01.10.23:138][699]LogAudio: Display: Audio Device (ID: 31) registered with world 'TestMap'.
+[2021.05.19-01.10.23:156][699]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-01.10.23:161][699]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-18.10.23
+[2021.05.19-01.10.23:161][699]LogWorld: Bringing up level for play took: 0.002477
+[2021.05.19-01.10.23:161][699]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.05.19-01.10.23:169][699]PIE: Server logged in
+[2021.05.19-01.10.23:171][699]PIE: Play in editor total start time 0.177 seconds.
+[2021.05.19-01.10.32:542][253]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:558][254]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:576][255]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:593][256]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:616][257]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:633][258]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:652][259]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:670][260]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:690][261]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:708][262]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:725][263]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:745][264]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:766][265]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:784][266]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:803][267]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:821][268]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:839][269]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:857][270]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:874][271]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:890][272]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:906][273]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:930][274]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:949][275]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:968][276]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.32:986][277]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:005][278]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:028][279]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:046][280]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:063][281]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:080][282]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:098][283]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:116][284]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:134][285]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:152][286]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:169][287]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:188][288]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:208][289]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:229][290]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:249][291]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:270][292]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:290][293]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:308][294]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:331][295]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:353][296]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:372][297]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:393][298]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:413][299]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:431][300]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:452][301]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:470][302]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:489][303]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:511][304]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:535][305]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:552][306]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:570][307]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:595][308]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:617][309]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:635][310]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:654][311]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:673][312]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:692][313]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:714][314]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:738][315]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:757][316]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:776][317]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:796][318]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:814][319]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:832][320]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:849][321]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:867][322]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:885][323]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:902][324]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:919][325]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:937][326]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:957][327]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:973][328]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.33:990][329]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:009][330]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:027][331]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:045][332]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:063][333]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:081][334]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:100][335]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:118][336]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:135][337]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:152][338]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:169][339]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:189][340]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:205][341]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:225][342]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:243][343]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:262][344]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:279][345]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:296][346]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:315][347]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:337][348]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:357][349]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:377][350]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:391][351]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:403][352]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:421][353]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:439][354]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:456][355]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:476][356]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:494][357]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:511][358]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:530][359]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:548][360]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:566][361]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:585][362]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:603][363]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:622][364]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:642][365]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:664][366]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:684][367]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:703][368]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:720][369]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:741][370]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:759][371]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:779][372]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:799][373]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:818][374]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:838][375]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:855][376]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:875][377]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:900][378]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:917][379]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:930][380]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:945][381]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:963][382]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:980][383]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.34:996][384]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:013][385]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:032][386]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:051][387]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:072][388]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:089][389]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:106][390]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:124][391]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:143][392]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:160][393]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:178][394]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:197][395]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:214][396]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:237][397]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:255][398]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:273][399]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:289][400]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:308][401]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:325][402]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:342][403]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:362][404]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:380][405]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:397][406]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:414][407]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:431][408]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:448][409]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:464][410]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:482][411]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:501][412]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:520][413]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:538][414]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:556][415]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:572][416]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:589][417]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:607][418]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:626][419]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:644][420]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:662][421]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:680][422]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:699][423]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:717][424]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:736][425]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:756][426]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:775][427]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:794][428]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:813][429]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:831][430]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:851][431]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:870][432]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:889][433]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:909][434]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:928][435]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:948][436]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:967][437]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.35:990][438]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:008][439]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:026][440]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:043][441]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:061][442]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:078][443]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:096][444]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:114][445]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:133][446]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:150][447]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:169][448]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:185][449]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:203][450]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:221][451]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:241][452]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:258][453]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:276][454]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:293][455]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:311][456]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:331][457]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:349][458]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:367][459]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:385][460]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:402][461]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:414][462]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:423][463]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:435][464]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:449][465]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:462][466]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:480][467]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:497][468]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:513][469]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:529][470]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:548][471]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:562][472]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:572][473]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:587][474]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:605][475]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:627][476]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:646][477]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:663][478]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:682][479]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:700][480]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:716][481]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:733][482]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:749][483]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:765][484]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:784][485]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:803][486]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:820][487]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:838][488]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:857][489]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:873][490]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:889][491]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:907][492]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:923][493]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:941][494]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:960][495]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.10.36:987][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.10.36:987][495]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.10.36:987][495]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-01.10.36:988][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.10.37:006][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-01.10.37:024][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.10.37:062][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-01.10.37:063][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.10.37:066][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.10.37:100][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.10.37:107][495]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.05.19-01.10.37:174][496]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.05.19-01.11.30:322][179]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.11.30:416][179]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2021.05.19-01.11.30:967][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.11.31:011][199]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM17DF476B4535CAAEB24A9AAFE51942AD.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.11.31:067][199]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.11.31:067][199]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.11.32:254][250]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-01.11.32:269][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-01.11.32:269][250]PIE: New page: PIE session: TestMap (May 18, 2021, 11:11:32 AM)
+[2021.05.19-01.11.32:270][250]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.11.32:277][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006837s)
+[2021.05.19-01.11.32:280][250]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-01.11.32:280][250]LogPlayLevel: PIE: World Init took: (0.002978s)
+[2021.05.19-01.11.32:281][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.010204s)
+[2021.05.19-01.11.32:328][250]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2021.05.19-01.11.32:329][250]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.05.19-01.11.32:329][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-01.11.32:329][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-01.11.32:329][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-01.11.32:329][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-01.11.32:329][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-01.11.32:330][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-01.11.32:330][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-01.11.32:330][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-01.11.32:330][250]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-01.11.32:330][250]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-01.11.32:335][250]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-01.11.32:335][250]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-01.11.32:365][250]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-01.11.32:365][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-01.11.32:365][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-01.11.32:365][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-01.11.32:366][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-01.11.32:366][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-01.11.32:366][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-01.11.32:398][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-01.11.32:398][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-01.11.32:398][250]LogInit: FAudioDevice initialized.
+[2021.05.19-01.11.32:398][250]LogAudio: Display: Audio Device (ID: 32) registered with world 'TestMap'.
+[2021.05.19-01.11.32:413][250]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-01.11.32:416][250]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-18.11.32
+[2021.05.19-01.11.32:417][250]LogWorld: Bringing up level for play took: 0.001938
+[2021.05.19-01.11.32:417][250]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.05.19-01.11.32:423][250]PIE: Server logged in
+[2021.05.19-01.11.32:425][250]PIE: Play in editor total start time 0.157 seconds.
+[2021.05.19-01.12.01:417][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.12.01:417][976]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.12.01:417][976]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-01.12.01:418][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.12.01:434][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-01.12.01:453][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.12.01:490][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-01.12.01:491][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.12.01:493][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.12.01:531][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.12.01:537][976]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.05.19-01.12.01:603][977]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.05.19-01.13.31:511][ 88]LogEditorTransaction: Undo Paste clipboard contents
+[2021.05.19-01.14.28:997][861]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.14.29:092][861]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2021.05.19-01.14.29:631][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.14.29:678][878]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM0D21D28740AC8AACE5CA2C994EBD1392.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.14.29:717][878]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.14.29:717][878]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.14.44:530][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.14.44:570][699]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM35E5432D4528802ADFF860B7B6778475.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.14.44:630][699]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.14.44:630][699]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.14.45:692][745]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-01.14.45:708][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-01.14.45:708][745]PIE: New page: PIE session: TestMap (May 18, 2021, 11:14:45 AM)
+[2021.05.19-01.14.45:708][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.14.45:715][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007305s)
+[2021.05.19-01.14.45:718][745]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-01.14.45:718][745]LogPlayLevel: PIE: World Init took: (0.002773s)
+[2021.05.19-01.14.45:718][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.010399s)
+[2021.05.19-01.14.45:766][745]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2021.05.19-01.14.45:767][745]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.05.19-01.14.45:767][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-01.14.45:767][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-01.14.45:767][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-01.14.45:767][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-01.14.45:767][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-01.14.45:767][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-01.14.45:768][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-01.14.45:768][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-01.14.45:768][745]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-01.14.45:768][745]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-01.14.45:772][745]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-01.14.45:773][745]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-01.14.45:807][745]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-01.14.45:807][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-01.14.45:808][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-01.14.45:808][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-01.14.45:808][745]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-01.14.45:808][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-01.14.45:808][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-01.14.45:842][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-01.14.45:843][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-01.14.45:843][745]LogInit: FAudioDevice initialized.
+[2021.05.19-01.14.45:843][745]LogAudio: Display: Audio Device (ID: 33) registered with world 'TestMap'.
+[2021.05.19-01.14.45:861][745]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-01.14.45:866][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-18.14.45
+[2021.05.19-01.14.45:866][745]LogWorld: Bringing up level for play took: 0.002883
+[2021.05.19-01.14.45:866][745]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.05.19-01.14.45:875][745]PIE: Server logged in
+[2021.05.19-01.14.45:876][745]PIE: Play in editor total start time 0.171 seconds.
+[2021.05.19-01.14.55:250][301]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:266][302]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:283][303]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:300][304]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:317][305]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:334][306]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:350][307]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:366][308]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:383][309]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:400][310]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:416][311]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:433][312]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:450][313]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:466][314]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:483][315]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:502][316]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:517][317]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:536][318]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:555][319]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:572][320]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:588][321]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:606][322]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:623][323]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:640][324]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:656][325]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:676][326]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:693][327]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:713][328]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:730][329]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:748][330]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:766][331]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:784][332]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:801][333]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:819][334]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:837][335]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:856][336]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:874][337]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:891][338]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:910][339]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:929][340]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:948][341]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:966][342]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.55:986][343]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:004][344]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:022][345]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:039][346]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:056][347]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:074][348]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:092][349]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:109][350]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:128][351]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:147][352]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:166][353]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:183][354]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:200][355]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:218][356]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:235][357]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:253][358]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:270][359]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:288][360]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:306][361]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:323][362]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:342][363]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:361][364]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:379][365]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:397][366]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:415][367]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:432][368]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:448][369]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:466][370]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:482][371]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:501][372]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:518][373]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:537][374]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:555][375]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:572][376]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:589][377]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:607][378]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:629][379]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:647][380]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:666][381]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:683][382]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:701][383]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:719][384]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:738][385]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:756][386]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:772][387]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:788][388]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:800][389]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:810][390]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:821][391]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:834][392]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:849][393]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:864][394]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:874][395]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:887][396]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:903][397]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:916][398]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:935][399]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:950][400]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:967][401]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.56:984][402]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:002][403]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:021][404]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:038][405]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:056][406]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:073][407]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:090][408]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:108][409]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:124][410]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:143][411]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:163][412]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:181][413]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:199][414]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:218][415]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:238][416]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:254][417]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:272][418]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:289][419]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:306][420]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:323][421]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:340][422]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:357][423]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:376][424]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:393][425]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:411][426]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:429][427]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:446][428]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:463][429]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:482][430]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:498][431]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:516][432]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:533][433]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:550][434]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:567][435]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:584][436]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:598][437]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:609][438]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:620][439]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:630][440]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:645][441]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:661][442]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:678][443]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:695][444]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:717][445]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:740][446]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:757][447]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:775][448]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:793][449]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:810][450]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:826][451]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:844][452]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:860][453]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:877][454]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:894][455]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:914][456]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:932][457]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:948][458]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:966][459]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.57:985][460]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:001][461]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:018][462]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:033][463]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:051][464]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:068][465]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:084][466]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:101][467]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:117][468]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:133][469]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:150][470]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:166][471]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:184][472]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:203][473]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:220][474]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:237][475]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:254][476]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:272][477]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:291][478]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:308][479]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:326][480]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:343][481]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:362][482]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:380][483]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:398][484]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:415][485]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:431][486]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:448][487]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:465][488]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:481][489]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:499][490]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:517][491]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:538][492]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:556][493]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:573][494]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:590][495]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:608][496]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:627][497]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:644][498]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:661][499]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:678][500]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:697][501]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:714][502]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:731][503]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:749][504]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:767][505]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:786][506]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:803][507]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:822][508]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:839][509]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:855][510]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:873][511]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:891][512]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:910][513]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:927][514]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:945][515]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:962][516]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:981][517]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:998][518]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.58:999][518]LogBlueprintUserMessages: [Enemy1_C_2] hit!!
+[2021.05.19-01.14.59:019][519]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:039][520]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:057][521]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:075][522]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:092][523]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:111][524]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:128][525]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:148][526]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:166][527]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:182][528]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:201][529]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:217][530]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:235][531]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:248][532]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:261][533]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:277][534]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:295][535]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:312][536]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:329][537]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:349][538]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:367][539]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:383][540]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:402][541]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:421][542]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:439][543]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:457][544]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:476][545]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:491][546]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:508][547]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:527][548]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:546][549]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:564][550]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:581][551]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:599][552]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:616][553]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:633][554]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:651][555]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:669][556]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:686][557]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:705][558]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:723][559]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:740][560]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:759][561]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:778][562]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:795][563]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:813][564]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:830][565]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:848][566]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:866][567]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:885][568]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:902][569]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:919][570]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:936][571]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:955][572]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:973][573]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.14.59:991][574]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.15.00:011][575]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.15.00:046][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.15.00:047][575]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.15.00:047][575]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-01.15.00:048][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.15.00:066][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-01.15.00:089][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.15.00:128][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-01.15.00:129][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.15.00:130][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.15.00:168][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.15.00:175][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.05.19-01.15.00:247][576]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.05.19-01.18.56:849][420]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.18.56:945][420]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2021.05.19-01.18.57:415][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.18.57:458][437]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGMF1DB082640C4F6F144036F814419A9D2.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.18.57:493][437]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.18.57:493][437]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.18.58:634][494]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-01.18.58:650][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-01.18.58:651][494]PIE: New page: PIE session: TestMap (May 18, 2021, 11:18:58 AM)
+[2021.05.19-01.18.58:683][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.18.58:691][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007852s)
+[2021.05.19-01.18.58:694][494]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-01.18.58:695][494]LogPlayLevel: PIE: World Init took: (0.003513s)
+[2021.05.19-01.18.58:695][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.011836s)
+[2021.05.19-01.18.58:741][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.05.19-01.18.58:742][494]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.05.19-01.18.58:742][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-01.18.58:743][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-01.18.58:743][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-01.18.58:743][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-01.18.58:743][494]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-01.18.58:743][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-01.18.58:743][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-01.18.58:743][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-01.18.58:745][494]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-01.18.58:745][494]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-01.18.58:750][494]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-01.18.58:750][494]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-01.18.58:783][494]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-01.18.58:784][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-01.18.58:784][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-01.18.58:784][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-01.18.58:785][494]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-01.18.58:785][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-01.18.58:785][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-01.18.58:823][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-01.18.58:823][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-01.18.58:823][494]LogInit: FAudioDevice initialized.
+[2021.05.19-01.18.58:823][494]LogAudio: Display: Audio Device (ID: 34) registered with world 'TestMap'.
+[2021.05.19-01.18.58:837][494]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-01.18.58:840][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-18.18.58
+[2021.05.19-01.18.58:841][494]LogWorld: Bringing up level for play took: 0.002185
+[2021.05.19-01.18.58:841][494]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.05.19-01.18.58:849][494]PIE: Server logged in
+[2021.05.19-01.18.58:851][494]PIE: Play in editor total start time 0.201 seconds.
+[2021.05.19-01.19.01:645][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.19.01:645][656]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.19.01:645][656]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-01.19.01:646][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.19.01:665][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-01.19.01:685][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.19.01:723][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-01.19.01:724][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.19.01:726][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.19.01:761][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.19.01:769][656]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.05.19-01.19.01:834][657]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.05.19-01.19.05:934][861]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.19.06:032][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.05.19-01.19.06:408][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.19.06:453][874]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM9CA4E22A47FEA8FF7C54319BF3A18853.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.19.06:510][874]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.19.06:510][874]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.19.07:868][933]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2021.05.19-01.19.07:893][933]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestMapC96099EE4FC25647D697DA82FEB60634.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.19-01.19.07:908][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.19-01.19.07:936][933]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData98A9AFC640C36CF6047FCAA880403740.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.19-01.19.07:996][933]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-01.19.07:996][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.19-01.19.07:996][933]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.19-01.19.08:542][955]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-01.19.08:555][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-01.19.08:555][955]PIE: New page: PIE session: TestMap (May 18, 2021, 11:19:08 AM)
+[2021.05.19-01.19.08:555][955]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.19.08:561][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006056s)
+[2021.05.19-01.19.08:562][955]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-01.19.08:563][955]LogPlayLevel: PIE: World Init took: (0.002619s)
+[2021.05.19-01.19.08:563][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.008967s)
+[2021.05.19-01.19.08:608][955]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.05.19-01.19.08:609][955]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.05.19-01.19.08:609][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-01.19.08:609][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-01.19.08:609][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-01.19.08:609][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-01.19.08:609][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-01.19.08:609][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-01.19.08:609][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-01.19.08:609][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-01.19.08:610][955]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-01.19.08:610][955]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-01.19.08:615][955]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-01.19.08:615][955]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-01.19.08:645][955]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-01.19.08:646][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-01.19.08:646][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-01.19.08:646][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-01.19.08:646][955]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-01.19.08:646][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-01.19.08:646][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-01.19.08:678][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-01.19.08:678][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-01.19.08:678][955]LogInit: FAudioDevice initialized.
+[2021.05.19-01.19.08:678][955]LogAudio: Display: Audio Device (ID: 35) registered with world 'TestMap'.
+[2021.05.19-01.19.08:691][955]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-01.19.08:694][955]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-18.19.08
+[2021.05.19-01.19.08:694][955]LogWorld: Bringing up level for play took: 0.001577
+[2021.05.19-01.19.08:694][955]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.05.19-01.19.08:700][955]PIE: Server logged in
+[2021.05.19-01.19.08:701][955]PIE: Play in editor total start time 0.149 seconds.
+[2021.05.19-01.19.14:095][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.19.14:095][273]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.19.14:095][273]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-01.19.14:096][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.19.14:109][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-01.19.14:131][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.19.14:166][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.19.14:166][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.19.14:168][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.19.14:211][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.05.19-01.19.14:276][274]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.05.19-01.19.45:855][ 88]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.19.45:951][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2021.05.19-01.19.46:432][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.19.46:476][101]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM6B56EE2A4951233DD15CF3BB77CD80AE.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.19.46:501][101]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.19.46:501][101]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.20.16:109][791]LogEditorTransaction: Undo Rename Node
+[2021.05.19-01.20.16:724][804]LogEditorTransaction: Undo Add Node
+[2021.05.19-01.21.06:572][570]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.21.06:674][570]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2021.05.19-01.21.07:424][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.21.07:471][599]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM80F1F97A436156CD02341C9C2811E090.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.21.07:499][599]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.21.07:499][599]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.21.25:360][493]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.21.25:467][493]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2021.05.19-01.21.25:957][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.21.26:005][508]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGM582F5330458DCBEF717B5496742A62C2.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.21.26:049][508]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.21.26:049][508]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.19-01.21.27:104][550]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-01.21.27:118][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-01.21.27:118][550]PIE: New page: PIE session: TestMap (May 18, 2021, 11:21:27 AM)
+[2021.05.19-01.21.27:118][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.21.27:126][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007151s)
+[2021.05.19-01.21.27:128][550]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-01.21.27:129][550]LogPlayLevel: PIE: World Init took: (0.002952s)
+[2021.05.19-01.21.27:129][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.010423s)
+[2021.05.19-01.21.27:177][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2021.05.19-01.21.27:178][550]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.05.19-01.21.27:178][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-01.21.27:178][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-01.21.27:178][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-01.21.27:178][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-01.21.27:178][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-01.21.27:178][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-01.21.27:178][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-01.21.27:178][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-01.21.27:179][550]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-01.21.27:179][550]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-01.21.27:184][550]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-01.21.27:184][550]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-01.21.27:215][550]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.05.19-01.21.27:216][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-01.21.27:216][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-01.21.27:216][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-01.21.27:216][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-01.21.27:217][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-01.21.27:217][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-01.21.27:254][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-01.21.27:254][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-01.21.27:254][550]LogInit: FAudioDevice initialized.
+[2021.05.19-01.21.27:254][550]LogAudio: Display: Audio Device (ID: 36) registered with world 'TestMap'.
+[2021.05.19-01.21.27:269][550]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-01.21.27:272][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.18-18.21.27
+[2021.05.19-01.21.27:274][550]LogWorld: Bringing up level for play took: 0.002948
+[2021.05.19-01.21.27:274][550]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.05.19-01.21.27:280][550]PIE: Server logged in
+[2021.05.19-01.21.27:282][550]PIE: Play in editor total start time 0.167 seconds.
+[2021.05.19-01.21.36:653][105]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:670][106]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:686][107]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:702][108]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:719][109]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:735][110]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:752][111]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:767][112]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:783][113]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:800][114]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:818][115]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:834][116]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:852][117]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:869][118]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:885][119]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:902][120]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:919][121]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:935][122]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:952][123]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:972][124]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.36:992][125]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:011][126]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:029][127]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:046][128]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:059][129]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:076][130]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:093][131]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:109][132]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:126][133]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:144][134]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:164][135]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:181][136]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:202][137]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:224][138]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:243][139]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:263][140]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:282][141]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:299][142]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:320][143]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:341][144]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:361][145]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:378][146]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:398][147]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:419][148]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:439][149]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:457][150]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:475][151]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:491][152]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:510][153]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:527][154]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:544][155]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:563][156]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:582][157]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:601][158]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:621][159]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:641][160]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:659][161]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:680][162]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:698][163]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:716][164]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:735][165]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:754][166]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:773][167]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:792][168]LogBlueprintUserMessages: [TestGM_C_0] at max escape
+[2021.05.19-01.21.37:845][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.21.37:845][168]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-01.21.37:845][168]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-01.21.37:846][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.21.37:861][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-01.21.37:879][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-01.21.37:919][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-01.21.37:920][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.21.37:922][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-01.21.37:956][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-01.21.37:964][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.05.19-01.21.38:035][169]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.05.19-01.21.44:163][446]BlueprintLog: New page: Compile TestGM
+[2021.05.19-01.21.44:257][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.05.19-01.21.45:261][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.19-01.21.45:308][490]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Saved/TestGMEE43289A4CC1D82A540F7A97B572BA31.tmp' to '../../../../../../Users/olive/Documents/GitHub/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.19-01.21.45:338][490]AssetCheck: New page: Asset Save: TestGM
+[2021.05.19-01.21.45:338][490]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
