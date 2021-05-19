@@ -1756,3 +1756,684 @@ Are you sure?
 [2021.05.19-21.58.37:388][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.05.19-21.58.37:407][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
 [2021.05.19-21.58.37:427][941]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.19-22.02.06:945][220]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\SharpenerVar1.fbx)
+[2021.05.19-22.02.06:961][220]LogFbx: Loading FBX Scene from B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\SharpenerVar1.fbx
+[2021.05.19-22.02.06:980][220]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-22.02.13:680][220]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.19-22.02.13:706][220]LogTexture: Display: Building textures: Game_Jam_Colors (BGRA8, 11X4)
+[2021.05.19-22.02.13:707][220]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.05.19-22.02.13:735][220]LogFbx: Display: Triangulating static mesh Pencil
+[2021.05.19-22.02.13:750][220]LogStaticMesh: Building static mesh SharpenerVar1_Pencil...
+[2021.05.19-22.02.13:764][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_Pencil.SharpenerVar1_Pencil
+[2021.05.19-22.02.13:766][220]LogStaticMesh: Warning: SharpenerVar1_Pencil has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-22.02.13:766][220]LogStaticMesh: Warning: SharpenerVar1_Pencil has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-22.02.13:774][220]LogFbx: Display: Triangulating static mesh SharpRed
+[2021.05.19-22.02.13:791][220]LogStaticMesh: Building static mesh SharpenerVar1_SharpRed...
+[2021.05.19-22.02.13:805][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_SharpRed.SharpenerVar1_SharpRed
+[2021.05.19-22.02.13:807][220]LogStaticMesh: Warning: SharpenerVar1_SharpRed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-22.02.13:807][220]LogStaticMesh: Warning: SharpenerVar1_SharpRed has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-22.02.13:813][220]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.05.19-22.02.13:815][220]LogStaticMesh: Building static mesh SharpenerVar1_Cylinder...
+[2021.05.19-22.02.13:818][220]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Imported/SharpenerVar1_Cylinder.SharpenerVar1_Cylinder
+[2021.05.19-22.02.13:823][220]LogFbx: Display: Triangulating static mesh Pencil Small
+[2021.05.19-22.02.13:830][220]LogStaticMesh: Building static mesh SharpenerVar1_Pencil_Small...
+[2021.05.19-22.02.13:838][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_Pencil_Small.SharpenerVar1_Pencil_Small
+[2021.05.19-22.02.13:844][220]LogFbx: Display: Triangulating static mesh Pencil Small.001
+[2021.05.19-22.02.13:851][220]LogStaticMesh: Building static mesh SharpenerVar1_Pencil_Small_001...
+[2021.05.19-22.02.13:858][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_Pencil_Small_001.SharpenerVar1_Pencil_Small_001
+[2021.05.19-22.02.13:864][220]LogFbx: Display: Triangulating static mesh Bag
+[2021.05.19-22.02.13:877][220]LogStaticMesh: Building static mesh SharpenerVar1_Bag...
+[2021.05.19-22.02.13:886][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_Bag.SharpenerVar1_Bag
+[2021.05.19-22.02.13:893][220]LogFbx: Display: Triangulating static mesh Pencil Box
+[2021.05.19-22.02.13:927][220]LogStaticMesh: Building static mesh SharpenerVar1_Pencil_Box...
+[2021.05.19-22.02.13:942][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_Pencil_Box.SharpenerVar1_Pencil_Box
+[2021.05.19-22.02.13:950][220]LogFbx: Display: Triangulating static mesh SharpOrange
+[2021.05.19-22.02.13:966][220]LogStaticMesh: Building static mesh SharpenerVar1_SharpOrange...
+[2021.05.19-22.02.13:979][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_SharpOrange.SharpenerVar1_SharpOrange
+[2021.05.19-22.02.13:986][220]LogFbx: Display: Triangulating static mesh SharpBlue
+[2021.05.19-22.02.14:004][220]LogStaticMesh: Building static mesh SharpenerVar1_SharpBlue...
+[2021.05.19-22.02.14:020][220]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Imported/SharpenerVar1_SharpBlue.SharpenerVar1_SharpBlue
+[2021.05.19-22.02.14:028][220]LogFbx: Display: Triangulating static mesh SharpLBlue
+[2021.05.19-22.02.14:043][220]LogStaticMesh: Building static mesh SharpenerVar1_SharpLBlue...
+[2021.05.19-22.02.14:057][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_SharpLBlue.SharpenerVar1_SharpLBlue
+[2021.05.19-22.02.14:067][220]LogFbx: Display: Triangulating static mesh SharpPurple
+[2021.05.19-22.02.14:083][220]LogStaticMesh: Building static mesh SharpenerVar1_SharpPurple...
+[2021.05.19-22.02.14:096][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_SharpPurple.SharpenerVar1_SharpPurple
+[2021.05.19-22.02.14:103][220]LogFbx: Display: Triangulating static mesh Pencil Box.001
+[2021.05.19-22.02.14:130][220]LogStaticMesh: Building static mesh SharpenerVar1_Pencil_Box_001...
+[2021.05.19-22.02.14:143][220]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/SharpenerVar1_Pencil_Box_001.SharpenerVar1_Pencil_Box_001
+[2021.05.19-22.02.14:152][220]LogFbx: Display: Triangulating static mesh Sphere
+[2021.05.19-22.02.14:186][220]LogStaticMesh: Building static mesh SharpenerVar1_Sphere...
+[2021.05.19-22.02.14:210][220]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Imported/SharpenerVar1_Sphere.SharpenerVar1_Sphere
+[2021.05.19-22.02.14:213][220]LogStaticMesh: Warning: SharpenerVar1_Sphere has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-22.02.14:213][220]LogStaticMesh: Warning: SharpenerVar1_Sphere has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-22.02.14:255][220]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-22.02.14:255][220]FBXImport: Warning: SharpenerVar1_Pencil has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-22.02.14:255][220]FBXImport: Warning: SharpenerVar1_Pencil has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-22.02.14:255][220]FBXImport: Warning: SharpenerVar1_SharpRed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-22.02.14:255][220]FBXImport: Warning: SharpenerVar1_SharpRed has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-22.02.14:255][220]FBXImport: Warning: SharpenerVar1_Sphere has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-22.02.14:255][220]FBXImport: Warning: SharpenerVar1_Sphere has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-22.02.17:728][474]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-22.02.17:750][474]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-22.02.37:871][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.19-22.02.43:148][ 37]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.19-22.02.43:256][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.05.19-22.03.05:005][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\SharpenerVar1.fbx)
+[2021.05.19-22.03.05:021][723]LogFbx: Loading FBX Scene from B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\SharpenerVar1.fbx
+[2021.05.19-22.03.05:027][723]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-22.03.06:433][723]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.19-22.03.06:459][723]LogTexture: Display: Building textures: Game_Jam_Colors (BGRA8, 11X4)
+[2021.05.19-22.03.06:461][723]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.05.19-22.03.06:468][723]LogFbx: Display: Triangulating static mesh SharpRed
+[2021.05.19-22.03.06:486][723]LogStaticMesh: Building static mesh SharpenerVar1...
+[2021.05.19-22.03.06:501][723]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Imported/SharpenerVar1.SharpenerVar1
+[2021.05.19-22.03.06:503][723]LogStaticMesh: Warning: SharpenerVar1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-22.03.06:503][723]LogStaticMesh: Warning: SharpenerVar1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-22.03.06:511][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-22.03.06:511][723]FBXImport: Warning: SharpenerVar1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-22.03.06:511][723]FBXImport: Warning: SharpenerVar1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-22.03.08:208][843]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-22.03.08:229][843]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-22.03.40:925][180]BlueprintLog: New page: Compile Enemy1
+[2021.05.19-22.03.40:968][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.19-22.03.41:620][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy1" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset" SILENT=true
+[2021.05.19-22.03.41:648][210]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy10EBB18464019CAE824674D97923CF923.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset'
+[2021.05.19-22.03.41:667][210]AssetCheck: New page: Asset Save: Enemy1
+[2021.05.19-22.03.41:668][210]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy1.Enemy1
+[2021.05.19-22.03.42:844][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.19-22.03.42:863][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.19-22.03.42:873][284]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap1FBFC6564987A1E45725748DCEADDCF9.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.19-22.03.42:879][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.19-22.03.42:894][284]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataCC371B94462EFB0CFCAFB4902EA5D1F1.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.19-22.03.42:950][284]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-22.03.42:950][284]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.19-22.03.42:950][284]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.19-22.03.43:287][311]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-22.03.43:293][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-22.03.43:293][311]PIE: New page: PIE session: TestMap (May 19, 2021, 8:03:43 AM)
+[2021.05.19-22.03.43:293][311]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-22.03.43:295][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002586s)
+[2021.05.19-22.03.43:296][311]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-22.03.43:296][311]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2021.05.19-22.03.43:296][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003663s)
+[2021.05.19-22.03.43:315][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.05.19-22.03.43:315][311]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.19-22.03.43:315][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-22.03.43:315][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-22.03.43:315][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-22.03.43:315][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-22.03.43:315][311]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-22.03.43:315][311]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-22.03.43:315][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-22.03.43:315][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-22.03.43:316][311]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-22.03.43:316][311]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-22.03.43:320][311]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-22.03.43:320][311]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-22.03.43:320][311]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-22.03.43:320][311]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-22.03.43:320][311]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-22.03.43:320][311]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-22.03.43:320][311]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-22.03.43:320][311]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-22.03.43:470][311]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.19-22.03.43:470][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-22.03.43:470][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-22.03.43:470][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-22.03.43:470][311]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-22.03.43:470][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-22.03.43:470][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-22.03.43:483][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-22.03.43:483][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-22.03.43:483][311]LogInit: FAudioDevice initialized.
+[2021.05.19-22.03.43:483][311]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2021.05.19-22.03.43:489][311]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-22.03.43:490][311]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-15.03.43
+[2021.05.19-22.03.43:490][311]LogWorld: Bringing up level for play took: 0.000689
+[2021.05.19-22.03.43:490][311]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.19-22.03.43:493][311]PIE: Server logged in
+[2021.05.19-22.03.43:494][311]PIE: Play in editor total start time 0.202 seconds.
+[2021.05.19-22.03.57:098][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-22.03.57:098][938]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-22.03.57:098][938]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-22.03.57:098][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-22.03.57:106][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-22.03.57:110][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-22.03.57:126][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-22.03.57:126][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-22.03.57:127][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-22.03.57:143][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-22.03.57:146][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.19-22.03.57:170][939]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.19-22.03.59:499][142]LogEditorViewport: Clicking on Actor (LMB): EnemySpawner_C (EnemySpawner)
+[2021.05.19-22.04.21:168][363]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-22.04.21:173][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-22.04.21:173][363]PIE: New page: PIE session: TestMap (May 19, 2021, 8:04:21 AM)
+[2021.05.19-22.04.21:196][363]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-22.04.21:199][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002703s)
+[2021.05.19-22.04.21:200][363]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-22.04.21:200][363]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2021.05.19-22.04.21:200][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003952s)
+[2021.05.19-22.04.21:219][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.05.19-22.04.21:223][363]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.19-22.04.21:223][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-22.04.21:223][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-22.04.21:223][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-22.04.21:223][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-22.04.21:223][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-22.04.21:223][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-22.04.21:223][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-22.04.21:223][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-22.04.21:223][363]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-22.04.21:223][363]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-22.04.21:228][363]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-22.04.21:228][363]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-22.04.21:228][363]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-22.04.21:228][363]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-22.04.21:228][363]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-22.04.21:228][363]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-22.04.21:228][363]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-22.04.21:228][363]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-22.04.21:391][363]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.19-22.04.21:392][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-22.04.21:392][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-22.04.21:392][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-22.04.21:392][363]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-22.04.21:392][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-22.04.21:392][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-22.04.21:405][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-22.04.21:405][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-22.04.21:406][363]LogInit: FAudioDevice initialized.
+[2021.05.19-22.04.21:406][363]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMap'.
+[2021.05.19-22.04.21:413][363]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-22.04.21:414][363]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-15.04.21
+[2021.05.19-22.04.21:415][363]LogWorld: Bringing up level for play took: 0.000673
+[2021.05.19-22.04.21:415][363]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.05.19-22.04.21:417][363]PIE: Server logged in
+[2021.05.19-22.04.21:418][363]PIE: Play in editor total start time 0.246 seconds.
+[2021.05.19-22.04.30:408][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-22.04.30:408][435]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-22.04.30:408][435]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-22.04.30:408][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-22.04.30:415][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-22.04.30:423][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-22.04.30:440][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-22.04.30:441][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-22.04.30:442][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-22.04.30:458][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-22.04.30:460][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.05.19-22.04.30:488][436]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.05.19-22.04.38:217][332]Cmd: TRANSACTION UNDO
+[2021.05.19-22.04.38:217][332]LogEditorTransaction: Undo Move Actors
+[2021.05.19-22.06.03:407][732]LogEditorTransaction: Undo Modify Component(s)
+[2021.05.19-22.06.19:085][411]BlueprintLog: New page: Compile Enemy1
+[2021.05.19-22.06.19:132][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.05.19-22.06.19:703][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy1" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset" SILENT=true
+[2021.05.19-22.06.19:733][440]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy1CA7BB6494C41CF26CBA839B97DF7FF44.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset'
+[2021.05.19-22.06.19:752][440]AssetCheck: New page: Asset Save: Enemy1
+[2021.05.19-22.06.19:752][440]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy1.Enemy1
+[2021.05.19-22.06.20:630][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.19-22.06.20:649][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.05.19-22.06.20:659][507]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap4F5B70DD42FB5B9F40C6ABACD27DBF74.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.19-22.06.20:666][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.19-22.06.20:683][507]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData646CDE384038F68066CB649B0F3C1B96.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.19-22.06.20:702][507]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-22.06.20:702][507]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.19-22.06.20:702][507]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.19-22.06.21:375][552]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-22.06.21:381][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-22.06.21:381][552]PIE: New page: PIE session: TestMap (May 19, 2021, 8:06:21 AM)
+[2021.05.19-22.06.21:417][552]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-22.06.21:419][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002646s)
+[2021.05.19-22.06.21:420][552]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-22.06.21:420][552]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2021.05.19-22.06.21:420][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003718s)
+[2021.05.19-22.06.21:440][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.05.19-22.06.21:440][552]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.19-22.06.21:440][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-22.06.21:440][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-22.06.21:440][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-22.06.21:440][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-22.06.21:440][552]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-22.06.21:440][552]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-22.06.21:440][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-22.06.21:440][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-22.06.21:441][552]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-22.06.21:441][552]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-22.06.21:445][552]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-22.06.21:445][552]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-22.06.21:445][552]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-22.06.21:445][552]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-22.06.21:445][552]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-22.06.21:445][552]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-22.06.21:445][552]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-22.06.21:445][552]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-22.06.21:599][552]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.19-22.06.21:599][552]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-22.06.21:599][552]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-22.06.21:599][552]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-22.06.21:600][552]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-22.06.21:600][552]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-22.06.21:600][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-22.06.21:614][552]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-22.06.21:614][552]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-22.06.21:614][552]LogInit: FAudioDevice initialized.
+[2021.05.19-22.06.21:614][552]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2021.05.19-22.06.21:621][552]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-22.06.21:622][552]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-15.06.21
+[2021.05.19-22.06.21:622][552]LogWorld: Bringing up level for play took: 0.000671
+[2021.05.19-22.06.21:622][552]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.05.19-22.06.21:625][552]PIE: Server logged in
+[2021.05.19-22.06.21:626][552]PIE: Play in editor total start time 0.245 seconds.
+[2021.05.19-22.06.31:993][793]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.34:452][ 88]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.35:135][170]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.35:143][171]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.35:152][172]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.35:160][173]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:368][438]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:376][439]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:385][440]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:393][441]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:401][442]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:410][443]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:418][444]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:426][445]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:435][446]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:443][447]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:452][448]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:459][449]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:468][450]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:468][450]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:476][451]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:485][452]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:493][453]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:501][454]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:510][455]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:518][456]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:527][457]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:535][458]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:543][459]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:551][460]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:560][461]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:568][462]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:577][463]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:584][464]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:585][464]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:593][465]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:593][465]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:601][466]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:602][466]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:610][467]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:610][467]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:618][468]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:619][468]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:627][469]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:627][469]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:635][470]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:643][471]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:651][472]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:660][473]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:668][474]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:676][475]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:685][476]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:693][477]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:701][478]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:710][479]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:718][480]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:726][481]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:735][482]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:743][483]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:752][484]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:760][485]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:768][486]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:776][487]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:785][488]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:793][489]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:801][490]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:810][491]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:818][492]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:826][493]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:827][493]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:835][494]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:835][494]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:843][495]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:844][495]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:851][496]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:852][496]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:860][497]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:860][497]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:868][498]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:868][498]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:877][499]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:877][499]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:884][500]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:885][500]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:893][501]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:893][501]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:901][502]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:902][502]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:910][503]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:910][503]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:918][504]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:918][504]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:926][505]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:927][505]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:935][506]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:935][506]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:944][507]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:944][507]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:952][508]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:952][508]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:960][509]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:960][509]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:968][510]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:968][510]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:976][511]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:977][511]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:985][512]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:985][512]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.37:993][513]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.37:994][513]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:002][514]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:002][514]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:009][515]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:010][515]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:018][516]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:018][516]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:026][517]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:027][517]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:035][518]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:035][518]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:043][519]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:043][519]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:052][520]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:052][520]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:060][521]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:060][521]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:068][522]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:069][522]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:077][523]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:077][523]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:085][524]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:085][524]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:093][525]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:093][525]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:101][526]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:102][526]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:110][527]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:110][527]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:118][528]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:119][528]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:127][529]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:127][529]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:134][530]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:135][530]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:143][531]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:143][531]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:151][532]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:152][532]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:160][533]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:160][533]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:168][534]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:169][534]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:176][535]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:177][535]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:185][536]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:185][536]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:193][537]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:194][537]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:202][538]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:202][538]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:210][539]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:210][539]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:218][540]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:219][540]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:226][541]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:227][541]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:235][542]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:235][542]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:243][543]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:244][543]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:252][544]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:252][544]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:260][545]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:260][545]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:268][546]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:268][546]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:276][547]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:277][547]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:285][548]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:285][548]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:293][549]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:294][549]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:302][550]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:302][550]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:310][551]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:311][551]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:318][552]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:319][552]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:327][553]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:327][553]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:335][554]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:335][554]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:343][555]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:343][555]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:352][556]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:352][556]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:360][557]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:360][557]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:368][558]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:369][558]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:377][559]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:377][559]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:385][560]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:385][560]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:393][561]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:393][561]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:401][562]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:402][562]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:410][563]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:410][563]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:418][564]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:419][564]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:427][565]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:427][565]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:435][566]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:435][566]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:443][567]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:444][567]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:451][568]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:452][568]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:460][569]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:460][569]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:468][570]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:468][570]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:476][571]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:477][571]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:485][572]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:485][572]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:493][573]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:494][573]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:502][574]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:502][574]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:510][575]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:510][575]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:518][576]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:518][576]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:526][577]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:527][577]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:535][578]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:535][578]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:543][579]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:543][579]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:552][580]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:552][580]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:560][581]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:560][581]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:568][582]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:568][582]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:576][583]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:577][583]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:585][584]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:585][584]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:593][585]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:593][585]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:601][586]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:602][586]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:610][587]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:610][587]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:618][588]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:619][588]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:627][589]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:627][589]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:635][590]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:635][590]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:643][591]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:643][591]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:651][592]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:652][592]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:660][593]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:660][593]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:668][594]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:669][594]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:677][595]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:677][595]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:685][596]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:685][596]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:693][597]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:693][597]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:701][598]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:702][598]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:710][599]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:710][599]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:718][600]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:718][600]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:727][601]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:727][601]LogBlueprintUserMessages: [Enemy1_C_1] hit!!
+[2021.05.19-22.06.38:735][602]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:743][603]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:751][604]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:760][605]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:768][606]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:776][607]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:785][608]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:793][609]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:802][610]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:810][611]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:818][612]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:826][613]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:835][614]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:843][615]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:851][616]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:860][617]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:868][618]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:876][619]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:885][620]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:893][621]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:901][622]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:910][623]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:918][624]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:927][625]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:935][626]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:943][627]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:951][628]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:960][629]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:968][630]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:977][631]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:985][632]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.38:993][633]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:002][634]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:010][635]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:018][636]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:027][637]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:036][638]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:044][639]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:052][640]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:060][641]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:068][642]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:076][643]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:085][644]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:093][645]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:101][646]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:110][647]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:118][648]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:127][649]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:135][650]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:143][651]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:151][652]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:160][653]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:168][654]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:176][655]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:185][656]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:193][657]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:202][658]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:210][659]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:218][660]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:227][661]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:235][662]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:243][663]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:252][664]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:260][665]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:268][666]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:276][667]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:285][668]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:293][669]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:301][670]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:310][671]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:318][672]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:327][673]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:335][674]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:343][675]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:351][676]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:360][677]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:368][678]LogBlueprintUserMessages: [TestGM_C_0] Player Died
+[2021.05.19-22.06.39:376][679]LogNet: Browse: /Game/Levels/YouLostLevel
+[2021.05.19-22.06.39:376][679]LogLoad: LoadMap: /Game/Levels/YouLostLevel
+[2021.05.19-22.06.39:376][679]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-22.06.39:377][679]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-22.06.39:377][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-22.06.39:424][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-22.06.39:426][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.05.19-22.06.39:466][679]LogAudio: Display: Audio Device (ID: 8) registered with world 'YouLostLevel'.
+[2021.05.19-22.06.39:467][679]LogAIModule: Creating AISystem for world YouLostLevel
+[2021.05.19-22.06.39:467][679]LogLoad: Game class is 'YouLostGM_C'
+[2021.05.19-22.06.39:468][679]LogWorld: Bringing World /Game/Levels/UEDPIE_0_YouLostLevel.YouLostLevel up for play (max tick rate 0) at 2021.05.19-15.06.39
+[2021.05.19-22.06.39:468][679]LogWorld: Bringing up level for play took: 0.000406
+[2021.05.19-22.06.39:469][679]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.19-22.06.39:469][679]LogLoad: Took 0.092890 seconds to LoadMap(/Game/Levels/YouLostLevel)
+[2021.05.19-22.06.43:124][116]LogNet: Browse: /Game/Levels/TestMap
+[2021.05.19-22.06.43:124][116]LogLoad: LoadMap: /Game/Levels/TestMap
+[2021.05.19-22.06.43:124][116]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_YouLostLevel
+[2021.05.19-22.06.43:124][116]LogWorld: UWorld::CleanupWorld for YouLostLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-22.06.43:124][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-22.06.43:174][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-22.06.43:176][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.05.19-22.06.43:178][116]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-22.06.43:180][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002556s)
+[2021.05.19-22.06.43:181][116]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-22.06.43:181][116]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2021.05.19-22.06.43:181][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003616s)
+[2021.05.19-22.06.43:181][116]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2021.05.19-22.06.43:181][116]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-22.06.43:182][116]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-15.06.43
+[2021.05.19-22.06.43:182][116]LogWorld: Bringing up level for play took: 0.000477
+[2021.05.19-22.06.43:184][116]LogLoad: Took 0.060155 seconds to LoadMap(/Game/Levels/UEDPIE_0_TestMap)
+[2021.05.19-22.06.45:437][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-22.06.45:438][380]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-22.06.45:438][380]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-22.06.45:438][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-22.06.45:448][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-22.06.45:456][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-22.06.45:472][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-22.06.45:472][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-22.06.45:473][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-22.06.45:492][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.05.19-22.06.45:520][381]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.05.19-22.06.59:842][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy1" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset" SILENT=true
+[2021.05.19-22.06.59:866][802]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy1073F1B4B4145D0421839168995D7C5F2.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset'
+[2021.05.19-22.06.59:886][802]AssetCheck: New page: Asset Save: Enemy1
+[2021.05.19-22.06.59:886][802]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy1.Enemy1
+[2021.05.19-22.07.00:436][840]BlueprintLog: New page: Compile Enemy1
+[2021.05.19-22.07.00:478][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
