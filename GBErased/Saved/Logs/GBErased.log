@@ -1073,3 +1073,686 @@ Are you sure?
 [2021.05.19-21.42.01:340][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.19-21.42.01:360][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
 [2021.05.19-21.42.01:380][107]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.19-21.49.22:995][252]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\olive\Downloads\axisFrameBlenderToUE4.fbx)
+[2021.05.19-21.49.23:011][252]LogFbx: Loading FBX Scene from C:\Users\olive\Downloads\axisFrameBlenderToUE4.fbx
+[2021.05.19-21.49.23:018][252]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-21.49.27:109][252]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.19-21.49.27:128][252]LogFbx: Display: Triangulating static mesh Cylinder
+[2021.05.19-21.49.27:131][252]LogStaticMesh: Building static mesh axisFrameBlenderToUE4_Cylinder...
+[2021.05.19-21.49.27:134][252]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Imported/axisFrameBlenderToUE4_Cylinder.axisFrameBlenderToUE4_Cylinder
+[2021.05.19-21.49.27:141][252]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2021.05.19-21.49.27:143][252]LogStaticMesh: Building static mesh axisFrameBlenderToUE4_Cylinder_001...
+[2021.05.19-21.49.27:147][252]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Imported/axisFrameBlenderToUE4_Cylinder_001.axisFrameBlenderToUE4_Cylinder_001
+[2021.05.19-21.49.27:151][252]LogFbx: Display: Triangulating static mesh Cylinder.002
+[2021.05.19-21.49.27:154][252]LogStaticMesh: Building static mesh axisFrameBlenderToUE4_Cylinder_002...
+[2021.05.19-21.49.27:157][252]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Imported/axisFrameBlenderToUE4_Cylinder_002.axisFrameBlenderToUE4_Cylinder_002
+[2021.05.19-21.49.27:161][252]LogFbx: Display: Triangulating static mesh Cube
+[2021.05.19-21.49.27:164][252]LogStaticMesh: Building static mesh axisFrameBlenderToUE4_Cube...
+[2021.05.19-21.49.27:165][252]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Imported/axisFrameBlenderToUE4_Cube.axisFrameBlenderToUE4_Cube
+[2021.05.19-21.49.27:169][252]LogFbx: Display: Triangulating static mesh Cube.001
+[2021.05.19-21.49.27:173][252]LogStaticMesh: Building static mesh axisFrameBlenderToUE4_Cube_001...
+[2021.05.19-21.49.27:174][252]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Imported/axisFrameBlenderToUE4_Cube_001.axisFrameBlenderToUE4_Cube_001
+[2021.05.19-21.49.27:179][252]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.05.19-21.49.27:183][252]LogStaticMesh: Building static mesh axisFrameBlenderToUE4_Cube_002...
+[2021.05.19-21.49.27:185][252]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Imported/axisFrameBlenderToUE4_Cube_002.axisFrameBlenderToUE4_Cube_002
+[2021.05.19-21.49.27:191][252]LogFbx: Display: Triangulating static mesh Sphere
+[2021.05.19-21.49.27:211][252]LogStaticMesh: Building static mesh axisFrameBlenderToUE4_Sphere...
+[2021.05.19-21.49.27:221][252]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/axisFrameBlenderToUE4_Sphere.axisFrameBlenderToUE4_Sphere
+[2021.05.19-21.49.27:239][252]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-21.49.29:447][414]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-21.49.29:468][414]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-21.49.44:231][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.05.19-21.49.46:659][555]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.19-21.49.46:771][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.05.19-21.50.11:458][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.19-21.50.11:459][801]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.014
+[2021.05.19-21.50.11:460][801]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_AssetPlatform] ([1] browsable assets)...
+[2021.05.19-21.50.11:469][801]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_AssetPlatform.M_AssetPlatform]
+[2021.05.19-21.50.11:469][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_AssetPlatform]
+[2021.05.19-21.50.11:474][801]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/M_AssetPlatform_Auto11CF13C2240D1A12AC3474D90F22C3102.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Autosaves/Game/StarterContent/Materials/M_AssetPlatform_Auto1.uasset'
+[2021.05.19-21.50.11:475][801]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7094C49-4D07-05B9-765C-D382AB475942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=b379dad74f8b2639ae8d3f84346dffb5%7Cedac65b19396411f80156642f22b868f%7Cd53786d5-2566-435f-a12c-6f3c1f382b9b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20bc21b7eb0 [can pipeline])
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.231.45.219) port 443 (#0))
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: 0000020BACD4E400: libcurl info message cache 7 (Closing connection 0)
+[2021.05.19-21.50.36:238][876]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7094C49-4D07-05B9-765C-D382AB475942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=b379dad74f8b2639ae8d3f84346dffb5%7Cedac65b19396411f80156642f22b868f%7Cd53786d5-2566-435f-a12c-6f3c1f382b9b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-21.51.26:217][ 25]LogHttp: Warning: 0000020BAC6A7200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7094C49-4D07-05B9-765C-D382AB475942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=b379dad74f8b2639ae8d3f84346dffb5%7Cedac65b19396411f80156642f22b868f%7Cd53786d5-2566-435f-a12c-6f3c1f382b9b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-21.51.26:217][ 25]LogHttp: Warning: 0000020BAC6A7200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.19-21.51.26:217][ 25]LogHttp: Warning: 0000020BAC6A7200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.19-21.51.26:217][ 25]LogHttp: Warning: 0000020BAC6A7200: libcurl info message cache 1 (Closing connection 1)
+[2021.05.19-21.51.26:556][ 26]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7094C49-4D07-05B9-765C-D382AB475942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=b379dad74f8b2639ae8d3f84346dffb5%7Cedac65b19396411f80156642f22b868f%7Cd53786d5-2566-435f-a12c-6f3c1f382b9b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-21.52.50:858][318]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\olive\Downloads\axisFrameBlenderToUE4.fbx)
+[2021.05.19-21.52.50:874][318]LogFbx: Loading FBX Scene from C:\Users\olive\Downloads\axisFrameBlenderToUE4.fbx
+[2021.05.19-21.52.50:880][318]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-21.52.52:044][318]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.19-21.52.52:065][318]LogFbx: Display: Triangulating static mesh Sphere
+[2021.05.19-21.52.52:097][318]LogStaticMesh: Building static mesh axisFrameBlenderToUE4...
+[2021.05.19-21.52.52:118][318]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Imported/axisFrameBlenderToUE4.axisFrameBlenderToUE4
+[2021.05.19-21.52.52:132][318]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-21.52.54:339][493]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-21.52.54:359][493]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-21.52.56:669][704]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Imported/axisFrameBlenderToUE4.axisFrameBlenderToUE4
+[2021.05.19-21.52.57:506][705]LogRenderer: Reallocating scene render targets to support 1276x748 Format 10 NumSamples 1 (Frame:1).
+[2021.05.19-21.53.13:694][901]LogSlate: Window 'axisFrameBlenderToUE4' being destroyed
+[2021.05.19-21.53.13:713][901]LogSlate: Window 'axisFrameBlenderToUE4' being destroyed
+[2021.05.19-21.53.13:714][901]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-21.53.13:714][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-21.53.27:660][980]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemy1.Enemy1
+[2021.05.19-21.54.29:557][460]LogEditorTransaction: Undo Edit Static Mesh
+[2021.05.19-21.54.38:314][138]BlueprintLog: New page: Compile Enemy1
+[2021.05.19-21.54.38:403][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.05.19-21.54.39:023][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy1" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset" SILENT=true
+[2021.05.19-21.54.39:051][180]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy10F41AEE748BCE16CE57AF5AF4CA6266B.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset'
+[2021.05.19-21.54.39:081][180]AssetCheck: New page: Asset Save: Enemy1
+[2021.05.19-21.54.39:081][180]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy1.Enemy1
+[2021.05.19-21.54.45:355][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.19-21.54.46:454][625]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.19-21.54.46:559][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.05.19-21.55.07:381][997]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\olive\Downloads\axisFrameBlenderToUE4.fbx)
+[2021.05.19-21.55.07:397][997]LogFbx: Loading FBX Scene from C:\Users\olive\Downloads\axisFrameBlenderToUE4.fbx
+[2021.05.19-21.55.07:403][997]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-21.55.08:696][997]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.19-21.55.08:721][997]LogFbx: Display: Triangulating static mesh Sphere
+[2021.05.19-21.55.08:751][997]LogStaticMesh: Building static mesh axisFrameBlenderToUE4...
+[2021.05.19-21.55.08:774][997]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Imported/axisFrameBlenderToUE4.axisFrameBlenderToUE4
+[2021.05.19-21.55.08:777][997]LogStaticMesh: Warning: axisFrameBlenderToUE4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-21.55.08:777][997]LogStaticMesh: Warning: axisFrameBlenderToUE4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-21.55.08:787][997]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-21.55.08:787][997]FBXImport: Warning: axisFrameBlenderToUE4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-21.55.08:787][997]FBXImport: Warning: axisFrameBlenderToUE4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-21.55.11:939][248]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-21.55.11:959][248]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-21.55.39:282][678]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:282][678]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:283][678]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:283][678]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:291][679]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:291][679]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:291][679]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:291][679]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:291][679]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:291][679]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:298][680]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:298][680]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:298][680]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:298][680]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:298][680]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:298][680]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:306][681]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:306][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:307][681]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:307][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:307][681]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:307][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:315][682]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:315][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:315][682]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:315][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:315][682]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:315][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:323][683]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:323][683]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:323][683]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:323][683]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:323][683]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:323][683]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:331][684]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:331][684]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:331][684]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:331][684]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:331][684]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:332][684]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:340][685]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:340][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:340][685]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:340][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:340][685]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:340][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:348][686]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:348][686]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:348][686]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:348][686]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:348][686]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:348][686]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:356][687]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:356][687]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:356][687]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:356][687]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:356][687]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:356][687]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:364][688]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:364][688]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:364][688]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:365][688]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:590][715]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:590][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:590][715]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:590][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:598][716]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:598][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:599][716]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:599][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:599][716]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:599][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:606][717]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:606][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:606][717]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:606][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:606][717]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:606][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:616][718]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:616][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:616][718]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:616][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:616][718]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:616][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:623][719]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:624][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:624][719]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:624][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:624][719]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:624][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:631][720]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:631][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:631][720]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:631][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:631][720]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:631][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:640][721]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:640][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:640][721]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:640][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:640][721]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:640][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:648][722]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:648][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:648][722]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:648][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:648][722]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:648][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:657][723]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:657][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:657][723]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:657][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:657][723]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:657][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:665][724]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:665][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:665][724]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:665][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:665][724]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:665][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:673][725]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:673][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:673][725]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:673][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:673][725]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:673][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:681][726]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:681][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:681][726]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:681][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:681][726]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:681][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:689][727]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:689][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:690][727]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:690][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:690][727]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:690][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:698][728]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:698][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:698][728]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:698][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:698][728]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:698][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:707][729]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:707][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:707][729]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:707][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:707][729]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:707][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:715][730]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:715][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:715][730]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:715][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:715][730]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:715][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:723][731]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:723][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:723][731]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:723][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:723][731]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:723][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:731][732]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:731][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:732][732]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:732][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:732][732]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:732][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:739][733]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:739][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:739][733]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:739][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:739][733]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:739][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:747][734]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:748][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:748][734]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:748][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:748][734]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:748][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:756][735]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:756][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:756][735]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:756][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:756][735]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:756][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:764][736]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:764][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:764][736]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:764][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:764][736]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:764][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:772][737]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:772][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:773][737]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:773][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:773][737]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:773][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:781][738]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:781][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:781][738]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:781][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:781][738]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:781][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:789][739]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:789][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:789][739]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:789][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:789][739]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:790][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:798][740]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:798][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:798][740]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:798][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:798][740]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:798][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:806][741]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:806][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:806][741]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:806][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:806][741]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:807][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:814][742]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:814][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:815][742]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:815][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:815][742]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:815][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:823][743]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:823][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:823][743]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:823][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:823][743]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:823][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:832][744]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:832][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:832][744]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:832][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:832][744]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:832][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:840][745]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:840][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:840][745]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:840][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:840][745]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:840][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:848][746]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:848][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:848][746]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:848][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:848][746]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:848][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:857][747]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:857][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:857][747]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:857][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:857][747]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:857][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:864][748]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:864][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:865][748]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:865][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:865][748]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:865][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:874][749]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:874][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:874][749]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:874][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:874][749]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:874][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:882][750]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:882][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:882][750]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:882][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:882][750]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:882][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:891][751]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:891][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:891][751]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:891][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:891][751]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:891][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:898][752]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:898][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:898][752]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:898][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:898][752]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:898][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:906][753]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:907][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:907][753]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:907][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:907][753]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:907][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:916][754]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:916][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:916][754]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:916][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:916][754]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:916][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:923][755]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:923][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:923][755]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:923][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:923][755]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:923][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:931][756]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:931][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:931][756]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:931][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:932][756]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:932][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:940][757]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:940][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:940][757]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:940][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:940][757]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:940][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:949][758]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:949][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:949][758]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:949][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:949][758]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:949][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:956][759]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:956][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:956][759]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:956][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:956][759]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:956][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:964][760]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:964][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:964][760]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:964][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:964][760]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:964][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:972][761]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:973][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:973][761]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:973][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:973][761]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:973][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:981][762]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:981][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:981][762]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:981][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:981][762]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:981][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:990][763]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:990][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:990][763]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:990][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:990][763]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:990][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:998][764]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:998][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:998][764]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:998][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.39:998][764]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.39:998][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:006][765]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:006][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:006][765]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:006][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:007][765]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:007][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:015][766]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:015][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:015][766]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:015][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:015][766]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:015][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:023][767]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:023][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:023][767]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:023][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:023][767]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:023][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:031][768]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:032][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:032][768]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:032][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:032][768]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:032][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:039][769]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:039][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:040][769]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:040][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:040][769]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:040][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:048][770]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:048][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:048][770]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:048][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:048][770]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:048][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:056][771]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:056][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:056][771]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:056][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:056][771]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:056][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:064][772]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:064][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:065][772]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:065][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:065][772]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:065][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:073][773]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:073][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:073][773]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:073][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:073][773]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:073][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:081][774]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:081][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:082][774]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:082][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:082][774]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:082][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:090][775]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:090][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:090][775]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:090][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:090][775]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:090][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:098][776]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:098][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.40:098][776]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.55.40:098][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.55.48:876][795]BlueprintLog: New page: Compile Enemy1
+[2021.05.19-21.55.48:923][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.19-21.55.49:499][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy1" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset" SILENT=true
+[2021.05.19-21.55.49:527][829]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy19CD3E3374EDCCC617667EBBF729F0B09.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset'
+[2021.05.19-21.55.49:547][829]AssetCheck: New page: Asset Save: Enemy1
+[2021.05.19-21.55.49:547][829]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy1.Enemy1
+[2021.05.19-21.55.54:314][141]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-21.55.54:319][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-21.55.54:320][141]PIE: New page: PIE session: TestMap (May 19, 2021, 7:55:54 AM)
+[2021.05.19-21.55.54:320][141]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-21.55.54:322][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002641s)
+[2021.05.19-21.55.54:323][141]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-21.55.54:323][141]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2021.05.19-21.55.54:323][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003644s)
+[2021.05.19-21.55.54:343][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.05.19-21.55.54:345][141]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.19-21.55.54:345][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-21.55.54:345][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-21.55.54:345][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-21.55.54:345][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-21.55.54:345][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-21.55.54:345][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-21.55.54:345][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-21.55.54:345][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-21.55.54:345][141]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-21.55.54:345][141]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-21.55.54:350][141]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-21.55.54:350][141]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-21.55.54:350][141]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-21.55.54:350][141]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-21.55.54:350][141]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-21.55.54:350][141]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-21.55.54:350][141]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-21.55.54:350][141]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-21.55.54:508][141]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.19-21.55.54:508][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-21.55.54:509][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-21.55.54:509][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-21.55.54:509][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-21.55.54:509][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-21.55.54:509][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-21.55.54:523][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-21.55.54:523][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-21.55.54:523][141]LogInit: FAudioDevice initialized.
+[2021.05.19-21.55.54:523][141]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2021.05.19-21.55.54:531][141]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-21.55.54:532][141]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-14.55.54
+[2021.05.19-21.55.54:533][141]LogWorld: Bringing up level for play took: 0.000678
+[2021.05.19-21.55.54:533][141]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.19-21.55.54:535][141]PIE: Server logged in
+[2021.05.19-21.55.54:536][141]PIE: Play in editor total start time 0.218 seconds.
+[2021.05.19-21.56.07:748][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-21.56.07:748][719]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-21.56.07:748][719]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-21.56.07:748][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-21.56.07:755][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-21.56.07:759][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-21.56.07:775][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-21.56.07:776][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-21.56.07:777][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-21.56.07:792][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-21.56.07:795][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.19-21.56.07:820][721]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.19-21.56.25:204][568]LogEditorTransaction: Undo Modify Component Location
+[2021.05.19-21.58.19:796][303]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.05.19-21.58.19:796][303]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.05.19-21.58.19:796][303]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.05.19-21.58.19:796][303]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2021.05.19-21.58.20:539][360]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.05.19-21.58.20:539][360]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.05.19-21.58.20:539][360]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.05.19-21.58.20:539][360]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.250
+[2021.05.19-21.58.22:107][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.58.22:107][532]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.58.22:107][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.58.22:107][532]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.58.22:107][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.58.22:107][532]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.58.22:107][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.19-21.58.22:107][532]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere' 
+[2021.05.19-21.58.24:014][675]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.05.19-21.58.24:014][675]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.05.19-21.58.24:014][675]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.05.19-21.58.24:014][675]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.05.19-21.58.24:876][738]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.05.19-21.58.24:876][738]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.05.19-21.58.24:877][738]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.05.19-21.58.24:877][738]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.Enemy1_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.05.19-21.58.27:010][914]BlueprintLog: New page: Compile Enemy1
+[2021.05.19-21.58.27:055][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.05.19-21.58.27:526][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy1" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset" SILENT=true
+[2021.05.19-21.58.27:553][934]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy13F0CDC24419DEDF9BB96E0ACEE849A48.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset'
+[2021.05.19-21.58.27:572][934]AssetCheck: New page: Asset Save: Enemy1
+[2021.05.19-21.58.27:572][934]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy1.Enemy1
+[2021.05.19-21.58.28:830][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.19-21.58.28:850][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.05.19-21.58.28:859][ 30]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap356396D548CD17CF4AD15E8634D8A521.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.19-21.58.28:866][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.19-21.58.28:882][ 30]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData949460354CC2A0BE03D7779273242EC0.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.19-21.58.28:902][ 30]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-21.58.28:902][ 30]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.19-21.58.28:902][ 30]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.19-21.58.29:544][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-21.58.29:550][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-21.58.29:550][ 51]PIE: New page: PIE session: TestMap (May 19, 2021, 7:58:29 AM)
+[2021.05.19-21.58.29:586][ 51]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-21.58.29:589][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002673s)
+[2021.05.19-21.58.29:590][ 51]LogAIModule: Creating AISystem for world TestMap
+[2021.05.19-21.58.29:590][ 51]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2021.05.19-21.58.29:590][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003796s)
+[2021.05.19-21.58.29:608][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.05.19-21.58.29:608][ 51]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.19-21.58.29:609][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-21.58.29:609][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-21.58.29:609][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-21.58.29:609][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-21.58.29:609][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-21.58.29:609][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-21.58.29:609][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-21.58.29:609][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-21.58.29:609][ 51]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-21.58.29:609][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-21.58.29:613][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-21.58.29:613][ 51]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-21.58.29:613][ 51]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-21.58.29:613][ 51]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-21.58.29:613][ 51]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-21.58.29:613][ 51]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-21.58.29:613][ 51]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-21.58.29:614][ 51]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-21.58.29:768][ 51]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.19-21.58.29:768][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-21.58.29:768][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-21.58.29:768][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-21.58.29:768][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-21.58.29:768][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-21.58.29:768][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-21.58.29:782][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-21.58.29:782][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-21.58.29:782][ 51]LogInit: FAudioDevice initialized.
+[2021.05.19-21.58.29:782][ 51]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2021.05.19-21.58.29:793][ 51]LogLoad: Game class is 'TestGM_C'
+[2021.05.19-21.58.29:794][ 51]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-14.58.29
+[2021.05.19-21.58.29:794][ 51]LogWorld: Bringing up level for play took: 0.000691
+[2021.05.19-21.58.29:794][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.19-21.58.29:797][ 51]PIE: Server logged in
+[2021.05.19-21.58.29:798][ 51]PIE: Play in editor total start time 0.249 seconds.
+[2021.05.19-21.58.37:357][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-21.58.37:357][940]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.19-21.58.37:357][940]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-21.58.37:357][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-21.58.37:367][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-21.58.37:370][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-21.58.37:387][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-21.58.37:388][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-21.58.37:388][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-21.58.37:407][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.19-21.58.37:427][941]LogPlayLevel: Display: Destroying online subsystem :Context_18
