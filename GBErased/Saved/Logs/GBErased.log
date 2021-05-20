@@ -8239,3 +8239,942 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.20-07.29.11:934][647]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.20-07.29.11:934][647]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
 [2021.05.20-07.29.11:934][647]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.20-07.35.45:734][436]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\fbx files\CupModel.fbx)
+[2021.05.20-07.35.45:751][436]LogFbx: Loading FBX Scene from B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\fbx files\CupModel.fbx
+[2021.05.20-07.35.45:758][436]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.20-07.35.45:760][436]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2021.05.20-07.35.51:093][436]LogSlate: Window 'Message' being destroyed
+[2021.05.20-07.35.51:107][436]Message dialog closed, result: Ok, title: Message, text: Failed to import 'B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\fbx files\CupModel.fbx'. Failed to create asset '/Game/Models/Imported/CupModel'.
+Please see Output Log for details.
+[2021.05.20-07.35.51:107][436]LogAssetTools: Warning: Failed to import 'B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\fbx files\CupModel.fbx'. Failed to create asset '/Game/Models/Imported/CupModel'.
+Please see Output Log for details.
+[2021.05.20-07.35.52:404][540]LogSlate: Window 'Message Log' being destroyed
+[2021.05.20-07.35.52:429][540]LogSlate: Window 'Message Log' being destroyed
+[2021.05.20-07.36.11:865][ 46]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\fbx files\CupModel.fbx)
+[2021.05.20-07.36.11:881][ 46]LogFbx: Loading FBX Scene from B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\fbx files\CupModel.fbx
+[2021.05.20-07.36.11:887][ 46]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.20-07.36.14:811][ 46]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.20-07.36.14:844][ 46]LogFbx: Display: Triangulating static mesh Cup
+[2021.05.20-07.36.14:856][ 46]LogStaticMesh: Building static mesh CupModel...
+[2021.05.20-07.36.14:867][ 46]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/CupModel.CupModel
+[2021.05.20-07.36.14:876][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.20-07.36.16:903][185]LogSlate: Window 'Message Log' being destroyed
+[2021.05.20-07.36.16:927][185]LogSlate: Window 'Message Log' being destroyed
+[2021.05.20-07.36.21:089][446]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Imported/CupModel.CupModel
+[2021.05.20-07.36.26:103][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Imported/CupModel" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/CupModel.uasset" SILENT=true
+[2021.05.20-07.36.26:112][719]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/CupModelB8DE0AE042BE2C3F1D3048AA389E49AE.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/CupModel.uasset'
+[2021.05.20-07.36.26:272][719]AssetCheck: New page: Asset Save: CupModel
+[2021.05.20-07.36.26:272][719]LogContentValidation: Display: Validating StaticMesh /Game/Models/Imported/CupModel.CupModel
+[2021.05.20-07.36.26:846][746]LogSlate: Window 'CupModel' being destroyed
+[2021.05.20-07.36.26:882][746]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-07.36.26:882][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-07.36.35:582][554]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/FriendlySpawner.FriendlySpawner
+[2021.05.20-07.37.13:406][650]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:406][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:406][650]LogPhysics: Warning: Scale for /Game/Levels/TestMap.TestMap:PersistentLevel.FriendlySpawner_11.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:407][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/TestMap.TestMap:PersistentLevel.FriendlySpawner_11.Cylinder' 
+[2021.05.20-07.37.13:407][650]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:407][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:413][651]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/TestMap.TestMap:PersistentLevel.FriendlySpawner_11.Cylinder)
+[2021.05.20-07.37.13:414][651]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:414][651]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:414][651]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:414][651]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:414][651]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:414][651]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:422][652]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:422][652]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:422][652]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:422][652]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:422][652]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:422][652]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:431][653]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:431][653]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:431][653]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:431][653]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:431][653]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:431][653]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:439][654]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:439][654]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:439][654]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:439][654]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:439][654]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:439][654]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:448][655]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:448][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:448][655]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:448][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:448][655]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:448][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:456][656]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:456][656]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:456][656]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:456][656]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:456][656]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:456][656]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:464][657]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:464][657]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:464][657]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:464][657]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:464][657]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:464][657]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:472][658]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:472][658]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:472][658]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:472][658]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:472][658]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:472][658]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:481][659]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:481][659]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:481][659]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:481][659]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:481][659]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:481][659]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:489][660]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:489][660]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:489][660]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:489][660]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:489][660]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:489][660]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:498][661]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:498][661]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:498][661]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:498][661]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:498][661]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:498][661]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:506][662]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:506][662]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:506][662]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:506][662]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:506][662]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:506][662]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:514][663]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:514][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:514][663]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:514][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:514][663]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:514][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:523][664]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:523][664]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:524][664]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:524][664]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:524][664]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:524][664]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:531][665]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:531][665]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:531][665]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:531][665]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:531][665]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:531][665]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:539][666]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:540][666]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:540][666]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:540][666]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:540][666]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:540][666]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:547][667]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:547][667]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:548][667]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:548][667]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:548][667]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:548][667]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:556][668]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:556][668]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:556][668]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:556][668]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:556][668]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:556][668]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:564][669]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:564][669]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:564][669]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:564][669]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:565][669]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:565][669]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:572][670]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:572][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:573][670]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:573][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:573][670]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:573][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:581][671]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:581][671]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:581][671]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:581][671]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:581][671]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:581][671]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:589][672]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:589][672]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:589][672]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:589][672]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:589][672]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:589][672]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:598][673]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:598][673]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:598][673]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:598][673]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:598][673]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:598][673]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:606][674]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:606][674]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:606][674]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:606][674]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:606][674]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:606][674]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:614][675]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:614][675]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:614][675]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:614][675]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:614][675]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:614][675]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:623][676]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:623][676]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:623][676]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:623][676]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:624][676]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:624][676]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:631][677]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:631][677]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:631][677]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:631][677]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:631][677]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:631][677]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:639][678]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:639][678]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:639][678]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:639][678]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:639][678]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:639][678]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:647][679]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:648][679]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:648][679]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:648][679]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:648][679]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:648][679]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:656][680]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:656][680]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:657][680]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:657][680]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:657][680]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:657][680]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:664][681]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:664][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:664][681]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:665][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:665][681]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:665][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:672][682]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:672][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:672][682]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:672][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:672][682]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:672][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:681][683]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:681][683]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:681][683]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:681][683]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:681][683]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:681][683]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:689][684]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:689][684]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:690][684]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:690][684]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:690][684]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:690][684]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:698][685]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:698][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:698][685]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:698][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:698][685]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:698][685]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:706][686]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:706][686]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:706][686]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:706][686]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:706][686]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:706][686]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:714][687]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:714][687]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:714][687]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:714][687]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:714][687]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:714][687]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:723][688]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:723][688]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:723][688]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:723][688]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:723][688]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:723][688]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:731][689]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:731][689]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:731][689]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:731][689]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:731][689]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:731][689]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:739][690]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:739][690]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:739][690]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:739][690]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:739][690]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:739][690]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:747][691]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:747][691]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:747][691]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:747][691]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:748][691]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:748][691]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:756][692]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:757][692]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:757][692]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:757][692]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:757][692]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:757][692]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:764][693]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:764][693]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:764][693]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:764][693]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:764][693]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:764][693]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:772][694]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:773][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:773][694]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:773][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:773][694]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:773][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:781][695]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:781][695]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:781][695]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:781][695]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:781][695]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:781][695]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:790][696]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:790][696]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:790][696]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:790][696]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:790][696]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:790][696]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:797][697]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:798][697]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:798][697]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:798][697]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:798][697]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:798][697]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:806][698]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:806][698]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:806][698]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:806][698]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:806][698]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:806][698]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:814][699]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:814][699]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:815][699]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:815][699]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:815][699]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:815][699]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:823][700]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:823][700]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:823][700]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:823][700]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:823][700]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:823][700]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:831][701]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:831][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:831][701]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:831][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:831][701]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:831][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:839][702]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:839][702]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:840][702]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:840][702]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:840][702]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:840][702]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:848][703]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:848][703]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:848][703]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:848][703]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:848][703]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:848][703]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:856][704]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:856][704]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:856][704]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:856][704]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:856][704]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:856][704]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:864][705]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:864][705]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:865][705]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:865][705]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:865][705]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:865][705]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:873][706]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:873][706]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:873][706]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:873][706]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:873][706]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:873][706]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:881][707]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:881][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:881][707]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:881][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:881][707]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:881][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:889][708]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:889][708]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:890][708]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:890][708]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:890][708]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:890][708]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:898][709]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:898][709]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:898][709]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:898][709]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:898][709]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:898][709]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:907][710]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:907][710]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:907][710]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:907][710]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:908][710]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:908][710]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:914][711]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:914][711]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:914][711]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:914][711]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:915][711]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:915][711]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:922][712]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:922][712]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:923][712]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:923][712]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:923][712]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:923][712]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:931][713]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:931][713]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:931][713]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:931][713]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:931][713]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:931][713]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:939][714]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:939][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:939][714]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:939][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:939][714]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:939][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:947][715]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:947][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:948][715]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:948][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:948][715]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:948][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:956][716]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:956][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:956][716]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:956][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:956][716]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:956][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:964][717]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:964][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:965][717]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:965][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:965][717]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:965][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:973][718]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:973][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:973][718]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:973][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:973][718]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:973][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:981][719]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:981][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:981][719]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:981][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:981][719]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:981][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:989][720]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:989][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:989][720]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:989][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:989][720]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:989][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:998][721]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:998][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:999][721]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:999][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.13:999][721]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.13:999][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:006][722]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:006][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:006][722]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:006][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:006][722]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:006][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:014][723]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:014][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:014][723]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:014][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:014][723]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:014][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:023][724]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:023][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:023][724]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:023][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:023][724]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:023][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:032][725]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:032][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:033][725]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:033][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:033][725]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:033][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:040][726]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:040][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:040][726]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:040][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:040][726]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:040][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:047][727]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:047][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:048][727]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:048][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:048][727]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:048][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:056][728]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:056][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:056][728]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:056][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:056][728]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:056][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:065][729]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:065][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:065][729]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:065][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:065][729]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:065][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:073][730]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:073][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:073][730]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:073][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:073][730]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:073][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:081][731]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:081][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:081][731]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:081][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:082][731]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:082][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:090][732]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:090][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:090][732]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:090][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:090][732]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:090][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:099][733]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:099][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:099][733]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:099][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:100][733]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:100][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:107][734]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:107][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:107][734]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:107][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:107][734]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:107][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:115][735]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:115][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:115][735]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:115][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:115][735]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:115][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:123][736]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:123][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:123][736]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:123][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:123][736]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:123][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:132][737]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:132][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:132][737]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:133][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:133][737]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:133][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:139][738]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:140][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:140][738]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:140][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:140][738]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:140][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:148][739]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:148][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:148][739]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:148][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:148][739]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:148][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:156][740]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:156][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:157][740]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:157][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:157][740]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:157][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:165][741]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:165][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:166][741]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:166][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:166][741]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:166][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:173][742]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:173][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:173][742]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:173][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:173][742]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:173][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:181][743]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:181][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:181][743]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:181][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:181][743]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:181][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:189][744]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:189][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:190][744]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:190][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:190][744]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:190][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:198][745]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:198][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:198][745]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:198][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:198][745]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:198][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:206][746]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:206][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:206][746]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:206][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:207][746]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:207][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:215][747]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:215][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:215][747]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:215][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:215][747]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:215][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:223][748]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:223][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:223][748]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:223][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:223][748]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:223][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:231][749]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:231][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:231][749]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:231][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:231][749]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:231][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:239][750]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:239][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:240][750]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:240][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:240][750]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:240][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:248][751]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:248][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:248][751]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:248][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:248][751]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:248][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:257][752]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:257][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:257][752]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:257][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:257][752]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:257][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:265][753]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:265][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:265][753]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:265][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:265][753]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:265][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:273][754]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:273][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:273][754]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:273][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:273][754]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:273][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:282][755]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:282][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:282][755]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:282][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:282][755]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:282][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:289][756]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:290][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:290][756]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:290][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:290][756]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:290][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:300][757]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:300][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:300][757]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:300][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:300][757]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:300][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:307][758]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:307][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:307][758]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:307][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:307][758]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:307][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:315][759]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:315][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:315][759]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:315][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:315][759]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:315][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:324][760]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:324][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:324][760]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:324][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:324][760]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:324][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:332][761]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:332][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:332][761]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:332][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:332][761]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:333][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:340][762]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:340][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:340][762]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:340][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:341][762]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:341][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:348][763]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:348][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:349][763]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:349][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:349][763]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:349][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:356][764]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:357][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:357][764]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:357][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:357][764]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:357][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:365][765]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:365][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:365][765]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:365][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:365][765]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:365][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:374][766]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:374][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:374][766]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:374][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:374][766]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:374][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:382][767]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:382][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:382][767]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:382][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:382][767]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:382][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:390][768]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:390][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:390][768]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:390][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:390][768]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:390][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:399][769]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:399][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:399][769]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:399][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:399][769]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:399][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:407][770]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:407][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:407][770]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:407][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:407][770]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:408][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:415][771]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:415][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:415][771]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:415][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:415][771]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:415][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:423][772]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:423][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:423][772]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:423][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:423][772]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:423][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:432][773]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:432][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:432][773]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:432][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:432][773]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:432][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:440][774]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:440][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:440][774]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:440][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:440][774]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:440][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:449][775]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:449][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:449][775]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:449][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:449][775]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:449][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:457][776]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:457][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:457][776]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:457][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:457][776]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:457][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:465][777]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:465][777]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:465][777]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:465][777]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:465][777]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:465][777]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:474][778]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:474][778]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:474][778]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:474][778]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:474][778]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:474][778]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:482][779]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:482][779]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:482][779]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:482][779]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:482][779]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:482][779]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:490][780]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:490][780]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:490][780]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:490][780]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:491][780]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:491][780]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:499][781]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:499][781]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:499][781]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:499][781]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:499][781]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:499][781]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:507][782]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:507][782]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:507][782]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:507][782]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:507][782]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:507][782]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:515][783]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:515][783]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:516][783]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:516][783]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:516][783]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:516][783]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:523][784]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:523][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:524][784]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:524][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:524][784]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:524][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:532][785]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:532][785]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:532][785]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:532][785]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:532][785]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:532][785]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:541][786]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:541][786]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:541][786]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:541][786]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:541][786]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:541][786]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:549][787]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:549][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:549][787]LogPhysics: Warning: Scale for /Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.05.20-07.37.14:549][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_30:PersistentLevel.FriendlySpawner_C_0.Cylinder' 
+[2021.05.20-07.37.14:549][787]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/TestMap.TestMap:PersistentLevel.FriendlySpawner_11.Cylinder)
+[2021.05.20-07.37.29:404][478]BlueprintLog: New page: Compile FriendlySpawner
+[2021.05.20-07.37.29:476][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.05.20-07.37.30:229][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/FriendlySpawner" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/FriendlySpawner.uasset" SILENT=true
+[2021.05.20-07.37.30:240][519]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/FriendlySpawnerE711B99B4902EEC7499419B093C0A828.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/FriendlySpawner.uasset'
+[2021.05.20-07.37.30:320][519]AssetCheck: New page: Asset Save: FriendlySpawner
+[2021.05.20-07.37.30:320][519]LogContentValidation: Display: Validating Blueprint /Game/Models/FriendlySpawner.FriendlySpawner
+[2021.05.20-07.37.47:255][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.20-07.37.47:281][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.05.20-07.37.47:317][913]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapC0A4614148074F9A90A61FA5FBAE9EE6.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.20-07.37.47:324][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.20-07.37.47:334][913]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData618C5B96455B4D11EBC30884E4A37282.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.20-07.37.47:649][913]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-07.37.47:649][913]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.20-07.37.47:649][913]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.20-07.37.48:281][928]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-07.37.48:287][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-07.37.48:287][928]PIE: New page: PIE session: TestMap (May 19, 2021, 5:37:48 PM)
+[2021.05.20-07.37.48:316][928]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-07.37.48:326][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009672s)
+[2021.05.20-07.37.48:327][928]LogAIModule: Creating AISystem for world TestMap
+[2021.05.20-07.37.48:327][928]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2021.05.20-07.37.48:327][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.011134s)
+[2021.05.20-07.37.48:352][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.20-07.37.48:353][928]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.05.20-07.37.48:353][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.20-07.37.48:353][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.20-07.37.48:353][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.20-07.37.48:353][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.20-07.37.48:353][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.20-07.37.48:353][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.20-07.37.48:353][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.20-07.37.48:353][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.20-07.37.48:353][928]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.20-07.37.48:353][928]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.20-07.37.48:358][928]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.20-07.37.48:358][928]LogAudioMixer: Display: 1: FrontRight
+[2021.05.20-07.37.48:358][928]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.20-07.37.48:358][928]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.20-07.37.48:358][928]LogAudioMixer: Display: 4: BackLeft
+[2021.05.20-07.37.48:358][928]LogAudioMixer: Display: 5: BackRight
+[2021.05.20-07.37.48:358][928]LogAudioMixer: Display: 6: SideLeft
+[2021.05.20-07.37.48:358][928]LogAudioMixer: Display: 7: SideRight
+[2021.05.20-07.37.48:519][928]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.20-07.37.48:519][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.20-07.37.48:519][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.20-07.37.48:519][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.20-07.37.48:519][928]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.20-07.37.48:519][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.20-07.37.48:519][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.20-07.37.48:535][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.20-07.37.48:535][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.20-07.37.48:535][928]LogInit: FAudioDevice initialized.
+[2021.05.20-07.37.48:535][928]LogAudio: Display: Audio Device (ID: 70) registered with world 'TestMap'.
+[2021.05.20-07.37.48:546][928]LogLoad: Game class is 'TestGM_C'
+[2021.05.20-07.37.48:551][928]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.20-00.37.48
+[2021.05.20-07.37.48:551][928]LogWorld: Bringing up level for play took: 0.004364
+[2021.05.20-07.37.48:551][928]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2021.05.20-07.37.48:555][928]PIE: Server logged in
+[2021.05.20-07.37.48:555][928]PIE: Play in editor total start time 0.27 seconds.
+[2021.05.20-07.37.55:271][731]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1470.001 Y=-220.000 Z=50.000] for [Enemy1_C]
+[2021.05.20-07.38.05:387][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-07.38.05:388][931]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-07.38.05:388][931]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-07.38.05:389][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-07.38.05:398][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-07.38.05:409][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-07.38.05:431][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-07.38.05:431][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-07.38.05:433][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-07.38.05:453][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.05.20-07.38.05:488][932]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2021.05.20-07.39.06:264][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.20-07.39.32:414][810]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.20-07.39.34:866][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.20-07.39.34:891][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.20-07.39.34:929][960]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapA0A4CE9F4AD54A4315A86B84DB9D104D.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.20-07.39.34:936][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.20-07.39.34:948][960]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData9F420DFB426B5C426C13EDA1986E3FD7.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.20-07.39.34:976][960]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-07.39.34:976][960]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.20-07.39.34:976][960]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
