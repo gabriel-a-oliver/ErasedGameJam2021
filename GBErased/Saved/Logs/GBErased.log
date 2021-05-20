@@ -5471,3 +5471,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.20-06.11.56:918][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.20-06.11.56:924][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
 [2021.05.20-06.11.56:953][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.05.20-06.21.46:487][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.05.20-06.21.46:522][322]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_Auto17990BF334004D5E248406B80C6A874D4.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Autosaves/Game/Levels/TestMap_Auto1.umap'
+[2021.05.20-06.21.46:523][322]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.085
+[2021.05.20-06.21.46:523][322]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
