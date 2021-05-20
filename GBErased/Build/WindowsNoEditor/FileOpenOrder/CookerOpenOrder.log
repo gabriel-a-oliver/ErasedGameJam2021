@@ -1,0 +1,531 @@
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/YouLostGM.uasset" 0
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/YouWonGM.uasset" 1
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Game_Jam_Colors.uasset" 2
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Material_004.uasset" 3
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/Lamp.uasset" 4
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Lamp.uasset" 5
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 6
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 7
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 8
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 9
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/axisFrameBlenderToUE4.uasset" 10
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/Game_Jam_Colors.uasset" 11
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/Material_001.uasset" 12
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/BookVar1.uasset" 13
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Basic_Wall.uasset" 14
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Pillar_50x500.uasset" 15
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Wall_400x300.uasset" 16
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Wall_400x400.uasset" 17
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Wall_500x500.uasset" 18
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 19
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 20
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Collapse01.uasset" 21
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Collapse02.uasset" 22
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Explosion01.uasset" 23
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Explosion02.uasset" 24
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Fire01.uasset" 25
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Fire_Sparks01.uasset" 26
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Light01.uasset" 27
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Light01_Cue.uasset" 28
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Light02.uasset" 29
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Light02_Cue.uasset" 30
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Smoke01.uasset" 31
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Starter_Birds01.uasset" 32
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Starter_Music01.uasset" 33
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Starter_Wind05.uasset" 34
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Starter_Wind06.uasset" 35
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Steam01.uasset" 36
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 37
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 38
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 40
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 41
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 42
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 43
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 44
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Burst_M.uasset" 45
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_Burst.uasset" 46
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/P_Explosion.uasset" 47
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Explosion_Cue.uasset" 48
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 49
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 50
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 51
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Bush_N.uasset" 52
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Bush_D.uasset" 53
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_Bush.uasset" 54
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Bush.uasset" 55
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Chair_N.uasset" 56
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Chair_M.uasset" 57
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_Chair.uasset" 58
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Couch.uasset" 59
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Door_N.uasset" 60
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Door_M.uasset" 61
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_Door.uasset" 62
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Glass.uasset" 63
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Door.uasset" 64
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 65
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 66
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 67
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_RockMesh_N.uasset" 68
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_RockMesh_M.uasset" 69
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 70
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 71
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 72
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_Rock.uasset" 73
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Rock.uasset" 74
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Shelf_N.uasset" 75
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Shelf_M.uasset" 76
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_Shelf.uasset" 77
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Shelf.uasset" 78
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Basic_Floor.uasset" 79
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Stairs.uasset" 80
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Cone.uasset" 81
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 82
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 83
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Pipe.uasset" 84
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 85
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 86
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Plane.uasset" 87
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Torus.uasset" 88
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Trim.uasset" 89
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 90
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 91
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 92
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Tube.uasset" 93
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 94
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 95
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 96
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/DiedMenu.uasset" 97
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/LostMenu.uasset" 98
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/WonMenu.uasset" 99
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 100
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 101
+"../../../Engine/Content/BasicShapes/Cone.uasset" 102
+"../../../Engine/Content/BasicShapes/Plane.uasset" 103
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 104
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 105
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 106
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 107
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 108
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 112
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 113
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 114
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 115
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 117
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 118
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 119
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 120
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 121
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 122
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 123
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 124
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 125
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 126
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 127
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 128
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 129
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 130
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 131
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 132
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 133
+"../../../Engine/Content/EditorResources/S_Note.uasset" 134
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 135
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 136
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 137
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 138
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 139
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 140
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 141
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 142
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 143
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 144
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 145
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 146
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 148
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 149
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 150
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 151
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 152
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 153
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 154
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 155
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 156
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 157
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 158
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 159
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 160
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 161
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 162
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 163
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 164
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 165
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 166
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 167
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 168
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 169
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 170
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 171
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 172
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 173
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 174
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 175
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 176
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 177
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 178
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 179
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 180
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 181
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 182
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 183
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 184
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 185
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 186
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 187
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 188
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 189
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 190
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 191
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 192
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 193
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 194
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 195
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 196
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 197
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 198
+"../../../Engine/Content/EngineResources/Black.uasset" 199
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 200
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 201
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 202
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 203
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 204
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 205
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 206
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 207
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 208
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 210
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 211
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 212
+"../../../Engine/Content/EngineSounds/Master.uasset" 213
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 214
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 215
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 216
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 217
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 218
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 220
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 222
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 224
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 225
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 226
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 227
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 228
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 229
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 230
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 231
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 232
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 233
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 234
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 235
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 236
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 237
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 238
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 239
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 240
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 241
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 242
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 243
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 244
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 245
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 246
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 247
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 248
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 249
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 250
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 251
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 252
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 253
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 254
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 255
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 257
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 258
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 259
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 261
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 262
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 265
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 266
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 267
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 268
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 269
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 270
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 271
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 272
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 273
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 274
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 275
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 276
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 277
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 278
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 279
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/MainMenu.uasset" 280
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/MainMenuGM.uasset" 281
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/MainMenuLevel.umap" 282
+"../../../Engine/Content/BasicShapes/Cube.uasset" 283
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Killbox.uasset" 284
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_GlassWindow.uasset" 285
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 286
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 287
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 288
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 289
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 290
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 291
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 292
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 293
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 294
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 295
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" 296
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 297
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/SharpenerVar1-2.uasset" 298
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset" 299
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/PauseMenu.uasset" 300
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/GameHUD.uasset" 301
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/FadeOut.uasset" 302
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 303
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 304
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 305
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 306
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_MacroVariation.uasset" 307
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 308
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserPellet.uasset" 309
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/PensilBulletModel.uasset" 310
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" 311
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/PlayerChar.uasset" 312
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" 313
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/PensilChar.uasset" 314
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/PensilBox.uasset" 315
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/FriendlyGoal.uasset" 316
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/friendlyPenChar.uasset" 317
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Scripts/FriendlySpawnBehavior.uasset" 318
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/SharpenerPouch.uasset" 319
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EnemySpawner.uasset" 320
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Scripts/EnemySpawnBehavior.uasset" 321
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/UnshavedPensil.uasset" 322
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/PensilWall.uasset" 323
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/LampModel.uasset" 324
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/CupModel.uasset" 325
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/FriendlySpawner.uasset" 326
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 327
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 328
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 329
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 330
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 331
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" 332
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/YouLostLevel.umap" 333
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/UI/YouWonMenu.uasset" 334
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/WonGM.uasset" 335
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/YouWonLevel.umap" 336
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 337
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 338
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 339
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 340
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 341
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 342
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 343
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 344
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 345
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 346
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 347
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 348
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 349
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 350
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 351
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 352
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 353
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 354
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 355
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 356
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_AssetPlatform.uasset" 357
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 358
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Maps/Advanced_Lighting.umap" 359
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_TableRound_N.uasset" 360
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_TableRound_M.uasset" 361
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_TableRound.uasset" 362
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_TableRound.uasset" 363
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Statue_N.uasset" 364
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Statue_M.uasset" 365
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_Statue.uasset" 366
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 367
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Statue.uasset" 368
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Chair.uasset" 369
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 370
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 371
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Metal_Copper.uasset" 372
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 373
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 374
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 375
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 376
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 377
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Floor_400x400.uasset" 378
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Maps/Minimal_Default.umap" 379
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 380
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 381
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 382
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 383
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 384
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 385
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 386
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 387
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 388
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 389
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 390
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 391
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 392
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 393
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 394
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 395
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 396
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 397
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 398
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 399
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 400
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 401
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 402
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 403
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 404
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 406
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 407
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 408
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Lamp_N.uasset" 409
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Lamp_M.uasset" 410
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_Lamp.uasset" 411
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 412
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 413
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/P_Steam_Lit.uasset" 414
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Steam01_Cue.uasset" 415
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 416
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Spark_Core.uasset" 417
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_Spark.uasset" 418
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 419
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/P_Sparks.uasset" 420
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 421
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 422
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/P_Smoke.uasset" 423
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Smoke01_Cue.uasset" 424
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 425
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Water_N.uasset" 426
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 427
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 428
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 429
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 430
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/P_Fire.uasset" 431
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Fire01_Cue.uasset" 432
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 433
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 434
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 435
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 436
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Audio/Collapse_Cue.uasset" 437
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 438
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 439
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Sphere.uasset" 440
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 441
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Shapes/Shape_Cube.uasset" 442
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Frame_N.uasset" 443
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Frame_M.uasset" 444
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/Materials/M_Frame.uasset" 445
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_WindowFrame.uasset" 446
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_PillarFrame300.uasset" 447
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_PillarFrame.uasset" 448
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_DoorFrame.uasset" 449
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/SM_CornerFrame.uasset" 450
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Props/MaterialSphere.uasset" 451
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 452
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 453
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 454
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 455
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 456
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 457
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 458
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 459
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Wood_Pine.uasset" 460
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 461
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 462
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Wood_Oak.uasset" 463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 464
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 465
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Water_M.uasset" 466
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Water_Ocean.uasset" 467
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Water_Lake.uasset" 468
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 469
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 470
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 471
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Tech_Panel.uasset" 472
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 473
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 474
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 475
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 476
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 477
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 478
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 479
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 480
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 481
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 482
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 483
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Rock_Slate.uasset" 484
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 485
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 486
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 487
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 488
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 489
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 490
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 491
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Metal_Steel.uasset" 492
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 493
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Metal_Rust.uasset" 494
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 495
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Metal_Gold.uasset" 496
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 497
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 498
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 499
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Ground_Moss.uasset" 500
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 501
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 502
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 503
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 504
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 505
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Ground_Grass.uasset" 506
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 507
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 508
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 509
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 510
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 511
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 512
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 513
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 514
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 515
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 516
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 517
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 518
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 519
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 520
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 521
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_Gradinet_01.uasset" 522
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 523
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 524
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 525
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 526
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Architecture/Wall_400x200.uasset" 527
+"B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/StarterContent/Maps/StarterMap.umap" 528
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 529
+"../../../Engine/Content/Maps/Entry.umap" 530
