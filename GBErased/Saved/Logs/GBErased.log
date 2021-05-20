@@ -22205,3 +22205,363 @@ Are you sure?
 [2021.05.20-04.26.18:840][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.20-04.26.18:843][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
 [2021.05.20-04.26.18:868][929]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.05.20-04.27.07:458][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.05.20-04.27.13:746][987]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.20-04.27.22:900][643]BlueprintLog: New page: Compile Enemy1
+[2021.05.20-04.27.22:961][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.05.20-04.27.23:667][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy1" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset" SILENT=true
+[2021.05.20-04.27.23:700][677]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Enemy12309E20B4C01794B71C8F591B4F5BA5B.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Characters/Enemy1.uasset'
+[2021.05.20-04.27.23:730][677]AssetCheck: New page: Asset Save: Enemy1
+[2021.05.20-04.27.23:730][677]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemy1.Enemy1
+[2021.05.20-04.27.26:848][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.20-04.27.27:906][920]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.20-04.27.28:050][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.05.20-04.27.28:093][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.05.20-04.27.28:119][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.20-04.27.28:995][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.20-04.27.29:837][970]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.20-04.27.29:983][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.05.20-04.27.30:027][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.05.20-04.27.30:054][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.20-04.27.30:873][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.20-04.27.30:899][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.20-04.27.30:908][ 41]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapA14B1FA841A5BB8C8A0EB1B956DCCCA1.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.20-04.27.30:914][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.20-04.27.30:929][ 41]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData50AB68624A3C7325CD9B32B4A5F439AD.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.20-04.27.31:023][ 41]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-04.27.31:023][ 41]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.20-04.27.31:023][ 41]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.20-04.27.31:635][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-04.27.31:641][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-04.27.31:641][ 82]PIE: New page: PIE session: TestMap (May 19, 2021, 2:27:31 PM)
+[2021.05.20-04.27.31:666][ 82]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-04.27.31:669][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002724s)
+[2021.05.20-04.27.31:670][ 82]LogAIModule: Creating AISystem for world TestMap
+[2021.05.20-04.27.31:670][ 82]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2021.05.20-04.27.31:670][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003881s)
+[2021.05.20-04.27.31:697][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.05.20-04.27.31:698][ 82]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2021.05.20-04.27.31:698][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.20-04.27.31:698][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.20-04.27.31:698][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.20-04.27.31:698][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.20-04.27.31:698][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.20-04.27.31:698][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.20-04.27.31:698][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.20-04.27.31:698][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.20-04.27.31:698][ 82]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.20-04.27.31:698][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.20-04.27.31:703][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.20-04.27.31:703][ 82]LogAudioMixer: Display: 1: FrontRight
+[2021.05.20-04.27.31:703][ 82]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.20-04.27.31:703][ 82]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.20-04.27.31:703][ 82]LogAudioMixer: Display: 4: BackLeft
+[2021.05.20-04.27.31:703][ 82]LogAudioMixer: Display: 5: BackRight
+[2021.05.20-04.27.31:703][ 82]LogAudioMixer: Display: 6: SideLeft
+[2021.05.20-04.27.31:703][ 82]LogAudioMixer: Display: 7: SideRight
+[2021.05.20-04.27.31:864][ 82]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.20-04.27.31:864][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.20-04.27.31:864][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.20-04.27.31:864][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.20-04.27.31:864][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.20-04.27.31:864][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.20-04.27.31:864][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.20-04.27.31:878][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.20-04.27.31:878][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.20-04.27.31:878][ 82]LogInit: FAudioDevice initialized.
+[2021.05.20-04.27.31:878][ 82]LogAudio: Display: Audio Device (ID: 52) registered with world 'TestMap'.
+[2021.05.20-04.27.31:887][ 82]LogLoad: Game class is 'TestGM_C'
+[2021.05.20-04.27.31:888][ 82]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-21.27.31
+[2021.05.20-04.27.31:888][ 82]LogWorld: Bringing up level for play took: 0.000729
+[2021.05.20-04.27.31:889][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.05.20-04.27.31:891][ 82]PIE: Server logged in
+[2021.05.20-04.27.31:892][ 82]PIE: Play in editor total start time 0.251 seconds.
+[2021.05.20-04.27.36:937][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-04.27.36:937][682]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-04.27.36:937][682]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-04.27.36:938][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.27.36:947][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-04.27.36:951][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.27.36:977][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-04.27.36:978][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-04.27.36:979][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-04.27.36:997][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.05.20-04.27.37:023][683]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.05.20-04.28.58:231][171]LogEditorFactories: Performing atomic reimport of [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/ImportedModels/PensilChar.fbx]
+[2021.05.20-04.28.58:281][171]LogFbx: Loading FBX Scene from B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/ImportedModels/PensilChar.fbx
+[2021.05.20-04.28.58:287][171]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.20-04.28.58:317][171]LogFbx: Display: Triangulating static mesh Pencil
+[2021.05.20-04.28.58:371][171]LogStaticMesh: Building static mesh PensilChar...
+[2021.05.20-04.28.58:383][171]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/PensilChar.PensilChar
+[2021.05.20-04.28.58:402][171]LogEditorFactories: -- imported successfully
+[2021.05.20-04.28.58:404][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.20-04.29.08:012][238]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\PensilBulletModel.fbx)
+[2021.05.20-04.29.08:028][238]LogFbx: Loading FBX Scene from B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\ImportedModels\PensilBulletModel.fbx
+[2021.05.20-04.29.08:034][238]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.20-04.29.09:262][238]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.20-04.29.09:284][238]LogFbx: Display: Triangulating static mesh Pencil Small.001
+[2021.05.20-04.29.09:291][238]LogStaticMesh: Building static mesh PensilBulletModel...
+[2021.05.20-04.29.09:298][238]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Imported/PensilBulletModel.PensilBulletModel
+[2021.05.20-04.29.09:307][238]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.20-04.29.10:736][347]LogSlate: Window 'Message Log' being destroyed
+[2021.05.20-04.29.10:756][347]LogSlate: Window 'Message Log' being destroyed
+[2021.05.20-04.29.12:048][422]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Imported/PensilBulletModel.PensilBulletModel
+[2021.05.20-04.29.26:978][582]LogSlate: Window 'PensilBulletModel' being destroyed
+[2021.05.20-04.29.26:998][582]LogSlate: Window 'PensilBulletModel' being destroyed
+[2021.05.20-04.29.27:002][582]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-04.29.27:002][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.29.34:402][159]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/PlayerChar.PlayerChar
+[2021.05.20-04.29.46:018][ 25]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.20-04.29.52:023][483]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-04.29.52:023][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.30.56:641][810]LogEditorTransaction: Undo Set Rotation
+[2021.05.20-04.30.56:956][826]LogEditorTransaction: Undo Set Rotation
+[2021.05.20-04.30.57:157][836]LogEditorTransaction: Undo Set Rotation
+[2021.05.20-04.30.57:419][857]LogEditorTransaction: Undo Modify Component(s)
+[2021.05.20-04.30.58:197][919]LogEditorTransaction: Undo Replace component used material
+[2021.05.20-04.30.58:546][946]LogEditorTransaction: Undo Set Scale
+[2021.05.20-04.30.58:876][972]LogEditorTransaction: Undo Set Scale
+[2021.05.20-04.30.59:233][  1]LogEditorTransaction: Undo Set Scale
+[2021.05.20-04.30.59:579][ 29]LogEditorTransaction: Undo Edit Static Mesh
+[2021.05.20-04.31.40:418][470]LogEditorTransaction: Undo Set Rotation
+[2021.05.20-04.32.24:012][218]LogEditorTransaction: Undo Modify Component Scale
+[2021.05.20-04.32.49:033][780]LogEditorTransaction: Undo Modify Component Scale
+[2021.05.20-04.33.29:751][ 67]BlueprintLog: New page: Compile EraserBullet
+[2021.05.20-04.33.29:830][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.05.20-04.33.30:287][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.20-04.33.30:299][ 89]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBulletBBA2E3FC4B0E669528F8879920D39AD9.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.20-04.33.30:321][ 89]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.20-04.33.30:321][ 89]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.20-04.33.31:299][155]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-04.33.31:305][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-04.33.31:305][155]PIE: New page: PIE session: TestMap (May 19, 2021, 2:33:31 PM)
+[2021.05.20-04.33.31:326][155]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-04.33.31:329][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002906s)
+[2021.05.20-04.33.31:330][155]LogAIModule: Creating AISystem for world TestMap
+[2021.05.20-04.33.31:331][155]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2021.05.20-04.33.31:331][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.004157s)
+[2021.05.20-04.33.31:361][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.05.20-04.33.31:361][155]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.05.20-04.33.31:362][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.20-04.33.31:362][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.20-04.33.31:362][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.20-04.33.31:362][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.20-04.33.31:362][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.20-04.33.31:362][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.20-04.33.31:362][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.20-04.33.31:362][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.20-04.33.31:362][155]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.20-04.33.31:362][155]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.20-04.33.31:366][155]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.20-04.33.31:366][155]LogAudioMixer: Display: 1: FrontRight
+[2021.05.20-04.33.31:366][155]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.20-04.33.31:366][155]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.20-04.33.31:366][155]LogAudioMixer: Display: 4: BackLeft
+[2021.05.20-04.33.31:366][155]LogAudioMixer: Display: 5: BackRight
+[2021.05.20-04.33.31:366][155]LogAudioMixer: Display: 6: SideLeft
+[2021.05.20-04.33.31:366][155]LogAudioMixer: Display: 7: SideRight
+[2021.05.20-04.33.31:522][155]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.20-04.33.31:522][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.20-04.33.31:522][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.20-04.33.31:522][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.20-04.33.31:523][155]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.20-04.33.31:523][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.20-04.33.31:523][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.20-04.33.31:536][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.20-04.33.31:536][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.20-04.33.31:536][155]LogInit: FAudioDevice initialized.
+[2021.05.20-04.33.31:536][155]LogAudio: Display: Audio Device (ID: 53) registered with world 'TestMap'.
+[2021.05.20-04.33.31:546][155]LogLoad: Game class is 'TestGM_C'
+[2021.05.20-04.33.31:548][155]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-21.33.31
+[2021.05.20-04.33.31:548][155]LogWorld: Bringing up level for play took: 0.000743
+[2021.05.20-04.33.31:548][155]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.05.20-04.33.31:551][155]PIE: Server logged in
+[2021.05.20-04.33.31:552][155]PIE: Play in editor total start time 0.247 seconds.
+[2021.05.20-04.33.32:058][214]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_0.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.32:208][232]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_1.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.32:349][249]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_2.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.32:492][266]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_3.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.33:199][351]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_4.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.33:574][396]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_5.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.33:741][416]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_6.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.33:907][436]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_7.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.34:049][453]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_8.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.34:208][472]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_9.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.34:374][492]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_10.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.34:533][511]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_11.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.34:683][529]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_12.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.34:833][547]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_13.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.34:984][565]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_14.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.35:118][581]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_15.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.35:267][599]PIE: Warning: Invalid Simulate Options: Body (EraserBullet_C_16.pensilMesh PensilBulletModel) is set to simulate physics but Collision Enabled is incompatible
+[2021.05.20-04.33.35:497][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-04.33.35:497][623]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-04.33.35:497][623]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-04.33.35:497][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.33.35:505][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-04.33.35:509][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.33.35:537][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.20-04.33.35:537][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-04.33.35:538][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-04.33.35:553][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-04.33.35:556][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.05.20-04.33.35:647][624]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.05.20-04.33.37:088][671]LogSlate: Window 'Message Log' being destroyed
+[2021.05.20-04.33.37:119][671]LogSlate: Window 'Message Log' being destroyed
+[2021.05.20-04.33.55:794][967]LogEditorTransaction: Undo Edit Static Mesh
+[2021.05.20-04.33.56:983][ 50]LogEditorTransaction: Undo Rename Component Variable
+[2021.05.20-04.33.57:620][100]LogEditorTransaction: Undo Change Collision Profile
+[2021.05.20-04.33.58:276][137]LogEditorTransaction: Undo Modify Component Location
+[2021.05.20-04.34.08:920][890]LogEditorTransaction: Undo Set Node Enabled State
+[2021.05.20-04.34.35:845][902]LogEditorTransaction: Undo Modify Component(s)
+[2021.05.20-04.35.21:367][ 85]BlueprintLog: New page: Compile EraserBullet
+[2021.05.20-04.35.21:421][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.05.20-04.35.22:180][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.20-04.35.22:191][110]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBullet506411ED46E521962622ADB249488FEF.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.20-04.35.22:213][110]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.20-04.35.22:213][110]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.20-04.35.23:192][187]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-04.35.23:200][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-04.35.23:200][187]PIE: New page: PIE session: TestMap (May 19, 2021, 2:35:23 PM)
+[2021.05.20-04.35.23:200][187]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-04.35.23:203][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002733s)
+[2021.05.20-04.35.23:203][187]LogAIModule: Creating AISystem for world TestMap
+[2021.05.20-04.35.23:203][187]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2021.05.20-04.35.23:203][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003723s)
+[2021.05.20-04.35.23:233][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.05.20-04.35.23:234][187]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.05.20-04.35.23:234][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.20-04.35.23:234][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.20-04.35.23:234][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.20-04.35.23:234][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.20-04.35.23:234][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.20-04.35.23:234][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.20-04.35.23:234][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.20-04.35.23:234][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.20-04.35.23:234][187]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.20-04.35.23:234][187]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.20-04.35.23:238][187]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.20-04.35.23:238][187]LogAudioMixer: Display: 1: FrontRight
+[2021.05.20-04.35.23:238][187]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.20-04.35.23:238][187]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.20-04.35.23:238][187]LogAudioMixer: Display: 4: BackLeft
+[2021.05.20-04.35.23:238][187]LogAudioMixer: Display: 5: BackRight
+[2021.05.20-04.35.23:238][187]LogAudioMixer: Display: 6: SideLeft
+[2021.05.20-04.35.23:238][187]LogAudioMixer: Display: 7: SideRight
+[2021.05.20-04.35.23:388][187]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.20-04.35.23:388][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.20-04.35.23:388][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.20-04.35.23:388][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.20-04.35.23:389][187]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.20-04.35.23:389][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.20-04.35.23:389][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.20-04.35.23:402][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.20-04.35.23:402][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.20-04.35.23:402][187]LogInit: FAudioDevice initialized.
+[2021.05.20-04.35.23:402][187]LogAudio: Display: Audio Device (ID: 54) registered with world 'TestMap'.
+[2021.05.20-04.35.23:409][187]LogLoad: Game class is 'TestGM_C'
+[2021.05.20-04.35.23:410][187]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-21.35.23
+[2021.05.20-04.35.23:411][187]LogWorld: Bringing up level for play took: 0.000699
+[2021.05.20-04.35.23:411][187]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.05.20-04.35.23:413][187]PIE: Server logged in
+[2021.05.20-04.35.23:414][187]PIE: Play in editor total start time 0.215 seconds.
+[2021.05.20-04.35.29:037][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-04.35.29:037][855]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-04.35.29:037][855]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-04.35.29:037][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.35.29:044][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-04.35.29:048][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.35.29:076][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.20-04.35.29:076][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-04.35.29:077][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-04.35.29:092][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-04.35.29:095][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.05.20-04.35.29:118][856]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.05.20-04.36.35:726][340]BlueprintLog: New page: Compile EraserBullet
+[2021.05.20-04.36.35:777][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.05.20-04.36.36:220][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EraserBullet" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset" SILENT=true
+[2021.05.20-04.36.36:232][372]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EraserBullet7A04FBAB41B5E7076F395197E26953EF.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EraserBullet.uasset'
+[2021.05.20-04.36.36:266][372]AssetCheck: New page: Asset Save: EraserBullet
+[2021.05.20-04.36.36:266][372]LogContentValidation: Display: Validating Blueprint /Game/Models/EraserBullet.EraserBullet
+[2021.05.20-04.36.37:188][444]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-04.36.37:193][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-04.36.37:193][444]PIE: New page: PIE session: TestMap (May 19, 2021, 2:36:37 PM)
+[2021.05.20-04.36.37:226][444]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-04.36.37:229][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002937s)
+[2021.05.20-04.36.37:230][444]LogAIModule: Creating AISystem for world TestMap
+[2021.05.20-04.36.37:230][444]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2021.05.20-04.36.37:230][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.004289s)
+[2021.05.20-04.36.37:262][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.05.20-04.36.37:262][444]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2021.05.20-04.36.37:262][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.20-04.36.37:262][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.20-04.36.37:262][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.20-04.36.37:262][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.20-04.36.37:262][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.20-04.36.37:262][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.20-04.36.37:262][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.20-04.36.37:263][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.20-04.36.37:263][444]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.20-04.36.37:263][444]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.20-04.36.37:267][444]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.20-04.36.37:267][444]LogAudioMixer: Display: 1: FrontRight
+[2021.05.20-04.36.37:267][444]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.20-04.36.37:267][444]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.20-04.36.37:267][444]LogAudioMixer: Display: 4: BackLeft
+[2021.05.20-04.36.37:267][444]LogAudioMixer: Display: 5: BackRight
+[2021.05.20-04.36.37:267][444]LogAudioMixer: Display: 6: SideLeft
+[2021.05.20-04.36.37:267][444]LogAudioMixer: Display: 7: SideRight
+[2021.05.20-04.36.37:434][444]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.20-04.36.37:434][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.20-04.36.37:434][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.20-04.36.37:434][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.20-04.36.37:434][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.20-04.36.37:434][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.20-04.36.37:434][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.20-04.36.37:448][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.20-04.36.37:448][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.20-04.36.37:448][444]LogInit: FAudioDevice initialized.
+[2021.05.20-04.36.37:448][444]LogAudio: Display: Audio Device (ID: 55) registered with world 'TestMap'.
+[2021.05.20-04.36.37:454][444]LogLoad: Game class is 'TestGM_C'
+[2021.05.20-04.36.37:456][444]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.05.19-21.36.37
+[2021.05.20-04.36.37:456][444]LogWorld: Bringing up level for play took: 0.000715
+[2021.05.20-04.36.37:456][444]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.05.20-04.36.37:459][444]PIE: Server logged in
+[2021.05.20-04.36.37:460][444]PIE: Play in editor total start time 0.268 seconds.
+[2021.05.20-04.36.59:297][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-04.36.59:297][ 54]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.20-04.36.59:298][ 54]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-04.36.59:298][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.36.59:305][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-04.36.59:309][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.36.59:338][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.20-04.36.59:338][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-04.36.59:339][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.20-04.36.59:354][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-04.36.59:358][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.05.20-04.36.59:380][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.05.20-04.37.06:064][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.05.20-04.37.07:021][674]LogSlate: Window 'Save Content' being destroyed
+[2021.05.20-04.37.07:094][674]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PensilBulletModel5DD8021D4320AD66BFAE5EB303F58399.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/PensilBulletModel.uasset'
+[2021.05.20-04.37.07:103][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Imported/PensilChar" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/PensilChar.uasset" SILENT=true
+[2021.05.20-04.37.07:111][674]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/PensilChar2CFDBBCB4AE8E36E8B77348A96D57DF5.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/Imported/PensilChar.uasset'
+[2021.05.20-04.37.07:156][674]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2021.05.20-04.37.07:156][674]Cmd: MAP LOAD FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.20-04.37.07:156][674]LightingResults: New page: Lighting Build
+[2021.05.20-04.37.07:157][674]LoadErrors: New page: Loading map: TestMap.umap
+[2021.05.20-04.37.07:196][674]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-04.37.07:196][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-04.37.07:196][674]MapCheck: New page: Map Check
+[2021.05.20-04.37.07:196][674]LightingResults: New page: Lighting Build
+[2021.05.20-04.37.07:224][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.20-04.37.07:227][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.20-04.37.07:240][674]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2021.05.20-04.37.07:240][674]LogAIModule: Creating AISystem for world TestMap
+[2021.05.20-04.37.07:323][674]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.20-04.37.07:354][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.05.20-04.37.07:360][674]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.20-04.37.07:360][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.05.20-04.37.07:360][674]LogFileHelpers: Loading map 'TestMap' took 0.204
+[2021.05.20-04.37.07:396][674]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-04.37.07:396][674]LogContentValidation: Display: Validating StaticMesh /Game/Models/Imported/PensilChar.PensilChar
+[2021.05.20-04.37.07:396][674]LogContentValidation: Display: Validating StaticMesh /Game/Models/Imported/PensilBulletModel.PensilBulletModel
