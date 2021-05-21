@@ -4843,3 +4843,1404 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.21-01.13.15:689][199]AssetCheck: New page: Asset Save: MainMenuLevel
 [2021.05.21-01.13.15:689][199]LogContentValidation: Display: Validating World /Game/Levels/MainMenuLevel.MainMenuLevel
 [2021.05.21-01.13.20:600][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.21-01.14.37:354][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.14.37:354][307]PIE: New page: PIE session: MainMenuLevel (May 20, 2021, 11:14:37 AM)
+[2021.05.21-01.14.37:355][307]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.21-01.14.37:356][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001328s)
+[2021.05.21-01.14.37:357][307]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.21-01.14.37:357][307]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2021.05.21-01.14.37:357][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002461s)
+[2021.05.21-01.14.37:392][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.05.21-01.14.37:392][307]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.05.21-01.14.37:392][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.14.37:392][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.14.37:392][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.14.37:392][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.14.37:392][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.14.37:392][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.14.37:392][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.14.37:392][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.14.37:393][307]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.14.37:393][307]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.14.37:397][307]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.14.37:397][307]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.14.37:397][307]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.14.37:397][307]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.14.37:397][307]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.14.37:397][307]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.14.37:397][307]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.14.37:397][307]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.14.37:556][307]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.14.37:557][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.14.37:557][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.14.37:557][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.14.37:557][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.14.37:557][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.14.37:557][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.14.37:572][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.14.37:572][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.14.37:572][307]LogInit: FAudioDevice initialized.
+[2021.05.21-01.14.37:572][307]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainMenuLevel'.
+[2021.05.21-01.14.37:582][307]LogLoad: Game class is 'MainMenuGM_C'
+[2021.05.21-01.14.37:583][307]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.05.20-18.14.37
+[2021.05.21-01.14.37:583][307]LogWorld: Bringing up level for play took: 0.000291
+[2021.05.21-01.14.37:583][307]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.05.21-01.14.37:585][307]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.21-01.14.37:585][307]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.21-01.14.37:585][307]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.21-01.14.37:585][307]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.21-01.14.37:586][307]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.21-01.14.37:586][307]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.21-01.14.37:586][307]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.21-01.14.37:586][307]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.21-01.14.37:588][307]PIE: Server logged in
+[2021.05.21-01.14.37:588][307]PIE: Play in editor total start time 0.234 seconds.
+[2021.05.21-01.14.38:466][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.14.38:466][349]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.21-01.14.38:467][349]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.14.38:467][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.14.38:471][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.14.38:476][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.14.38:507][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-01.14.38:507][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.14.38:508][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.14.38:524][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.14.38:527][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.05.21-01.14.38:727][356]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.05.21-01.14.39:783][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.05.21-01.14.39:875][408]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.14.39:876][408]Cmd: MAP LOAD FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.21-01.14.39:876][408]LightingResults: New page: Lighting Build
+[2021.05.21-01.14.39:876][408]LoadErrors: New page: Loading map: TestMap.umap
+[2021.05.21-01.14.39:886][408]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.14.39:886][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.14.39:922][408]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.14.39:922][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.14.39:922][408]MapCheck: New page: Map Check
+[2021.05.21-01.14.39:922][408]LightingResults: New page: Lighting Build
+[2021.05.21-01.14.39:951][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-01.14.39:958][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.21-01.14.39:959][408]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2021.05.21-01.14.40:103][408]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.21-01.14.40:104][408]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.14.40:138][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.21-01.14.40:143][408]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.21-01.14.40:143][408]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.05.21-01.14.40:143][408]LogFileHelpers: Loading map 'TestMap' took 0.268
+[2021.05.21-01.16.16:559][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.21-01.16.32:893][158]Cmd: TRANSACTION UNDO
+[2021.05.21-01.16.32:893][158]LogEditorTransaction: Undo Scale Actors
+[2021.05.21-01.16.33:194][169]Cmd: TRANSACTION UNDO
+[2021.05.21-01.16.33:195][169]LogEditorTransaction: Undo Scale Actors
+[2021.05.21-01.16.57:420][511]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.02:324][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.03:118][844]LogEditorViewport: Clicking on Actor (LMB): Killbox_C (Killbox5)
+[2021.05.21-01.17.09:164][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.10:190][256]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.12:658][395]LogEditorViewport: Clicking on Actor (LMB): Killbox_C (Killbox)
+[2021.05.21-01.17.19:084][765]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.20:161][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.21:269][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.21:860][929]LogEditorViewport: Clicking on Actor (LMB): Killbox_C (Killbox5)
+[2021.05.21-01.17.25:591][151]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.26:851][225]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.17.27:343][254]LogEditorViewport: Clicking on Actor (LMB): Killbox_C (Killbox3)
+[2021.05.21-01.17.41:232][ 85]LogEditorViewport: Clicking on Actor (LMB): BookModel_C (BookModel4)
+[2021.05.21-01.17.50:413][623]LogEditorViewport: Clicking on Actor (LMB): BookModel_C (BookModel4)
+[2021.05.21-01.17.54:984][889]Cmd: EDIT COPY
+[2021.05.21-01.17.55:164][899]Cmd: EDIT PASTE
+[2021.05.21-01.18.04:673][444]Cmd: TRANSACTION UNDO
+[2021.05.21-01.18.04:673][444]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.18.17:974][198]LogEditorViewport: Clicking on Actor (LMB): PensilWall_C (PensilWall31)
+[2021.05.21-01.18.19:444][273]Cmd: EDIT COPY
+[2021.05.21-01.18.19:694][286]Cmd: EDIT PASTE
+[2021.05.21-01.18.22:292][416]Cmd: TRANSACTION UNDO
+[2021.05.21-01.18.22:292][416]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.18.27:190][660]LogEditorViewport: Clicking on Actor (LMB): BookModel_C (BookModel6)
+[2021.05.21-01.18.41:407][491]LogEditorViewport: Clicking on Actor (LMB): PensilWall_C (PensilWall44)
+[2021.05.21-01.18.54:423][171]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.18.55:268][218]LogEditorViewport: Clicking on Actor (LMB): PensilWall_C (PensilWall44)
+[2021.05.21-01.19.23:438][731]LogEditorViewport: Clicking on Actor (LMB): BookModel_C (BookModel6)
+[2021.05.21-01.19.28:580][ 38]LogEditorViewport: Clicking on Actor (LMB): PensilWall_C (PensilWall44)
+[2021.05.21-01.19.30:565][156]Cmd: EDIT COPY
+[2021.05.21-01.19.30:782][169]Cmd: EDIT PASTE
+[2021.05.21-01.19.36:099][486]Cmd: EDIT COPY
+[2021.05.21-01.19.36:449][507]Cmd: EDIT PASTE
+[2021.05.21-01.19.40:042][721]Cmd: EDIT COPY
+[2021.05.21-01.19.40:325][738]Cmd: EDIT PASTE
+[2021.05.21-01.19.55:818][644]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall45)
+[2021.05.21-01.19.56:786][700]Cmd: EDIT COPY
+[2021.05.21-01.19.56:980][711]Cmd: EDIT PASTE
+[2021.05.21-01.20.07:854][335]Cmd: EDIT COPY
+[2021.05.21-01.20.08:087][349]Cmd: EDIT PASTE
+[2021.05.21-01.20.20:452][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.20.21:062][ 86]LogEditorViewport: Clicking on Actor (LMB): PensilWall_C (PensilWall75)
+[2021.05.21-01.20.21:802][127]Cmd: EDIT COPY
+[2021.05.21-01.20.22:005][139]Cmd: EDIT PASTE
+[2021.05.21-01.20.30:478][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-01.20.30:517][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.05.21-01.20.30:569][614]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap967BE062432A9C3B98E579AB66B660CC.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-01.20.30:577][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-01.20.30:596][614]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData30DCBC744DCBF428258804A89566CE00.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-01.20.30:621][614]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-01.20.30:621][614]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.20.30:621][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-01.20.31:357][637]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.20.31:362][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.20.31:362][637]PIE: New page: PIE session: TestMap (May 20, 2021, 11:20:31 AM)
+[2021.05.21-01.20.31:362][637]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.20.31:375][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012967s)
+[2021.05.21-01.20.31:377][637]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.20.31:377][637]LogPlayLevel: PIE: World Init took: (0.001511s)
+[2021.05.21-01.20.31:377][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.014635s)
+[2021.05.21-01.20.31:407][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.05.21-01.20.31:408][637]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.05.21-01.20.31:408][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.20.31:408][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.20.31:408][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.20.31:408][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.20.31:408][637]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.20.31:408][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.20.31:408][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.20.31:408][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.20.31:409][637]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.20.31:409][637]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.20.31:413][637]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.20.31:413][637]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.20.31:413][637]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.20.31:413][637]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.20.31:413][637]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.20.31:413][637]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.20.31:413][637]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.20.31:413][637]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.20.31:578][637]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.20.31:579][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.20.31:579][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.20.31:579][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.20.31:579][637]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.20.31:579][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.20.31:579][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.20.31:594][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.20.31:594][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.20.31:594][637]LogInit: FAudioDevice initialized.
+[2021.05.21-01.20.31:594][637]LogAudio: Display: Audio Device (ID: 35) registered with world 'TestMap'.
+[2021.05.21-01.20.31:603][637]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-01.20.31:608][637]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-18.20.31
+[2021.05.21-01.20.31:608][637]LogWorld: Bringing up level for play took: 0.005262
+[2021.05.21-01.20.31:609][637]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.05.21-01.20.31:613][637]PIE: Server logged in
+[2021.05.21-01.20.31:614][637]PIE: Play in editor total start time 0.252 seconds.
+[2021.05.21-01.20.45:056][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.20.45:056][433]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.20.45:057][433]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.20.45:058][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.20.45:065][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.20.45:074][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.20.45:102][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.20.45:103][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.20.45:104][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.20.45:125][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.21-01.20.45:296][440]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.05.21-01.21.56:909][432]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall44)
+[2021.05.21-01.21.57:907][491]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall46)
+[2021.05.21-01.21.59:107][562]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall45)
+[2021.05.21-01.21.59:704][597]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall71)
+[2021.05.21-01.22.02:068][737]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall74)
+[2021.05.21-01.22.02:831][782]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall75)
+[2021.05.21-01.22.03:446][818]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall72)
+[2021.05.21-01.22.03:993][850]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall73)
+[2021.05.21-01.22.05:257][924]LogEditorViewport: Clicking on Actor (CTRL LMB): BookModel_C (BookModel6)
+[2021.05.21-01.22.16:551][532]Cmd: TRANSACTION UNDO
+[2021.05.21-01.22.16:551][532]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.22.20:320][747]LogEditorViewport: Clicking on Actor (LMB): PensilWall_C (PensilWall76)
+[2021.05.21-01.22.59:251][884]LogEditorViewport: Clicking on Actor (LMB): LampModel_C (LampModel)
+[2021.05.21-01.23.05:826][275]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2021.05.21-01.23.06:790][332]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2021.05.21-01.23.10:133][529]Cmd: EDIT COPY
+[2021.05.21-01.23.10:350][541]Cmd: EDIT PASTE
+[2021.05.21-01.23.18:651][ 24]Cmd: TRANSACTION UNDO
+[2021.05.21-01.23.18:651][ 24]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.23.32:234][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.21-01.23.34:743][931]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor5)
+[2021.05.21-01.23.54:278][ 75]LogEditorViewport: Clicking on Actor (LMB): LampModel_C (LampModel3)
+[2021.05.21-01.23.55:101][123]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2021.05.21-01.23.56:069][180]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2021.05.21-01.24.04:433][669]Cmd: TRANSACTION UNDO
+[2021.05.21-01.24.04:433][669]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.24.18:350][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-01.24.18:406][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.05.21-01.24.18:458][383]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap40A8FDE5439C36AAE8830399A9FCECA0.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-01.24.18:467][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-01.24.18:480][383]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData0B862B9143B35984FD3A1593C4226C94.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-01.24.18:505][383]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-01.24.18:505][383]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.24.18:505][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-01.24.21:969][501]MapCheck: New page: Map Check
+[2021.05.21-01.24.21:996][501]LightingResults: New page: Lighting Build - May 20, 2021, 11:24:21 AM
+[2021.05.21-01.24.22:009][501]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.21-01.24.22:012][501]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.21-01.24.22:012][501]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.21-01.24.22:013][501]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.21-01.24.22:013][501]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15192
+[2021.05.21-01.24.26:538][501]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.21-01.24.26:538][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.21-01.24.26:538][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.21-01.24.26:538][501]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.21-01.24.26:538][501]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.21-01.24.26:538][501]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.21-01.24.26:603][501]LogEditorBuildUtils: Build time 0:04
+[2021.05.21-01.24.26:686][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.21-01.24.28:631][562]Job is a success!
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport:          0: 2.8% covering 100.0% of volume
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport:          1: 33.3% covering 18.8% of volume
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport:          2: 63.9% covering 0.6% of volume
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.21-01.24.28:809][563]LogVolumetricLightmapImport:          TestMap 			 36 bricks 	 100.0% (Persistent Level)
+[2021.05.21-01.24.28:884][563]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.05.21-01.24.28:884][563]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.05.21-01.24.28:884][563]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.05.21-01.24.28:884][563]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.05.21-01.24.28:884][563]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.05.21-01.24.28:884][563]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X128)
+[2021.05.21-01.24.28:884][563]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 6 meshes in 2 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.05.21-01.24.28:918][563]Lightmass on DESKTOP-D7M8G29: 1.69 sec total, 165 ms importing, 31 ms setup, 331 ms photons, 1.12 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 16.9 sec total, 1.32 sec processing.
+[2021.05.21-01.24.28:920][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.05.21-01.24.29:007][563]LogStaticLightingSystem: Illumination: 6.88 sec (24 ms encoding lightmaps, 33 ms encoding shadowmaps)
+[2021.05.21-01.24.29:007][563]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.05.21-01.24.29:007][563]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.05.21-01.24.29:543][563]DumpUnbuiltLightIteractions
+[2021.05.21-01.24.29:543][563]Lights with unbuilt interactions: 0
+[2021.05.21-01.24.29:543][563]
+[2021.05.21-01.24.29:543][563]Primitives with unbuilt interactions: 0
+[2021.05.21-01.24.29:634][563]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.05.21-01.24.29:695][564]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.21-01.24.29:695][564]MapCheck: New page: TestMap - May 20, 2021, 11:24:29 AM
+[2021.05.21-01.24.29:695][564]MapCheck: Warning: Killbox5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.05.21-01.24.29:695][564]MapCheck: Warning: EnemySpawner_14 Static mesh actor has NULL StaticMesh property 
+[2021.05.21-01.24.29:695][564]MapCheck: Warning: EnemySpawner_14 Static mesh actor has NULL StaticMesh property 
+[2021.05.21-01.24.29:695][564]MapCheck: Warning: EnemySpawner_14 Static mesh actor has NULL StaticMesh property 
+[2021.05.21-01.24.29:695][564]MapCheck: Warning: EnemySpawner_14 Static mesh actor has NULL StaticMesh property 
+[2021.05.21-01.24.29:695][564]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 0.646ms to complete.
+[2021.05.21-01.25.19:973][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-01.25.20:004][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.05.21-01.25.20:053][108]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapD34F829E48617BE8AB534EA4A939E24A.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-01.25.20:061][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-01.25.20:072][108]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataAF2D123F40E8DA5EA60A7A88706695DF.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-01.25.20:199][108]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-01.25.20:199][108]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.25.20:199][108]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-01.25.20:521][126]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.25.20:526][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.25.20:526][126]PIE: New page: PIE session: TestMap (May 20, 2021, 11:25:20 AM)
+[2021.05.21-01.25.20:526][126]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.25.20:540][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013666s)
+[2021.05.21-01.25.20:541][126]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.25.20:541][126]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2021.05.21-01.25.20:541][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.014989s)
+[2021.05.21-01.25.20:572][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.05.21-01.25.20:572][126]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.05.21-01.25.20:572][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.25.20:572][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.25.20:572][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.25.20:572][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.25.20:572][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.25.20:572][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.25.20:572][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.25.20:572][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.25.20:573][126]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.25.20:573][126]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.25.20:578][126]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.25.20:578][126]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.25.20:578][126]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.25.20:578][126]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.25.20:578][126]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.25.20:578][126]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.25.20:578][126]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.25.20:578][126]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.25.20:743][126]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.25.20:744][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.25.20:744][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.25.20:744][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.25.20:744][126]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.25.20:744][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.25.20:744][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.25.20:758][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.25.20:759][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.25.20:759][126]LogInit: FAudioDevice initialized.
+[2021.05.21-01.25.20:759][126]LogAudio: Display: Audio Device (ID: 36) registered with world 'TestMap'.
+[2021.05.21-01.25.20:763][126]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-01.25.20:768][126]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-18.25.20
+[2021.05.21-01.25.20:769][126]LogWorld: Bringing up level for play took: 0.005305
+[2021.05.21-01.25.20:769][126]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.05.21-01.25.20:773][126]PIE: Server logged in
+[2021.05.21-01.25.20:774][126]PIE: Play in editor total start time 0.248 seconds.
+[2021.05.21-01.25.23:137][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.25.23:137][227]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.25.23:137][227]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.25.23:138][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.25.23:147][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.25.23:157][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.25.23:184][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.25.23:185][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.25.23:186][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.25.23:207][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.05.21-01.25.23:715][234]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.05.21-01.25.26:652][375]LogSlate: Window 'Message Log' being destroyed
+[2021.05.21-01.25.26:664][375]LogSlate: Window 'Message Log' being destroyed
+[2021.05.21-01.25.27:987][440]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.25.27:992][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.25.27:992][440]PIE: New page: PIE session: TestMap (May 20, 2021, 11:25:27 AM)
+[2021.05.21-01.25.27:992][440]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.25.28:006][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013502s)
+[2021.05.21-01.25.28:007][440]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.25.28:007][440]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2021.05.21-01.25.28:007][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.014692s)
+[2021.05.21-01.25.28:038][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.05.21-01.25.28:039][440]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.05.21-01.25.28:039][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.25.28:039][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.25.28:039][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.25.28:039][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.25.28:039][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.25.28:039][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.25.28:039][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.25.28:039][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.25.28:040][440]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.25.28:040][440]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.25.28:044][440]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.25.28:044][440]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.25.28:044][440]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.25.28:044][440]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.25.28:044][440]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.25.28:044][440]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.25.28:044][440]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.25.28:044][440]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.25.28:207][440]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.25.28:207][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.25.28:207][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.25.28:207][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.25.28:207][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.25.28:207][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.25.28:207][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.25.28:222][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.25.28:222][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.25.28:222][440]LogInit: FAudioDevice initialized.
+[2021.05.21-01.25.28:222][440]LogAudio: Display: Audio Device (ID: 37) registered with world 'TestMap'.
+[2021.05.21-01.25.28:228][440]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-01.25.28:233][440]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-18.25.28
+[2021.05.21-01.25.28:234][440]LogWorld: Bringing up level for play took: 0.005154
+[2021.05.21-01.25.28:234][440]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.05.21-01.25.28:238][440]PIE: Server logged in
+[2021.05.21-01.25.28:239][440]PIE: Play in editor total start time 0.247 seconds.
+[2021.05.21-01.25.47:654][598]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1529.999 Y=210.000 Z=80.000] for [Enemy1_C]
+[2021.05.21-01.26.08:737][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.26.08:737][812]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.26.08:737][812]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.26.08:738][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.26.08:754][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.26.08:764][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.26.08:794][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.26.08:795][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.26.08:796][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.26.08:818][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.21-01.26.09:000][819]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.05.21-01.28.22:726][625]Cmd: EDIT COPY
+[2021.05.21-01.28.22:933][636]Cmd: EDIT PASTE
+[2021.05.21-01.28.30:781][ 29]Cmd: DELETE
+[2021.05.21-01.28.30:781][ 29]Cmd: ACTOR DELETE
+[2021.05.21-01.28.30:830][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.05.21-01.28.30:836][ 29]LogEditorActor: Deleted 0 Actors (0.055 secs)
+[2021.05.21-01.28.35:699][263]LogEditorViewport: Clicking on Actor (LMB): BookModel_C (BookModel4)
+[2021.05.21-01.28.37:108][324]Cmd: EDIT COPY
+[2021.05.21-01.28.37:268][332]Cmd: EDIT PASTE
+[2021.05.21-01.29.44:649][ 93]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel6)
+[2021.05.21-01.29.45:140][121]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel8)
+[2021.05.21-01.29.45:889][165]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel9)
+[2021.05.21-01.29.46:506][201]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2021.05.21-01.29.48:483][317]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel5)
+[2021.05.21-01.29.49:199][359]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel7)
+[2021.05.21-01.29.51:047][455]Cmd: EDIT COPY
+[2021.05.21-01.29.51:248][467]Cmd: EDIT PASTE
+[2021.05.21-01.30.19:595][108]LogEditorViewport: Clicking on Actor (LMB): BookModel_C (BookModel7)
+[2021.05.21-01.31.08:200][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-01.31.08:240][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.05.21-01.31.08:293][908]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap21BBC1284738D1EEDEBFD9BC722A6363.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-01.31.08:303][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-01.31.08:316][908]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataD4C5877A4B677FB1A58D368686C65E57.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-01.31.08:390][908]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-01.31.08:390][908]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.31.08:390][908]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-01.31.08:875][937]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.31.08:880][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.31.08:881][937]PIE: New page: PIE session: TestMap (May 20, 2021, 11:31:08 AM)
+[2021.05.21-01.31.08:881][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.31.08:894][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013560s)
+[2021.05.21-01.31.08:895][937]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.31.08:895][937]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2021.05.21-01.31.08:896][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.014777s)
+[2021.05.21-01.31.08:926][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.05.21-01.31.08:926][937]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.05.21-01.31.08:926][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.31.08:926][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.31.08:926][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.31.08:927][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.31.08:927][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.31.08:927][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.31.08:927][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.31.08:927][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.31.08:927][937]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.31.08:927][937]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.31.08:932][937]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.31.08:932][937]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.31.08:932][937]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.31.08:932][937]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.31.08:932][937]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.31.08:932][937]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.31.08:932][937]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.31.08:932][937]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.31.09:098][937]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.31.09:098][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.31.09:099][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.31.09:099][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.31.09:099][937]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.31.09:099][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.31.09:099][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.31.09:113][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.31.09:113][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.31.09:113][937]LogInit: FAudioDevice initialized.
+[2021.05.21-01.31.09:113][937]LogAudio: Display: Audio Device (ID: 38) registered with world 'TestMap'.
+[2021.05.21-01.31.09:120][937]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-01.31.09:126][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-18.31.09
+[2021.05.21-01.31.09:127][937]LogWorld: Bringing up level for play took: 0.005498
+[2021.05.21-01.31.09:127][937]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.05.21-01.31.09:131][937]PIE: Server logged in
+[2021.05.21-01.31.09:132][937]PIE: Play in editor total start time 0.252 seconds.
+[2021.05.21-01.31.19:304][546]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1530.000 Y=-50.000 Z=160.000] for [Enemy1_C]
+[2021.05.21-01.31.21:447][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.31.21:447][672]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.31.21:447][672]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.31.21:448][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.31.21:455][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.31.21:466][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.31.21:495][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.31.21:496][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.31.21:497][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.31.21:516][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.05.21-01.31.21:804][679]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.05.21-01.31.32:702][293]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel10)
+[2021.05.21-01.31.35:813][474]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel9)
+[2021.05.21-01.31.36:851][535]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel6)
+[2021.05.21-01.31.37:534][575]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel8)
+[2021.05.21-01.31.39:693][702]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel7)
+[2021.05.21-01.31.50:836][328]Cmd: TRANSACTION UNDO
+[2021.05.21-01.31.50:836][328]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.31.53:496][453]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel5)
+[2021.05.21-01.33.03:387][954]LogEditorViewport: Clicking on Actor (context menu): LampModel_C (LampModel2)
+[2021.05.21-01.33.04:578][990]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-01.33.06:843][ 91]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.05.21-01.33.12:931][365]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2021.05.21-01.33.16:099][489]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.05.21-01.33.24:397][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-01.33.24:443][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.05.21-01.33.24:495][742]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapEF15F7E34FB2A45602A4A28B04519780.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-01.33.24:503][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-01.33.24:515][742]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData8B891E5B4FE618B660265E8B8042AC53.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-01.33.24:541][742]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-01.33.24:541][742]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.33.24:541][742]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-01.33.24:951][758]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.33.24:957][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.33.24:957][758]PIE: New page: PIE session: TestMap (May 20, 2021, 11:33:24 AM)
+[2021.05.21-01.33.24:985][758]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.33.25:000][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013874s)
+[2021.05.21-01.33.25:000][758]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.33.25:001][758]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2021.05.21-01.33.25:001][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.015062s)
+[2021.05.21-01.33.25:031][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.05.21-01.33.25:031][758]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.05.21-01.33.25:031][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.33.25:031][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.33.25:031][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.33.25:031][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.33.25:031][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.33.25:031][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.33.25:031][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.33.25:031][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.33.25:032][758]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.33.25:032][758]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.33.25:036][758]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.33.25:036][758]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.33.25:036][758]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.33.25:036][758]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.33.25:036][758]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.33.25:036][758]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.33.25:036][758]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.33.25:036][758]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.33.25:201][758]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.33.25:201][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.33.25:201][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.33.25:201][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.33.25:201][758]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.33.25:201][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.33.25:201][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.33.25:216][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.33.25:216][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.33.25:216][758]LogInit: FAudioDevice initialized.
+[2021.05.21-01.33.25:216][758]LogAudio: Display: Audio Device (ID: 39) registered with world 'TestMap'.
+[2021.05.21-01.33.25:225][758]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-01.33.25:231][758]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-18.33.25
+[2021.05.21-01.33.25:231][758]LogWorld: Bringing up level for play took: 0.005483
+[2021.05.21-01.33.25:232][758]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.05.21-01.33.25:235][758]PIE: Server logged in
+[2021.05.21-01.33.25:236][758]PIE: Play in editor total start time 0.28 seconds.
+[2021.05.21-01.33.51:887][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.33.51:887][214]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.33.51:887][214]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.33.51:888][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.33.51:894][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.33.51:907][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.33.51:934][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.33.51:935][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.33.51:937][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.33.51:957][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.05.21-01.33.52:150][221]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.05.21-01.35.25:370][775]LogEditorViewport: Clicking on Actor (LMB): PensilWall_C (PensilWall29)
+[2021.05.21-01.35.26:199][799]LogEditorViewport: Clicking on Actor (CTRL LMB): PensilWall_C (PensilWall28)
+[2021.05.21-01.35.27:605][846]Cmd: EDIT COPY
+[2021.05.21-01.35.27:872][854]Cmd: EDIT PASTE
+[2021.05.21-01.35.56:980][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-01.35.57:020][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.05.21-01.35.57:074][113]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap4FA784F742CD9119EE9939A350F622E4.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-01.35.57:082][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-01.35.57:094][113]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData45C873904D66C7D3F21E06B0040293C4.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-01.35.57:130][113]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-01.35.57:130][113]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.35.57:130][113]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-01.35.59:432][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-01.35.59:462][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.05.21-01.35.59:512][179]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap070D7C3640155F102DFE799A4E0472FA.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-01.35.59:519][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-01.35.59:530][179]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData2AD722324087F6D150A54C943E819877.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-01.35.59:557][179]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-01.35.59:557][179]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.35.59:558][179]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-01.36.03:766][300]MapCheck: New page: Map Check
+[2021.05.21-01.36.03:800][300]LightingResults: New page: Lighting Build - May 20, 2021, 11:36:03 AM
+[2021.05.21-01.36.03:812][300]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.21-01.36.03:817][300]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.21-01.36.03:817][300]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.21-01.36.03:818][300]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.21-01.36.03:818][300]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15192
+[2021.05.21-01.36.08:353][300]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.21-01.36.08:354][300]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.21-01.36.08:354][300]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.21-01.36.08:354][300]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.21-01.36.08:354][300]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.21-01.36.08:354][300]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.21-01.36.08:446][300]LogEditorBuildUtils: Build time 0:04
+[2021.05.21-01.36.08:517][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.05.21-01.36.10:587][366]Job is a success!
+[2021.05.21-01.36.10:797][367]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2021.05.21-01.36.10:797][367]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.21-01.36.10:797][367]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2021.05.21-01.36.10:797][367]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.21-01.36.10:797][367]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2021.05.21-01.36.10:798][367]LogVolumetricLightmapImport:          1: 26.1% covering 18.8% of volume
+[2021.05.21-01.36.10:798][367]LogVolumetricLightmapImport:          2: 71.7% covering 0.8% of volume
+[2021.05.21-01.36.10:798][367]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.21-01.36.10:798][367]LogVolumetricLightmapImport:          TestMap 			 46 bricks 	 100.0% (Persistent Level)
+[2021.05.21-01.36.10:863][367]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.05.21-01.36.10:863][367]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.05.21-01.36.10:863][367]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2021.05.21-01.36.10:863][367]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2021.05.21-01.36.10:863][367]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2021.05.21-01.36.10:863][367]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2021.05.21-01.36.10:863][367]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 6 meshes in 2 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.05.21-01.36.10:896][367]Lightmass on DESKTOP-D7M8G29: 1.85 sec total, 173 ms importing, 33 ms setup, 337 ms photons, 1.26 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 19.0 sec total, 1.30 sec processing.
+[2021.05.21-01.36.10:899][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.21-01.36.10:984][367]LogStaticLightingSystem: Illumination: 7.04 sec (23 ms encoding lightmaps, 25 ms encoding shadowmaps)
+[2021.05.21-01.36.10:984][367]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.05.21-01.36.10:984][367]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.05.21-01.36.11:361][367]DumpUnbuiltLightIteractions
+[2021.05.21-01.36.11:361][367]Lights with unbuilt interactions: 0
+[2021.05.21-01.36.11:361][367]
+[2021.05.21-01.36.11:361][367]Primitives with unbuilt interactions: 0
+[2021.05.21-01.36.11:445][367]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.05.21-01.36.11:520][368]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.21-01.36.11:520][368]MapCheck: New page: TestMap - May 20, 2021, 11:36:11 AM
+[2021.05.21-01.36.11:520][368]MapCheck: Warning: EnemySpawner_14 Static mesh actor has NULL StaticMesh property 
+[2021.05.21-01.36.11:520][368]MapCheck: Warning: EnemySpawner_14 Static mesh actor has NULL StaticMesh property 
+[2021.05.21-01.36.11:520][368]MapCheck: Warning: EnemySpawner_14 Static mesh actor has NULL StaticMesh property 
+[2021.05.21-01.36.11:520][368]MapCheck: Warning: EnemySpawner_14 Static mesh actor has NULL StaticMesh property 
+[2021.05.21-01.36.11:520][368]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 0.607ms to complete.
+[2021.05.21-01.36.32:830][287]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.36.32:836][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.36.32:836][287]PIE: New page: PIE session: TestMap (May 20, 2021, 11:36:32 AM)
+[2021.05.21-01.36.32:836][287]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.36.32:850][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014374s)
+[2021.05.21-01.36.32:851][287]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.36.32:852][287]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2021.05.21-01.36.32:852][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.015865s)
+[2021.05.21-01.36.32:881][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.05.21-01.36.32:884][287]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.05.21-01.36.32:884][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.36.32:884][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.36.32:884][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.36.32:884][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.36.32:884][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.36.32:884][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.36.32:884][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.36.32:884][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.36.32:885][287]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.36.32:885][287]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.36.32:890][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.36.32:890][287]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.36.32:890][287]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.36.32:890][287]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.36.32:890][287]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.36.32:890][287]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.36.32:890][287]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.36.32:890][287]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.36.33:055][287]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.36.33:055][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.36.33:055][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.36.33:055][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.36.33:055][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.36.33:055][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.36.33:055][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.36.33:070][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.36.33:070][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.36.33:070][287]LogInit: FAudioDevice initialized.
+[2021.05.21-01.36.33:070][287]LogAudio: Display: Audio Device (ID: 40) registered with world 'TestMap'.
+[2021.05.21-01.36.33:079][287]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-01.36.33:085][287]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-18.36.33
+[2021.05.21-01.36.33:085][287]LogWorld: Bringing up level for play took: 0.005514
+[2021.05.21-01.36.33:085][287]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.05.21-01.36.33:089][287]PIE: Server logged in
+[2021.05.21-01.36.33:090][287]PIE: Play in editor total start time 0.255 seconds.
+[2021.05.21-01.36.42:287][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.36.42:288][791]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.36.42:288][791]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.36.42:289][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.36.42:310][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.36.42:320][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.36.42:347][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.36.42:347][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.36.42:348][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.36.42:369][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.21-01.36.42:557][798]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.05.21-01.36.43:465][826]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.36.43:471][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.36.43:471][826]PIE: New page: PIE session: TestMap (May 20, 2021, 11:36:43 AM)
+[2021.05.21-01.36.43:471][826]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.36.43:486][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014696s)
+[2021.05.21-01.36.43:487][826]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.36.43:487][826]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2021.05.21-01.36.43:487][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.015822s)
+[2021.05.21-01.36.43:518][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.05.21-01.36.43:519][826]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.05.21-01.36.43:519][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.36.43:519][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.36.43:519][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.36.43:519][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.36.43:519][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.36.43:519][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.36.43:519][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.36.43:519][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.36.43:520][826]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.36.43:520][826]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.36.43:524][826]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.36.43:524][826]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.36.43:524][826]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.36.43:524][826]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.36.43:524][826]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.36.43:524][826]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.36.43:524][826]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.36.43:524][826]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.36.43:688][826]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.36.43:689][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.36.43:689][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.36.43:689][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.36.43:689][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.36.43:689][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.36.43:689][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.36.43:704][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.36.43:704][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.36.43:704][826]LogInit: FAudioDevice initialized.
+[2021.05.21-01.36.43:704][826]LogAudio: Display: Audio Device (ID: 41) registered with world 'TestMap'.
+[2021.05.21-01.36.43:713][826]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-01.36.43:720][826]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-18.36.43
+[2021.05.21-01.36.43:720][826]LogWorld: Bringing up level for play took: 0.005630
+[2021.05.21-01.36.43:720][826]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.05.21-01.36.43:724][826]PIE: Server logged in
+[2021.05.21-01.36.43:725][826]PIE: Play in editor total start time 0.254 seconds.
+[2021.05.21-01.36.57:697][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.36.57:697][589]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.36.57:697][589]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.36.57:698][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.36.57:705][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.36.57:715][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.36.57:745][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.36.57:745][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.36.57:747][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.36.57:767][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.05.21-01.36.57:941][596]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.05.21-01.37.58:126][752]Cmd: DELETE
+[2021.05.21-01.37.58:126][752]Cmd: ACTOR DELETE
+[2021.05.21-01.37.58:154][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:154][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:155][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:155][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:156][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:156][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:156][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:157][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:157][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:158][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:158][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:159][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:159][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:159][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:160][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:160][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:161][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:161][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:161][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:162][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:162][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:163][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:163][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:164][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:164][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:164][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:165][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:165][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:166][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:166][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:166][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:167][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:167][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:168][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:168][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:169][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:169][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:169][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:170][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:170][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:171][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:171][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:171][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:172][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:172][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:173][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:173][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:173][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:174][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:174][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:175][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:175][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:175][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:176][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:176][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:177][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:177][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:177][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:178][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:178][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:178][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:179][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:179][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:180][752]LogEditorActor: Deleted Actor: PensilWall_C
+[2021.05.21-01.37.58:214][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.05.21-01.37.58:219][752]LogEditorActor: Deleted 64 Actors (0.093 secs)
+[2021.05.21-01.38.01:536][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-01.38.01:566][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.21-01.38.01:592][930]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapE3B0CA4340647E6F57B6DC95EA7A8FFC.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-01.38.01:599][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-01.38.01:613][930]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataAC17321D4A088FE97334FFA4CFE50322.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-01.38.01:648][930]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-01.38.01:648][930]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-01.38.01:648][930]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-01.38.01:992][950]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.38.01:999][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.38.02:000][950]PIE: New page: PIE session: TestMap (May 20, 2021, 11:38:01 AM)
+[2021.05.21-01.38.02:000][950]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.38.02:008][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007928s)
+[2021.05.21-01.38.02:008][950]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-01.38.02:009][950]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2021.05.21-01.38.02:009][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.008973s)
+[2021.05.21-01.38.02:040][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.05.21-01.38.02:040][950]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.05.21-01.38.02:040][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.38.02:040][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.38.02:041][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.38.02:041][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.38.02:041][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.38.02:041][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.38.02:041][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.38.02:041][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.38.02:041][950]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.38.02:041][950]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.38.02:046][950]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.38.02:046][950]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.38.02:046][950]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-01.38.02:046][950]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-01.38.02:046][950]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-01.38.02:046][950]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-01.38.02:046][950]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-01.38.02:046][950]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-01.38.02:211][950]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-01.38.02:212][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-01.38.02:212][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-01.38.02:212][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-01.38.02:212][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-01.38.02:212][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-01.38.02:212][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-01.38.02:227][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-01.38.02:227][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-01.38.02:227][950]LogInit: FAudioDevice initialized.
+[2021.05.21-01.38.02:227][950]LogAudio: Display: Audio Device (ID: 42) registered with world 'TestMap'.
+[2021.05.21-01.38.02:238][950]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-01.38.02:241][950]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-18.38.02
+[2021.05.21-01.38.02:241][950]LogWorld: Bringing up level for play took: 0.002394
+[2021.05.21-01.38.02:241][950]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.05.21-01.38.02:245][950]PIE: Server logged in
+[2021.05.21-01.38.02:245][950]PIE: Play in editor total start time 0.247 seconds.
+[2021.05.21-01.38.12:319][552]LogNet: Browse: /Game/Levels/YouLostLevel
+[2021.05.21-01.38.12:319][552]LogLoad: LoadMap: /Game/Levels/YouLostLevel
+[2021.05.21-01.38.12:319][552]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-01.38.12:320][552]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.38.12:321][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.38.12:375][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-01.38.12:379][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.05.21-01.38.12:384][552]LogAudio: Display: Audio Device (ID: 42) registered with world 'YouLostLevel'.
+[2021.05.21-01.38.12:385][552]LogAIModule: Creating AISystem for world YouLostLevel
+[2021.05.21-01.38.12:385][552]LogLoad: Game class is 'YouLostGM_C'
+[2021.05.21-01.38.12:387][552]LogWorld: Bringing World /Game/Levels/UEDPIE_0_YouLostLevel.YouLostLevel up for play (max tick rate 60) at 2021.05.20-18.38.12
+[2021.05.21-01.38.12:387][552]LogWorld: Bringing up level for play took: 0.000790
+[2021.05.21-01.38.12:387][552]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.21-01.38.12:388][552]LogLoad: Took 0.069083 seconds to LoadMap(/Game/Levels/YouLostLevel)
+[2021.05.21-01.38.12:496][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.38.12:496][553]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_YouLostLevel
+[2021.05.21-01.38.12:497][553]LogWorld: UWorld::CleanupWorld for YouLostLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.38.12:497][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.38.12:502][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.38.12:508][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.38.12:537][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.38.12:537][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.38.12:538][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-01.38.12:558][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.05.21-01.38.12:704][560]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.05.21-02.57.59:626][848]Cmd: EDIT COPY
+[2021.05.21-02.57.59:826][860]Cmd: EDIT PASTE
+[2021.05.21-02.58.04:142][116]Cmd: EDIT COPY
+[2021.05.21-02.58.04:360][129]Cmd: EDIT PASTE
+[2021.05.21-02.58.13:346][622]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel17)
+[2021.05.21-02.58.17:204][852]Cmd: EDIT COPY
+[2021.05.21-02.58.17:390][863]Cmd: EDIT PASTE
+[2021.05.21-02.58.22:489][166]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel17)
+[2021.05.21-02.58.27:712][478]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel16)
+[2021.05.21-02.58.28:380][517]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel18)
+[2021.05.21-02.58.30:137][621]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel19)
+[2021.05.21-02.58.31:321][691]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel16)
+[2021.05.21-02.58.31:837][721]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel18)
+[2021.05.21-02.58.33:418][815]Cmd: EDIT COPY
+[2021.05.21-02.58.33:634][828]Cmd: EDIT PASTE
+[2021.05.21-02.58.37:328][ 46]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel17)
+[2021.05.21-02.58.42:956][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-02.58.42:992][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.05.21-02.58.43:036][357]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap7F559FFF4071E8617971519C32FC8F41.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-02.58.43:044][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-02.58.43:057][357]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataAC75BA784A03E1C1BEBA3BBF397592FD.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-02.58.43:094][357]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-02.58.43:094][357]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-02.58.43:094][357]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-02.58.43:548][378]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-02.58.43:559][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-02.58.43:559][378]PIE: New page: PIE session: TestMap (May 20, 2021, 12:58:43 PM)
+[2021.05.21-02.58.43:560][378]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-02.58.43:568][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008404s)
+[2021.05.21-02.58.43:569][378]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-02.58.43:569][378]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2021.05.21-02.58.43:569][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.009629s)
+[2021.05.21-02.58.43:599][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.21-02.58.43:599][378]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2021.05.21-02.58.43:600][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-02.58.43:600][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-02.58.43:600][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-02.58.43:600][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-02.58.43:600][378]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-02.58.43:600][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-02.58.43:600][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-02.58.43:600][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-02.58.43:600][378]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-02.58.43:600][378]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-02.58.43:605][378]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-02.58.43:605][378]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-02.58.43:605][378]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-02.58.43:605][378]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-02.58.43:605][378]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-02.58.43:605][378]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-02.58.43:605][378]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-02.58.43:605][378]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-02.58.43:768][378]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-02.58.43:769][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-02.58.43:769][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-02.58.43:769][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-02.58.43:769][378]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-02.58.43:769][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-02.58.43:769][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-02.58.43:783][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-02.58.43:783][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-02.58.43:783][378]LogInit: FAudioDevice initialized.
+[2021.05.21-02.58.43:783][378]LogAudio: Display: Audio Device (ID: 43) registered with world 'TestMap'.
+[2021.05.21-02.58.43:792][378]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-02.58.43:797][378]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-19.58.43
+[2021.05.21-02.58.43:797][378]LogWorld: Bringing up level for play took: 0.003777
+[2021.05.21-02.58.43:797][378]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.05.21-02.58.43:801][378]PIE: Server logged in
+[2021.05.21-02.58.43:802][378]PIE: Play in editor total start time 0.243 seconds.
+[2021.05.21-02.58.56:257][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-02.58.56:257][123]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-02.58.56:257][123]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-02.58.56:258][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-02.58.56:267][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-02.58.56:277][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-02.58.56:304][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-02.58.56:305][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-02.58.56:306][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-02.58.56:326][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.05.21-02.58.56:480][130]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.05.21-02.59.02:449][485]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel17)
+[2021.05.21-02.59.02:805][506]Cmd: DELETE
+[2021.05.21-02.59.02:805][506]Cmd: ACTOR DELETE
+[2021.05.21-02.59.02:809][506]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-02.59.02:839][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.05.21-02.59.02:841][506]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.21-02.59.03:465][544]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel22)
+[2021.05.21-02.59.05:050][638]Cmd: EDIT COPY
+[2021.05.21-02.59.05:217][648]Cmd: EDIT PASTE
+[2021.05.21-02.59.08:937][870]Cmd: EDIT COPY
+[2021.05.21-02.59.09:154][883]Cmd: EDIT PASTE
+[2021.05.21-02.59.11:330][ 12]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel22)
+[2021.05.21-02.59.12:182][ 62]Cmd: DELETE
+[2021.05.21-02.59.12:182][ 62]Cmd: ACTOR DELETE
+[2021.05.21-02.59.12:186][ 62]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-02.59.12:216][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.21-02.59.12:218][ 62]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.21-02.59.12:703][ 91]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel23)
+[2021.05.21-02.59.12:973][106]Cmd: DELETE
+[2021.05.21-02.59.12:973][106]Cmd: ACTOR DELETE
+[2021.05.21-02.59.12:977][106]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-02.59.13:006][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.05.21-02.59.13:007][106]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.21-02.59.14:311][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-02.59.14:339][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.21-02.59.14:366][168]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap15FA93E240D9D78CDE3B819FCD20B10A.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-02.59.14:373][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-02.59.14:385][168]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData063F7D984D4704CB93FCD88F22EFF59D.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-02.59.14:415][168]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-02.59.14:415][168]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-02.59.14:415][168]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-02.59.14:853][192]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-02.59.14:859][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-02.59.14:859][192]PIE: New page: PIE session: TestMap (May 20, 2021, 12:59:14 PM)
+[2021.05.21-02.59.14:859][192]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-02.59.14:868][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007954s)
+[2021.05.21-02.59.14:868][192]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-02.59.14:869][192]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2021.05.21-02.59.14:869][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.009187s)
+[2021.05.21-02.59.14:899][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.21-02.59.14:899][192]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2021.05.21-02.59.14:899][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-02.59.14:899][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-02.59.14:899][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-02.59.14:899][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-02.59.14:899][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-02.59.14:899][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-02.59.14:899][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-02.59.14:899][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-02.59.14:899][192]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-02.59.14:899][192]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-02.59.14:904][192]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-02.59.14:904][192]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-02.59.14:904][192]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-02.59.14:904][192]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-02.59.14:904][192]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-02.59.14:904][192]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-02.59.14:904][192]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-02.59.14:904][192]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-02.59.15:066][192]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-02.59.15:067][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-02.59.15:067][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-02.59.15:067][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-02.59.15:067][192]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-02.59.15:067][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-02.59.15:067][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-02.59.15:081][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-02.59.15:081][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-02.59.15:082][192]LogInit: FAudioDevice initialized.
+[2021.05.21-02.59.15:082][192]LogAudio: Display: Audio Device (ID: 44) registered with world 'TestMap'.
+[2021.05.21-02.59.15:093][192]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-02.59.15:096][192]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-19.59.15
+[2021.05.21-02.59.15:096][192]LogWorld: Bringing up level for play took: 0.002634
+[2021.05.21-02.59.15:096][192]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.05.21-02.59.15:100][192]PIE: Server logged in
+[2021.05.21-02.59.15:101][192]PIE: Play in editor total start time 0.242 seconds.
+[2021.05.21-02.59.26:087][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-02.59.26:087][849]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-02.59.26:087][849]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-02.59.26:088][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-02.59.26:097][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-02.59.26:102][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-02.59.26:130][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-02.59.26:130][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-02.59.26:131][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-02.59.26:151][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.21-02.59.26:288][856]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.05.21-02.59.30:272][ 95]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel19)
+[2021.05.21-02.59.35:325][395]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel18)
+[2021.05.21-02.59.36:126][442]Cmd: DELETE
+[2021.05.21-02.59.36:126][442]Cmd: ACTOR DELETE
+[2021.05.21-02.59.36:130][442]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-02.59.36:161][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.21-02.59.36:163][442]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.05.21-02.59.56:595][658]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel21)
+[2021.05.21-03.00.00:622][896]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel24)
+[2021.05.21-03.00.08:061][341]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel16)
+[2021.05.21-03.00.08:745][381]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel19)
+[2021.05.21-03.00.09:578][430]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel20)
+[2021.05.21-03.00.09:976][453]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel21)
+[2021.05.21-03.00.10:359][475]LogEditorViewport: Clicking on Actor (CTRL LMB): CrayonModel_C (CrayonModel24)
+[2021.05.21-03.00.11:873][565]Cmd: EDIT COPY
+[2021.05.21-03.00.12:093][578]Cmd: EDIT PASTE
+[2021.05.21-03.00.13:792][679]Cmd: TRANSACTION UNDO
+[2021.05.21-03.00.13:792][679]LogEditorTransaction: Undo Move Actors
+[2021.05.21-03.00.15:170][750]Cmd: EDIT COPY
+[2021.05.21-03.00.15:556][773]Cmd: EDIT PASTE
+[2021.05.21-03.00.21:056][ 98]Cmd: EDIT COPY
+[2021.05.21-03.00.21:394][118]Cmd: EDIT PASTE
+[2021.05.21-03.00.28:531][532]Cmd: EDIT PASTE
+[2021.05.21-03.00.33:600][824]Cmd: EDIT PASTE
+[2021.05.21-03.00.41:368][273]Cmd: EDIT PASTE
+[2021.05.21-03.01.15:086][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-03.01.15:124][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.05.21-03.01.15:165][ 65]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap66B222844598235B726734A15131BA9A.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-03.01.15:172][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-03.01.15:184][ 65]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData1F3550CA4BBBCF0075E8D59A4A7D502A.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-03.01.15:215][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-03.01.15:215][ 65]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-03.01.15:215][ 65]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-04.14.38:913][225]Cmd: EDIT COPY
+[2021.05.21-04.14.39:334][250]Cmd: EDIT PASTE
+[2021.05.21-04.14.42:332][426]Cmd: TRANSACTION UNDO
+[2021.05.21-04.14.42:332][426]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.14.42:668][437]Cmd: TRANSACTION UNDO
+[2021.05.21-04.14.42:668][437]LogEditorTransaction: Undo Paste
+[2021.05.21-04.14.48:087][720]Cmd: TRANSACTION UNDO
+[2021.05.21-04.14.48:087][720]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.14.49:184][767]Cmd: EDIT COPY
+[2021.05.21-04.14.49:430][779]Cmd: EDIT PASTE
+[2021.05.21-04.14.55:605][112]Cmd: EDIT PASTE
+[2021.05.21-04.14.59:400][336]Cmd: EDIT PASTE
+[2021.05.21-04.15.08:491][876]Cmd: EDIT PASTE
+[2021.05.21-04.15.43:820][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.05.21-04.15.43:878][817]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_Auto31B775D994F9E5E5EA722A8836A8CFF87.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Autosaves/Game/Levels/TestMap_Auto3.umap'
+[2021.05.21-04.15.43:904][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.125
+[2021.05.21-04.15.43:904][817]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.125
+[2021.05.21-04.16.32:160][671]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.21-04.16.32:973][718]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel63)
+[2021.05.21-04.16.36:996][957]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel64)
+[2021.05.21-04.16.40:264][151]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel63)
+[2021.05.21-04.16.41:270][210]Cmd: DELETE
+[2021.05.21-04.16.41:270][210]Cmd: ACTOR DELETE
+[2021.05.21-04.16.41:276][210]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.16.41:305][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.05.21-04.16.41:311][210]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.05.21-04.16.41:649][230]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel64)
+[2021.05.21-04.16.41:806][238]Cmd: DELETE
+[2021.05.21-04.16.41:806][238]Cmd: ACTOR DELETE
+[2021.05.21-04.16.41:812][238]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.16.41:840][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.05.21-04.16.41:841][238]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.16.42:412][272]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel65)
+[2021.05.21-04.17.28:939][949]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel24)
+[2021.05.21-04.17.30:166][ 21]Cmd: DELETE
+[2021.05.21-04.17.30:166][ 21]Cmd: ACTOR DELETE
+[2021.05.21-04.17.30:172][ 21]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.30:202][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.05.21-04.17.30:207][ 21]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.05.21-04.17.30:694][ 50]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel21)
+[2021.05.21-04.17.30:867][ 59]Cmd: DELETE
+[2021.05.21-04.17.30:867][ 59]Cmd: ACTOR DELETE
+[2021.05.21-04.17.30:873][ 59]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.30:901][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.05.21-04.17.30:902][ 59]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.33:740][224]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel25)
+[2021.05.21-04.17.34:693][279]Cmd: DELETE
+[2021.05.21-04.17.34:693][279]Cmd: ACTOR DELETE
+[2021.05.21-04.17.34:699][279]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.34:727][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.05.21-04.17.34:728][279]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.35:738][340]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel26)
+[2021.05.21-04.17.35:980][353]Cmd: DELETE
+[2021.05.21-04.17.35:980][353]Cmd: ACTOR DELETE
+[2021.05.21-04.17.35:985][353]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.36:015][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.05.21-04.17.36:016][353]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.21-04.17.37:023][413]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel29)
+[2021.05.21-04.17.37:216][423]Cmd: DELETE
+[2021.05.21-04.17.37:216][423]Cmd: ACTOR DELETE
+[2021.05.21-04.17.37:222][423]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.37:251][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.05.21-04.17.37:252][423]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.37:762][454]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel30)
+[2021.05.21-04.17.37:938][463]Cmd: DELETE
+[2021.05.21-04.17.37:938][463]Cmd: ACTOR DELETE
+[2021.05.21-04.17.37:943][463]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.37:974][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.05.21-04.17.37:974][463]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.21-04.17.39:961][576]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel35)
+[2021.05.21-04.17.41:234][650]Cmd: DELETE
+[2021.05.21-04.17.41:235][650]Cmd: ACTOR DELETE
+[2021.05.21-04.17.41:240][650]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.41:270][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.05.21-04.17.41:271][650]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.21-04.17.41:613][671]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel34)
+[2021.05.21-04.17.41:887][686]Cmd: DELETE
+[2021.05.21-04.17.41:887][686]Cmd: ACTOR DELETE
+[2021.05.21-04.17.41:892][686]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.41:921][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.05.21-04.17.41:922][686]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.43:018][752]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel39)
+[2021.05.21-04.17.43:227][763]Cmd: DELETE
+[2021.05.21-04.17.43:227][763]Cmd: ACTOR DELETE
+[2021.05.21-04.17.43:233][763]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.43:262][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.05.21-04.17.43:262][763]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.43:733][791]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel40)
+[2021.05.21-04.17.43:874][798]Cmd: DELETE
+[2021.05.21-04.17.43:874][798]Cmd: ACTOR DELETE
+[2021.05.21-04.17.43:880][798]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.43:909][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.05.21-04.17.43:909][798]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.45:997][919]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel45)
+[2021.05.21-04.17.47:126][984]Cmd: DELETE
+[2021.05.21-04.17.47:126][984]Cmd: ACTOR DELETE
+[2021.05.21-04.17.47:133][984]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.47:161][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.05.21-04.17.47:162][984]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.05.21-04.17.47:652][ 13]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel44)
+[2021.05.21-04.17.47:810][ 21]Cmd: DELETE
+[2021.05.21-04.17.47:810][ 21]Cmd: ACTOR DELETE
+[2021.05.21-04.17.47:815][ 21]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.47:844][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.05.21-04.17.47:845][ 21]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.48:766][ 76]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel50)
+[2021.05.21-04.17.48:942][ 85]Cmd: DELETE
+[2021.05.21-04.17.48:942][ 85]Cmd: ACTOR DELETE
+[2021.05.21-04.17.48:947][ 85]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.48:975][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.05.21-04.17.48:976][ 85]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.21-04.17.49:364][108]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel49)
+[2021.05.21-04.17.49:521][116]Cmd: DELETE
+[2021.05.21-04.17.49:521][116]Cmd: ACTOR DELETE
+[2021.05.21-04.17.49:527][116]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.49:555][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.05.21-04.17.49:556][116]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.51:863][250]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel55)
+[2021.05.21-04.17.52:996][316]Cmd: DELETE
+[2021.05.21-04.17.52:996][316]Cmd: ACTOR DELETE
+[2021.05.21-04.17.53:001][316]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.53:030][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.05.21-04.17.53:031][316]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.53:419][339]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel54)
+[2021.05.21-04.17.53:593][348]Cmd: DELETE
+[2021.05.21-04.17.53:593][348]Cmd: ACTOR DELETE
+[2021.05.21-04.17.53:598][348]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.53:628][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.05.21-04.17.53:628][348]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.54:667][410]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel60)
+[2021.05.21-04.17.54:890][422]Cmd: DELETE
+[2021.05.21-04.17.54:890][422]Cmd: ACTOR DELETE
+[2021.05.21-04.17.54:895][422]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.54:924][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.05.21-04.17.54:924][422]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.05.21-04.17.55:398][450]LogEditorViewport: Clicking on Actor (LMB): CrayonModel_C (CrayonModel59)
+[2021.05.21-04.17.55:587][460]Cmd: DELETE
+[2021.05.21-04.17.55:587][460]Cmd: ACTOR DELETE
+[2021.05.21-04.17.55:592][460]LogEditorActor: Deleted Actor: CrayonModel_C
+[2021.05.21-04.17.55:621][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.05.21-04.17.55:622][460]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.05.21-04.17.58:038][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-04.17.58:066][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.05.21-04.17.58:101][590]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap95D2A6534A955C99047E9CA0EB4879A6.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-04.17.58:109][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-04.17.58:121][590]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData94AAEFA7460D64CD1EE63988052B1693.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-04.17.58:150][590]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-04.17.58:150][590]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-04.17.58:150][590]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.21-04.17.58:802][606]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-04.17.59:118][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-04.17.59:118][606]PIE: New page: PIE session: TestMap (May 20, 2021, 2:17:59 PM)
+[2021.05.21-04.17.59:118][606]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-04.17.59:129][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010942s)
+[2021.05.21-04.17.59:130][606]LogAIModule: Creating AISystem for world TestMap
+[2021.05.21-04.17.59:130][606]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2021.05.21-04.17.59:130][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.012272s)
+[2021.05.21-04.17.59:160][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.05.21-04.17.59:161][606]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2021.05.21-04.17.59:161][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-04.17.59:161][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-04.17.59:161][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-04.17.59:161][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-04.17.59:161][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-04.17.59:161][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-04.17.59:161][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-04.17.59:161][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-04.17.59:161][606]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-04.17.59:161][606]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-04.17.59:166][606]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-04.17.59:167][606]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-04.17.59:167][606]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.21-04.17.59:167][606]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.21-04.17.59:167][606]LogAudioMixer: Display: 4: BackLeft
+[2021.05.21-04.17.59:167][606]LogAudioMixer: Display: 5: BackRight
+[2021.05.21-04.17.59:167][606]LogAudioMixer: Display: 6: SideLeft
+[2021.05.21-04.17.59:167][606]LogAudioMixer: Display: 7: SideRight
+[2021.05.21-04.17.59:330][606]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.21-04.17.59:331][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-04.17.59:331][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-04.17.59:331][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-04.17.59:331][606]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-04.17.59:331][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-04.17.59:331][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.21-04.17.59:346][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-04.17.59:346][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-04.17.59:346][606]LogInit: FAudioDevice initialized.
+[2021.05.21-04.17.59:347][606]LogAudio: Display: Audio Device (ID: 45) registered with world 'TestMap'.
+[2021.05.21-04.17.59:357][606]LogLoad: Game class is 'TestGM_C'
+[2021.05.21-04.17.59:361][606]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.20-21.17.59
+[2021.05.21-04.17.59:361][606]LogWorld: Bringing up level for play took: 0.003243
+[2021.05.21-04.17.59:361][606]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.05.21-04.17.59:365][606]PIE: Server logged in
+[2021.05.21-04.17.59:366][606]PIE: Play in editor total start time 0.249 seconds.
+[2021.05.21-04.18.04:298][897]LogCharacterMovement: PlayerChar_C_0 is stuck and failed to move! Velocity: X=9.70 Y=87.95 Z=0.00 Location: X=-609.47 Y=967.94 Z=106.76 Normal: X=0.77 Y=0.43 Z=0.47 PenetrationDepth:25.789 Actor:EraserBullet_C_1 Component:Temp Rectangular Prism BoneName:None (0 other events since notify)
+[2021.05.21-04.18.05:768][985]LogCharacterMovement: PlayerChar_C_0 is stuck and failed to move! Velocity: X=-15.40 Y=62.00 Z=0.00 Location: X=-609.99 Y=968.52 Z=106.76 Normal: X=-0.03 Y=0.54 Z=0.84 PenetrationDepth:49.384 Actor:EraserBullet_C_8 Component:Temp Rectangular Prism BoneName:None (4 other events since notify)
+[2021.05.21-04.18.07:396][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-04.18.07:396][ 81]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.21-04.18.07:396][ 81]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-04.18.07:397][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-04.18.07:405][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-04.18.07:410][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-04.18.07:437][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.21-04.18.07:437][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-04.18.07:438][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.21-04.18.07:455][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-04.18.07:459][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.05.21-04.18.07:604][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.05.21-04.18.34:888][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.21-04.18.34:917][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.05.21-04.18.34:954][671]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap3DEBCA594A5C008EF268E4B874A5364B.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.21-04.18.34:961][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.21-04.18.34:973][671]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData4491CA5D4096F14AF304ABB734623CCF.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.21-04.18.35:003][671]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.21-04.18.35:003][671]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.21-04.18.35:003][671]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
