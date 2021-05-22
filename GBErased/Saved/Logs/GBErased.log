@@ -1259,3 +1259,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.22-04.51.45:744][721]LogContentValidation: Display: Validating StaticMesh /Game/Models/Imported/CrayonVar2.CrayonVar2
 [2021.05.22-04.51.45:744][721]LogContentValidation: Display: Validating StaticMesh /Game/Models/Imported/CrayonVar4.CrayonVar4
 [2021.05.22-04.51.45:744][721]LogContentValidation: Display: Validating StaticMesh /Game/Models/Imported/CrayonVar3.CrayonVar3
+[2021.05.22-04.53.11:706][865]LogEditorViewport: Clicking on Actor (LMB): BookModel_C (BookModel8)
+[2021.05.22-04.53.24:250][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.22-04.53.24:284][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.22-04.53.24:315][437]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap402CB1B94F8F9AF8463519B25CBB08B6.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.22-04.53.24:322][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.22-04.53.24:341][437]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData5F889CEB4F74CC1EAA20A28AFDFD9EB0.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.22-04.53.24:370][437]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-04.53.24:370][437]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.22-04.53.24:370][437]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
