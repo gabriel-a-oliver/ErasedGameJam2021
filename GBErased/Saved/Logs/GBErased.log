@@ -1825,3 +1825,1212 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.22-05.05.20:902][204]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenuLevel8F72DFB3451D5AFD84775A94138A4440.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/MainMenuLevel.umap'
 [2021.05.22-05.05.20:997][204]AssetCheck: New page: Asset Save: MainMenuLevel
 [2021.05.22-05.05.20:997][204]LogContentValidation: Display: Validating World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2021.05.22-05.05.52:461][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/EnemySpawner.EnemySpawner
+[2021.05.22-05.06.00:588][218]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.06.00:588][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.06.08:769][570]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Scripts/EnemySpawnBehavior.EnemySpawnBehavior
+[2021.05.22-05.09.45:007][471]BlueprintLog: New page: Compile EnemySpawnBehavior
+[2021.05.22-05.09.45:055][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.05.22-05.09.45:740][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/EnemySpawnBehavior" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Scripts/EnemySpawnBehavior.uasset" SILENT=true
+[2021.05.22-05.09.45:763][501]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EnemySpawnBehaviorC75FCD3E46454DCD9FE157BD6A241A99.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Scripts/EnemySpawnBehavior.uasset'
+[2021.05.22-05.09.45:794][501]AssetCheck: New page: Asset Save: EnemySpawnBehavior
+[2021.05.22-05.09.45:794][501]LogContentValidation: Display: Validating Blueprint /Game/Scripts/EnemySpawnBehavior.EnemySpawnBehavior
+[2021.05.22-05.10.08:659][738]BlueprintLog: New page: Compile EnemySpawnBehavior
+[2021.05.22-05.10.08:704][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.22-05.10.09:219][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/EnemySpawnBehavior" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Scripts/EnemySpawnBehavior.uasset" SILENT=true
+[2021.05.22-05.10.09:243][757]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EnemySpawnBehaviorEAD74FE240F87B108E9869A073FDEDF6.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Scripts/EnemySpawnBehavior.uasset'
+[2021.05.22-05.10.09:272][757]AssetCheck: New page: Asset Save: EnemySpawnBehavior
+[2021.05.22-05.10.09:272][757]LogContentValidation: Display: Validating Blueprint /Game/Scripts/EnemySpawnBehavior.EnemySpawnBehavior
+[2021.05.22-05.10.17:183][153]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.22-05.10.29:583][820]BlueprintLog: New page: Compile TestGM
+[2021.05.22-05.10.29:751][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.05.22-05.10.30:819][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.22-05.10.30:846][875]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestGM9C2686F04CCA633D039B9EB3A3BBCDCF.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.22-05.10.30:964][875]AssetCheck: New page: Asset Save: TestGM
+[2021.05.22-05.10.30:965][875]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.22-05.10.32:257][937]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-05.10.32:263][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-05.10.32:263][937]PIE: New page: PIE session: MainMenuLevel (May 21, 2021, 3:10:32 PM)
+[2021.05.22-05.10.32:263][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.22-05.10.32:264][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001121s)
+[2021.05.22-05.10.32:265][937]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.22-05.10.32:265][937]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2021.05.22-05.10.32:265][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002132s)
+[2021.05.22-05.10.32:292][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.22-05.10.32:293][937]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.22-05.10.32:293][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-05.10.32:293][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-05.10.32:293][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-05.10.32:293][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-05.10.32:293][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-05.10.32:293][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-05.10.32:293][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-05.10.32:293][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-05.10.32:293][937]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-05.10.32:293][937]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-05.10.32:298][937]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-05.10.32:298][937]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-05.10.32:298][937]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.22-05.10.32:298][937]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.22-05.10.32:298][937]LogAudioMixer: Display: 4: BackLeft
+[2021.05.22-05.10.32:298][937]LogAudioMixer: Display: 5: BackRight
+[2021.05.22-05.10.32:298][937]LogAudioMixer: Display: 6: SideLeft
+[2021.05.22-05.10.32:298][937]LogAudioMixer: Display: 7: SideRight
+[2021.05.22-05.10.32:453][937]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.22-05.10.32:454][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-05.10.32:454][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-05.10.32:454][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-05.10.32:454][937]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-05.10.32:454][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-05.10.32:454][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.22-05.10.32:468][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-05.10.32:468][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-05.10.32:468][937]LogInit: FAudioDevice initialized.
+[2021.05.22-05.10.32:468][937]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenuLevel'.
+[2021.05.22-05.10.32:477][937]LogLoad: Game class is 'MainMenuGM_C'
+[2021.05.22-05.10.32:478][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.05.21-22.10.32
+[2021.05.22-05.10.32:478][937]LogWorld: Bringing up level for play took: 0.000278
+[2021.05.22-05.10.32:478][937]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.05.22-05.10.32:480][937]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.10.32:480][937]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-05.10.32:480][937]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-05.10.32:480][937]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.10.32:480][937]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-05.10.32:481][937]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-05.10.32:481][937]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-05.10.32:481][937]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-05.10.32:481][937]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.22-05.10.32:482][937]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-05.10.32:482][937]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-05.10.32:482][937]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-05.10.32:483][937]PIE: Server logged in
+[2021.05.22-05.10.32:484][937]PIE: Play in editor total start time 0.222 seconds.
+[2021.05.22-05.10.33:021][969]LogNet: Browse: /Game/Levels/TestMap
+[2021.05.22-05.10.33:021][969]LogLoad: LoadMap: /Game/Levels/TestMap
+[2021.05.22-05.10.33:021][969]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.22-05.10.33:021][969]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.10.33:021][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.10.33:045][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.10.33:048][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.05.22-05.10.33:069][969]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2021.05.22-05.10.33:070][969]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-05.10.33:070][969]LogLoad: Game class is 'TestGM_C'
+[2021.05.22-05.10.33:096][969]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.21-22.10.33
+[2021.05.22-05.10.33:096][969]LogWorld: Bringing up level for play took: 0.025380
+[2021.05.22-05.10.33:098][969]LogLoad: Took 0.076919 seconds to LoadMap(/Game/Levels/TestMap)
+[2021.05.22-05.10.43:253][578]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.10.45:069][687]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.45:069][687]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.45:069][687]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.45:069][687]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.45:286][700]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-746.790 Y=-3018.557 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.10.45:586][718]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.45:586][718]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.45:586][718]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.45:586][718]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.46:102][749]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.46:102][749]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.46:102][749]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.46:102][749]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.46:621][780]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.46:622][780]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.46:622][780]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1633.208 Y=-3041.441 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.10.46:622][780]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.46:622][780]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.47:136][811]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.47:136][811]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.47:136][811]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.47:136][811]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.47:653][842]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.47:653][842]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.47:653][842]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.47:653][842]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.48:169][873]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.48:170][873]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.48:170][873]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.48:171][873]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.48:686][904]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.48:686][904]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.48:686][904]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.48:686][904]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.49:202][935]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.49:202][935]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.49:202][935]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.49:202][935]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.49:719][966]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.49:720][966]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.10.49:720][966]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.49:720][966]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.49:721][966]LogBlueprintUserMessages: [EnemySpawnBehavior] atmax
+[2021.05.22-05.10.50:151][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.10.50:151][990]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-05.10.50:151][990]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.10.50:153][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.10.50:163][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-05.10.50:167][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.10.50:192][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.10.50:193][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.10.50:193][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.10.50:209][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.10.50:214][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.22-05.10.50:330][997]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.05.22-05.11.04:561][759]LogEditorTransaction: Undo Change Number Pin Value
+[2021.05.22-05.11.10:341][998]BlueprintLog: New page: Compile EnemySpawnBehavior
+[2021.05.22-05.11.10:392][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.05.22-05.11.11:349][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/EnemySpawnBehavior" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Scripts/EnemySpawnBehavior.uasset" SILENT=true
+[2021.05.22-05.11.11:373][ 44]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EnemySpawnBehavior66CD41224785D5E70EB96BA2271F0388.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Scripts/EnemySpawnBehavior.uasset'
+[2021.05.22-05.11.11:451][ 44]AssetCheck: New page: Asset Save: EnemySpawnBehavior
+[2021.05.22-05.11.11:451][ 44]LogContentValidation: Display: Validating Blueprint /Game/Scripts/EnemySpawnBehavior.EnemySpawnBehavior
+[2021.05.22-05.11.18:964][406]BlueprintLog: New page: Compile TestGM
+[2021.05.22-05.11.19:027][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.22-05.11.19:504][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/TestGM" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset" SILENT=true
+[2021.05.22-05.11.19:530][421]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestGMFD5E968A4FEDA40717A72EAA33B92DF7.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/GameModes/TestGM.uasset'
+[2021.05.22-05.11.19:593][421]AssetCheck: New page: Asset Save: TestGM
+[2021.05.22-05.11.19:593][421]LogContentValidation: Display: Validating Blueprint /Game/GameModes/TestGM.TestGM
+[2021.05.22-05.11.21:194][491]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.11.21:194][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.11.21:575][510]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.11.21:575][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.11.21:926][529]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-05.11.21:926][529]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.11.21:926][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.14.47:114][740]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.05.22-05.14.56:727][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.05.22-05.15.01:343][236]LogSlate: Window 'Save Content' being destroyed
+[2021.05.22-05.15.01:433][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EnemySpawner" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EnemySpawner.uasset" SILENT=true
+[2021.05.22-05.15.01:445][236]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/EnemySpawner960048AB401638CBCA937CAAD2041D73.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Models/EnemySpawner.uasset'
+[2021.05.22-05.15.01:551][236]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2021.05.22-05.15.01:551][236]Cmd: MAP LOAD FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.22-05.15.01:551][236]LightingResults: New page: Lighting Build
+[2021.05.22-05.15.01:552][236]LoadErrors: New page: Loading map: TestMap.umap
+[2021.05.22-05.15.01:559][236]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.15.01:559][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.15.01:591][236]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.15.01:591][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.15.01:591][236]MapCheck: New page: Map Check
+[2021.05.22-05.15.01:591][236]LightingResults: New page: Lighting Build
+[2021.05.22-05.15.01:609][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.15.01:616][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.05.22-05.15.01:616][236]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2021.05.22-05.15.01:732][236]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.22-05.15.01:732][236]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-05.15.01:753][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.05.22-05.15.01:758][236]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.22-05.15.01:758][236]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2021.05.22-05.15.01:758][236]LogFileHelpers: Loading map 'TestMap' took 0.207
+[2021.05.22-05.15.01:788][236]AssetCheck: New page: Asset Save: EnemySpawner
+[2021.05.22-05.15.01:788][236]LogContentValidation: Display: Validating Blueprint /Game/Models/EnemySpawner.EnemySpawner
+[2021.05.22-05.15.11:116][711]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/TestMap.TestMap:PersistentLevel.TestMap
+[2021.05.22-05.15.33:709][766]BlueprintLog: New page: Compile TestMap
+[2021.05.22-05.15.33:735][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.22-05.15.34:324][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.22-05.15.34:345][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.22-05.15.34:378][780]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap593720544AE01C276682EDAA4962D9AA.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.22-05.15.34:384][780]LogFileHelpers: Saving map 'TestMap' took 0.060
+[2021.05.22-05.15.34:482][780]AssetCheck: New page: Asset Save: TestMap
+[2021.05.22-05.15.34:482][780]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.22-05.15.36:381][849]LogSlate: Window 'TestMap' being destroyed
+[2021.05.22-05.15.37:795][903]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-05.15.37:803][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-05.15.37:803][903]PIE: New page: PIE session: TestMap (May 21, 2021, 3:15:37 PM)
+[2021.05.22-05.15.37:803][903]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-05.15.37:812][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009345s)
+[2021.05.22-05.15.37:813][903]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-05.15.37:813][903]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2021.05.22-05.15.37:813][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.010383s)
+[2021.05.22-05.15.37:834][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.22-05.15.37:835][903]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.05.22-05.15.37:835][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-05.15.37:835][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-05.15.37:835][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-05.15.37:835][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-05.15.37:835][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-05.15.37:835][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-05.15.37:835][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-05.15.37:835][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-05.15.37:835][903]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-05.15.37:835][903]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-05.15.37:840][903]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-05.15.37:840][903]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-05.15.37:840][903]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.22-05.15.37:840][903]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.22-05.15.37:840][903]LogAudioMixer: Display: 4: BackLeft
+[2021.05.22-05.15.37:840][903]LogAudioMixer: Display: 5: BackRight
+[2021.05.22-05.15.37:840][903]LogAudioMixer: Display: 6: SideLeft
+[2021.05.22-05.15.37:840][903]LogAudioMixer: Display: 7: SideRight
+[2021.05.22-05.15.38:122][903]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.22-05.15.38:123][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-05.15.38:123][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-05.15.38:123][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-05.15.38:123][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-05.15.38:123][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-05.15.38:123][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.22-05.15.38:138][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-05.15.38:138][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-05.15.38:138][903]LogInit: FAudioDevice initialized.
+[2021.05.22-05.15.38:138][903]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2021.05.22-05.15.38:148][903]LogLoad: Game class is 'TestGM_C'
+[2021.05.22-05.15.38:151][903]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.21-22.15.38
+[2021.05.22-05.15.38:152][903]LogWorld: Bringing up level for play took: 0.003023
+[2021.05.22-05.15.38:152][903]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.05.22-05.15.38:155][903]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-05.15.38:155][903]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-05.15.38:155][903]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-05.15.38:155][903]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-05.15.38:155][903]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-05.15.38:156][903]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-05.15.38:156][903]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.22-05.15.38:157][903]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-05.15.38:157][903]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-05.15.38:157][903]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-05.15.38:158][903]PIE: Server logged in
+[2021.05.22-05.15.38:158][903]PIE: Play in editor total start time 0.356 seconds.
+[2021.05.22-05.15.40:891][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.15.40:891][ 64]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-05.15.40:891][ 64]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.15.40:892][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.15.40:898][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-05.15.40:901][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.15.40:921][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.15.40:921][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.15.40:922][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.15.40:941][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.22-05.15.41:074][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.05.22-05.15.48:585][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.05.22-05.16.08:959][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-05.16.08:959][373]PIE: New page: PIE session: TestMap (May 21, 2021, 3:16:08 PM)
+[2021.05.22-05.16.08:959][373]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-05.16.08:968][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009240s)
+[2021.05.22-05.16.08:969][373]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-05.16.08:969][373]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2021.05.22-05.16.08:969][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.010912s)
+[2021.05.22-05.16.08:991][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.05.22-05.16.08:992][373]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.05.22-05.16.08:992][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-05.16.08:992][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-05.16.08:992][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-05.16.08:992][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-05.16.08:992][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-05.16.08:992][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-05.16.08:992][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-05.16.08:992][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-05.16.08:992][373]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-05.16.08:992][373]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-05.16.08:997][373]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-05.16.08:997][373]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-05.16.08:997][373]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.22-05.16.08:997][373]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.22-05.16.08:997][373]LogAudioMixer: Display: 4: BackLeft
+[2021.05.22-05.16.08:997][373]LogAudioMixer: Display: 5: BackRight
+[2021.05.22-05.16.08:997][373]LogAudioMixer: Display: 6: SideLeft
+[2021.05.22-05.16.08:997][373]LogAudioMixer: Display: 7: SideRight
+[2021.05.22-05.16.09:144][373]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.22-05.16.09:144][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-05.16.09:144][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-05.16.09:144][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-05.16.09:144][373]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-05.16.09:144][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-05.16.09:144][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.22-05.16.09:158][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-05.16.09:158][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-05.16.09:158][373]LogInit: FAudioDevice initialized.
+[2021.05.22-05.16.09:158][373]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2021.05.22-05.16.09:166][373]LogLoad: Game class is 'TestGM_C'
+[2021.05.22-05.16.09:169][373]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.21-22.16.09
+[2021.05.22-05.16.09:169][373]LogWorld: Bringing up level for play took: 0.002922
+[2021.05.22-05.16.09:170][373]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.05.22-05.16.09:173][373]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-05.16.09:173][373]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-05.16.09:173][373]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-05.16.09:173][373]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-05.16.09:174][373]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.22-05.16.09:174][373]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-05.16.09:174][373]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-05.16.09:174][373]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-05.16.09:175][373]PIE: Server logged in
+[2021.05.22-05.16.09:176][373]PIE: Play in editor total start time 0.218 seconds.
+[2021.05.22-05.16.10:391][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.16.10:391][418]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-05.16.10:391][418]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.16.10:391][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.16.10:401][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-05.16.10:405][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.16.10:425][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.16.10:425][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.16.10:426][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.16.10:441][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.16.10:444][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.05.22-05.16.10:611][425]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.05.22-05.16.22:063][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.22-05.16.22:280][960]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/YouLostLevel.YouLostLevel
+[2021.05.22-05.16.22:280][960]Cmd: MAP LOAD FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/YouLostLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.22-05.16.22:280][960]LightingResults: New page: Lighting Build
+[2021.05.22-05.16.22:280][960]LoadErrors: New page: Loading map: YouLostLevel.umap
+[2021.05.22-05.16.22:288][960]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.16.22:288][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.16.22:319][960]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.16.22:319][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.16.22:319][960]MapCheck: New page: Map Check
+[2021.05.22-05.16.22:319][960]LightingResults: New page: Lighting Build
+[2021.05.22-05.16.22:336][960]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.16.22:342][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.05.22-05.16.22:342][960]LogAudio: Display: Audio Device (ID: 1) registered with world 'YouLostLevel'.
+[2021.05.22-05.16.22:402][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.22-05.16.22:402][960]LogAIModule: Creating AISystem for world YouLostLevel
+[2021.05.22-05.16.22:422][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.05.22-05.16.22:427][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.22-05.16.22:428][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2021.05.22-05.16.22:428][960]LogFileHelpers: Loading map 'YouLostLevel' took 0.147
+[2021.05.22-05.16.25:423][ 75]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/YouLostLevel.YouLostLevel:PersistentLevel.YouLostLevel
+[2021.05.22-05.17.01:528][943]BlueprintLog: New page: Compile YouLostLevel
+[2021.05.22-05.17.01:530][943]LogBlueprint: Error: [AssetLog] B:\HardDrive Program Storage\UnrealEngine4\ErasedGameJam2021\GBErased\Content\Levels\YouLostLevel.umap: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2021.05.22-05.17.01:574][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.22-05.17.02:112][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.22-05.17.02:117][959]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/YouLostLevelE276332443A61239684E63823BA2360C.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/YouLostLevel.umap'
+[2021.05.22-05.17.02:124][959]LogFileHelpers: Saving map 'YouLostLevel' took 0.031
+[2021.05.22-05.17.02:153][959]AssetCheck: New page: Asset Save: YouLostLevel
+[2021.05.22-05.17.02:153][959]LogContentValidation: Display: Validating World /Game/Levels/YouLostLevel.YouLostLevel
+[2021.05.22-05.17.55:449][782]BlueprintLog: New page: Compile YouLostLevel
+[2021.05.22-05.17.55:483][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.05.22-05.17.56:043][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.22-05.17.56:049][799]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/YouLostLevel599F30934D1DC72293FE719056F926A5.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/YouLostLevel.umap'
+[2021.05.22-05.17.56:054][799]LogFileHelpers: Saving map 'YouLostLevel' took 0.031
+[2021.05.22-05.17.56:081][799]AssetCheck: New page: Asset Save: YouLostLevel
+[2021.05.22-05.17.56:081][799]LogContentValidation: Display: Validating World /Game/Levels/YouLostLevel.YouLostLevel
+[2021.05.22-05.17.57:815][864]LogSlate: Window 'YouLostLevel' being destroyed
+[2021.05.22-05.18.01:349][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-05.18.01:355][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-05.18.01:355][ 21]PIE: New page: PIE session: YouLostLevel (May 21, 2021, 3:18:01 PM)
+[2021.05.22-05.18.01:355][ 21]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_YouLostLevel
+[2021.05.22-05.18.01:356][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001119s)
+[2021.05.22-05.18.01:357][ 21]LogAIModule: Creating AISystem for world YouLostLevel
+[2021.05.22-05.18.01:357][ 21]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2021.05.22-05.18.01:357][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/YouLostLevel.YouLostLevel to /Game/Levels/UEDPIE_0_YouLostLevel.YouLostLevel (0.002140s)
+[2021.05.22-05.18.01:378][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.22-05.18.01:379][ 21]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.05.22-05.18.01:379][ 21]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-05.18.01:379][ 21]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-05.18.01:379][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-05.18.01:379][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-05.18.01:379][ 21]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-05.18.01:379][ 21]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-05.18.01:379][ 21]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-05.18.01:379][ 21]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-05.18.01:379][ 21]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-05.18.01:379][ 21]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-05.18.01:384][ 21]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-05.18.01:384][ 21]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-05.18.01:384][ 21]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.22-05.18.01:384][ 21]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.22-05.18.01:384][ 21]LogAudioMixer: Display: 4: BackLeft
+[2021.05.22-05.18.01:384][ 21]LogAudioMixer: Display: 5: BackRight
+[2021.05.22-05.18.01:384][ 21]LogAudioMixer: Display: 6: SideLeft
+[2021.05.22-05.18.01:384][ 21]LogAudioMixer: Display: 7: SideRight
+[2021.05.22-05.18.01:539][ 21]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.22-05.18.01:539][ 21]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-05.18.01:539][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-05.18.01:539][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-05.18.01:539][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-05.18.01:539][ 21]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-05.18.01:539][ 21]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.22-05.18.01:553][ 21]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-05.18.01:553][ 21]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-05.18.01:553][ 21]LogInit: FAudioDevice initialized.
+[2021.05.22-05.18.01:553][ 21]LogAudio: Display: Audio Device (ID: 11) registered with world 'YouLostLevel'.
+[2021.05.22-05.18.01:558][ 21]LogLoad: Game class is 'YouLostGM_C'
+[2021.05.22-05.18.01:559][ 21]LogWorld: Bringing World /Game/Levels/UEDPIE_0_YouLostLevel.YouLostLevel up for play (max tick rate 60) at 2021.05.21-22.18.01
+[2021.05.22-05.18.01:559][ 21]LogWorld: Bringing up level for play took: 0.000275
+[2021.05.22-05.18.01:559][ 21]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.05.22-05.18.01:561][ 21]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-05.18.01:561][ 21]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-05.18.01:562][ 21]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-05.18.01:563][ 21]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-05.18.01:563][ 21]PIE: Server logged in
+[2021.05.22-05.18.01:564][ 21]PIE: Play in editor total start time 0.209 seconds.
+[2021.05.22-05.18.02:568][ 81]LogNet: Browse: /Game/Levels/TestMap
+[2021.05.22-05.18.02:568][ 81]LogLoad: LoadMap: /Game/Levels/TestMap
+[2021.05.22-05.18.02:568][ 81]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_YouLostLevel
+[2021.05.22-05.18.02:568][ 81]LogWorld: UWorld::CleanupWorld for YouLostLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.18.02:568][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.02:587][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.18.02:590][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.05.22-05.18.02:609][ 81]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMap'.
+[2021.05.22-05.18.02:610][ 81]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-05.18.02:610][ 81]LogLoad: Game class is 'TestGM_C'
+[2021.05.22-05.18.02:637][ 81]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.21-22.18.02
+[2021.05.22-05.18.02:637][ 81]LogWorld: Bringing up level for play took: 0.026580
+[2021.05.22-05.18.02:639][ 81]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.02:639][ 81]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-05.18.02:639][ 81]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-05.18.02:639][ 81]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.02:639][ 81]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-05.18.02:640][ 81]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-05.18.02:641][ 81]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-05.18.02:642][ 81]LogLoad: Took 0.074286 seconds to LoadMap(/Game/Levels/TestMap)
+[2021.05.22-05.18.15:849][873]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1326.792 Y=-3298.558 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.18.15:849][873]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-746.790 Y=-3018.557 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.18.16:731][926]LogNet: Browse: /Game/Levels/YouLostLevel
+[2021.05.22-05.18.16:731][926]LogLoad: LoadMap: /Game/Levels/YouLostLevel
+[2021.05.22-05.18.16:731][926]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-05.18.16:732][926]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.18.16:733][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.16:754][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.18.16:757][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.22-05.18.16:758][926]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_YouLostLevel
+[2021.05.22-05.18.16:760][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001205s)
+[2021.05.22-05.18.16:760][926]LogAIModule: Creating AISystem for world YouLostLevel
+[2021.05.22-05.18.16:761][926]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2021.05.22-05.18.16:761][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/YouLostLevel.YouLostLevel to /Game/Levels/UEDPIE_0_YouLostLevel.YouLostLevel (0.002299s)
+[2021.05.22-05.18.16:761][926]LogAudio: Display: Audio Device (ID: 11) registered with world 'YouLostLevel'.
+[2021.05.22-05.18.16:761][926]LogLoad: Game class is 'YouLostGM_C'
+[2021.05.22-05.18.16:762][926]LogWorld: Bringing World /Game/Levels/UEDPIE_0_YouLostLevel.YouLostLevel up for play (max tick rate 60) at 2021.05.21-22.18.16
+[2021.05.22-05.18.16:762][926]LogWorld: Bringing up level for play took: 0.000224
+[2021.05.22-05.18.16:762][926]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.22-05.18.16:763][926]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-05.18.16:763][926]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-05.18.16:763][926]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-05.18.16:763][926]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-05.18.16:764][926]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.22-05.18.16:764][926]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-05.18.16:764][926]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-05.18.16:764][926]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-05.18.16:765][926]LogLoad: Took 0.033618 seconds to LoadMap(/Game/Levels/UEDPIE_0_YouLostLevel)
+[2021.05.22-05.18.18:999][ 60]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2021.05.22-05.18.19:000][ 60]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2021.05.22-05.18.19:000][ 60]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_YouLostLevel
+[2021.05.22-05.18.19:000][ 60]LogWorld: UWorld::CleanupWorld for YouLostLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.18.19:000][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.19:049][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.18.19:052][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.05.22-05.18.19:058][ 60]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMenuLevel'.
+[2021.05.22-05.18.19:059][ 60]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.22-05.18.19:059][ 60]LogLoad: Game class is 'MainMenuGM_C'
+[2021.05.22-05.18.19:060][ 60]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.05.21-22.18.19
+[2021.05.22-05.18.19:060][ 60]LogWorld: Bringing up level for play took: 0.000442
+[2021.05.22-05.18.19:060][ 60]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.22-05.18.19:061][ 60]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-05.18.19:061][ 60]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.18.19:062][ 60]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-05.18.19:063][ 60]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-05.18.19:063][ 60]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-05.18.19:063][ 60]LogLoad: Took 0.063743 seconds to LoadMap(/Game/Levels/MainMenuLevel)
+[2021.05.22-05.18.19:746][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.18.19:747][101]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.22-05.18.19:770][101]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.18.19:770][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.19:781][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-05.18.19:784][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.19:803][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.18.19:803][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.18.19:804][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.18.19:823][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.05.22-05.18.19:946][108]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.05.22-05.18.27:005][485]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.18.27:005][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.28:647][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.05.22-05.18.28:710][576]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/YouWonLevel.YouWonLevel
+[2021.05.22-05.18.28:710][576]Cmd: MAP LOAD FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/YouWonLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.22-05.18.28:710][576]LightingResults: New page: Lighting Build
+[2021.05.22-05.18.28:710][576]LoadErrors: New page: Loading map: YouWonLevel.umap
+[2021.05.22-05.18.28:711][576]LogWorld: UWorld::CleanupWorld for YouLostLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.18.28:711][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.28:711][576]MapCheck: New page: Map Check
+[2021.05.22-05.18.28:711][576]LightingResults: New page: Lighting Build
+[2021.05.22-05.18.28:728][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.18.28:731][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.05.22-05.18.28:731][576]LogAudio: Display: Audio Device (ID: 1) registered with world 'YouWonLevel'.
+[2021.05.22-05.18.28:789][576]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.22-05.18.28:789][576]LogAIModule: Creating AISystem for world YouWonLevel
+[2021.05.22-05.18.28:809][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.05.22-05.18.28:814][576]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.22-05.18.28:814][576]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2021.05.22-05.18.28:814][576]LogFileHelpers: Loading map 'YouWonLevel' took 0.104
+[2021.05.22-05.18.34:263][859]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/YouWonLevel.YouWonLevel:PersistentLevel.YouWonLevel
+[2021.05.22-05.18.49:983][648]BlueprintLog: New page: Compile YouWonLevel
+[2021.05.22-05.18.50:019][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.05.22-05.18.50:505][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.22-05.18.50:511][664]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/YouWonLevel9B7D31BB4C0D22A70E1D34943B6AE393.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/YouWonLevel.umap'
+[2021.05.22-05.18.50:534][664]LogFileHelpers: Saving map 'YouWonLevel' took 0.049
+[2021.05.22-05.18.50:569][664]AssetCheck: New page: Asset Save: YouWonLevel
+[2021.05.22-05.18.50:569][664]LogContentValidation: Display: Validating World /Game/Levels/YouWonLevel.YouWonLevel
+[2021.05.22-05.18.55:979][960]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.18.55:979][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.59:505][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.05.22-05.18.59:599][125]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2021.05.22-05.18.59:599][125]Cmd: MAP LOAD FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.22-05.18.59:599][125]LightingResults: New page: Lighting Build
+[2021.05.22-05.18.59:599][125]LoadErrors: New page: Loading map: TestMap.umap
+[2021.05.22-05.18.59:599][125]LogWorld: UWorld::CleanupWorld for YouWonLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.18.59:599][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.18.59:600][125]MapCheck: New page: Map Check
+[2021.05.22-05.18.59:600][125]LightingResults: New page: Lighting Build
+[2021.05.22-05.18.59:617][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.18.59:620][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.05.22-05.18.59:621][125]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2021.05.22-05.18.59:740][125]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.22-05.18.59:740][125]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-05.18.59:762][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.05.22-05.18.59:768][125]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.22-05.18.59:768][125]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.05.22-05.18.59:768][125]LogFileHelpers: Loading map 'TestMap' took 0.169
+[2021.05.22-05.19.16:692][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.22-05.19.16:709][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.22-05.19.16:743][112]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMapF06F451E450AAD3DF0071A9F772CB648.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.22-05.19.16:750][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.22-05.19.16:768][112]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData53EFB1324638B122D0C1479075D5E590.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.22-05.19.16:799][112]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-05.19.16:800][112]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.22-05.19.16:800][112]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
