@@ -1427,3 +1427,401 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.22-04.57.33:055][519]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.22-04.57.33:055][519]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
 [2021.05.22-04.57.33:055][519]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.22-04.58.00:907][889]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-04.58.00:914][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-04.58.00:914][889]PIE: New page: PIE session: TestMap (May 21, 2021, 2:58:00 PM)
+[2021.05.22-04.58.00:951][889]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-04.58.00:960][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008680s)
+[2021.05.22-04.58.00:960][889]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-04.58.00:960][889]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2021.05.22-04.58.00:960][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.009965s)
+[2021.05.22-04.58.00:982][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.05.22-04.58.00:986][889]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.22-04.58.00:986][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-04.58.00:986][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-04.58.00:986][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-04.58.00:986][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-04.58.00:986][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-04.58.00:986][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-04.58.00:986][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-04.58.00:986][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-04.58.00:986][889]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-04.58.00:986][889]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-04.58.00:990][889]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-04.58.00:990][889]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-04.58.00:990][889]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.22-04.58.00:990][889]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.22-04.58.00:990][889]LogAudioMixer: Display: 4: BackLeft
+[2021.05.22-04.58.00:990][889]LogAudioMixer: Display: 5: BackRight
+[2021.05.22-04.58.00:990][889]LogAudioMixer: Display: 6: SideLeft
+[2021.05.22-04.58.00:990][889]LogAudioMixer: Display: 7: SideRight
+[2021.05.22-04.58.01:145][889]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.22-04.58.01:145][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-04.58.01:145][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-04.58.01:145][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-04.58.01:146][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-04.58.01:146][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-04.58.01:146][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.22-04.58.01:160][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-04.58.01:160][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-04.58.01:160][889]LogInit: FAudioDevice initialized.
+[2021.05.22-04.58.01:160][889]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2021.05.22-04.58.01:167][889]LogLoad: Game class is 'TestGM_C'
+[2021.05.22-04.58.01:170][889]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.21-21.58.01
+[2021.05.22-04.58.01:170][889]LogWorld: Bringing up level for play took: 0.002741
+[2021.05.22-04.58.01:171][889]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.05.22-04.58.01:174][889]PIE: Server logged in
+[2021.05.22-04.58.01:175][889]PIE: Play in editor total start time 0.262 seconds.
+[2021.05.22-04.58.05:382][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-04.58.05:382][139]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-04.58.05:382][139]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-04.58.05:383][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-04.58.05:389][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-04.58.05:397][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-04.58.05:416][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-04.58.05:417][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-04.58.05:418][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-04.58.05:437][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.05.22-04.58.05:584][146]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.05.22-04.59.16:857][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.22-04.59.16:877][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.05.22-04.59.16:912][847]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap1A88051E4146DF65623457A2B7769CEB.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.22-04.59.16:919][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.22-04.59.16:931][847]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltData3AD31CF94FE4FD5D84EDE48A3CA9B5D4.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.22-04.59.17:137][847]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-04.59.17:137][847]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.22-04.59.17:137][847]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.22-04.59.19:763][971]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-04.59.19:769][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-04.59.19:769][971]PIE: New page: PIE session: TestMap (May 21, 2021, 2:59:19 PM)
+[2021.05.22-04.59.19:769][971]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-04.59.19:782][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012905s)
+[2021.05.22-04.59.19:783][971]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-04.59.19:783][971]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2021.05.22-04.59.19:783][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.013963s)
+[2021.05.22-04.59.19:804][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.05.22-04.59.19:805][971]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.22-04.59.19:805][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-04.59.19:805][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-04.59.19:805][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-04.59.19:805][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-04.59.19:805][971]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-04.59.19:805][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-04.59.19:805][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-04.59.19:805][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-04.59.19:805][971]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-04.59.19:805][971]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-04.59.19:809][971]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-04.59.19:809][971]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-04.59.19:809][971]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.22-04.59.19:810][971]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.22-04.59.19:810][971]LogAudioMixer: Display: 4: BackLeft
+[2021.05.22-04.59.19:810][971]LogAudioMixer: Display: 5: BackRight
+[2021.05.22-04.59.19:810][971]LogAudioMixer: Display: 6: SideLeft
+[2021.05.22-04.59.19:810][971]LogAudioMixer: Display: 7: SideRight
+[2021.05.22-04.59.19:965][971]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.22-04.59.19:965][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-04.59.19:965][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-04.59.19:965][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-04.59.19:966][971]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-04.59.19:966][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-04.59.19:966][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.22-04.59.19:980][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-04.59.19:980][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-04.59.19:980][971]LogInit: FAudioDevice initialized.
+[2021.05.22-04.59.19:980][971]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2021.05.22-04.59.19:989][971]LogLoad: Game class is 'TestGM_C'
+[2021.05.22-04.59.19:993][971]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.21-21.59.19
+[2021.05.22-04.59.19:993][971]LogWorld: Bringing up level for play took: 0.002797
+[2021.05.22-04.59.19:993][971]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.05.22-04.59.19:996][971]PIE: Server logged in
+[2021.05.22-04.59.19:997][971]PIE: Play in editor total start time 0.228 seconds.
+[2021.05.22-04.59.21:211][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-04.59.21:211][ 41]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-04.59.21:211][ 41]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-04.59.21:212][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-04.59.21:217][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-04.59.21:225][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-04.59.21:245][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-04.59.21:246][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-04.59.21:246][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-04.59.21:265][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.05.22-04.59.21:417][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.05.22-04.59.23:481][147]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-04.59.23:487][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-04.59.23:487][147]PIE: New page: PIE session: TestMap (May 21, 2021, 2:59:23 PM)
+[2021.05.22-04.59.23:487][147]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-04.59.23:496][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009441s)
+[2021.05.22-04.59.23:497][147]LogAIModule: Creating AISystem for world TestMap
+[2021.05.22-04.59.23:497][147]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2021.05.22-04.59.23:497][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.010482s)
+[2021.05.22-04.59.23:518][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.05.22-04.59.23:519][147]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.22-04.59.23:519][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-04.59.23:519][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-04.59.23:519][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-04.59.23:519][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-04.59.23:519][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-04.59.23:519][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-04.59.23:519][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-04.59.23:519][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-04.59.23:520][147]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-04.59.23:520][147]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-04.59.23:524][147]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-04.59.23:524][147]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-04.59.23:524][147]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.22-04.59.23:524][147]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.22-04.59.23:524][147]LogAudioMixer: Display: 4: BackLeft
+[2021.05.22-04.59.23:524][147]LogAudioMixer: Display: 5: BackRight
+[2021.05.22-04.59.23:524][147]LogAudioMixer: Display: 6: SideLeft
+[2021.05.22-04.59.23:524][147]LogAudioMixer: Display: 7: SideRight
+[2021.05.22-04.59.23:670][147]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.05.22-04.59.23:670][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-04.59.23:670][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-04.59.23:670][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-04.59.23:671][147]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-04.59.23:671][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-04.59.23:671][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.22-04.59.23:684][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-04.59.23:684][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-04.59.23:684][147]LogInit: FAudioDevice initialized.
+[2021.05.22-04.59.23:684][147]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMap'.
+[2021.05.22-04.59.23:694][147]LogLoad: Game class is 'TestGM_C'
+[2021.05.22-04.59.23:697][147]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.05.21-21.59.23
+[2021.05.22-04.59.23:698][147]LogWorld: Bringing up level for play took: 0.002675
+[2021.05.22-04.59.23:698][147]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.05.22-04.59.23:701][147]PIE: Server logged in
+[2021.05.22-04.59.23:701][147]PIE: Play in editor total start time 0.215 seconds.
+[2021.05.22-04.59.30:838][573]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-04.59.33:890][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1381.443 Y=743.209 Z=50.000] for [Enemy1_C]
+[2021.05.22-04.59.39:991][122]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1387.433 Y=487.154 Z=50.000] for [Enemy1_C]
+[2021.05.22-04.59.43:040][305]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-797.154 Y=-2767.432 Z=50.000] for [Enemy1_C]
+[2021.05.22-04.59.49:140][671]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1381.443 Y=743.209 Z=50.000] for [Enemy1_C]
+[2021.05.22-04.59.52:192][854]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1377.153 Y=-3047.434 Z=50.000] for [Enemy1_C]
+[2021.05.22-04.59.55:240][ 37]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1387.433 Y=487.154 Z=50.000] for [Enemy1_C]
+[2021.05.22-04.59.58:290][220]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-797.154 Y=-2767.432 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.07:473][769]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1377.153 Y=-3047.434 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.10:524][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-797.154 Y=-2767.432 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.16:624][318]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1387.433 Y=487.154 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.19:676][501]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1053.209 Y=-2761.443 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.25:774][867]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.00.28:825][ 50]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1638.557 Y=436.791 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.31:908][233]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.00.34:959][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.00.41:060][782]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1638.557 Y=436.791 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.44:110][965]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1377.153 Y=-3047.434 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.47:160][148]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1638.557 Y=436.791 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.00.50:210][331]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1050.000 Y=-390.001 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.00.56:311][697]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-797.154 Y=-2767.432 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.01.02:443][ 63]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1381.443 Y=743.209 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.01.14:642][795]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1377.153 Y=-3047.434 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.01.17:690][978]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1050.000 Y=-390.001 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.01.26:841][527]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.001 Y=-590.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.01.29:890][710]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1050.000 Y=-390.001 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.01.39:079][259]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.001 Y=-590.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.01.51:278][991]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.01.54:334][174]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.01.57:383][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.01.57:384][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1638.557 Y=436.791 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.09:621][ 89]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-746.790 Y=-3018.557 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.12:672][272]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1387.433 Y=487.154 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.18:770][638]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1326.792 Y=-3298.558 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.18:770][638]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-746.790 Y=-3018.557 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.27:926][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1387.433 Y=487.154 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.30:974][370]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.02.40:164][919]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1377.153 Y=-3047.434 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.46:265][285]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.001 Y=-590.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.02.46:266][285]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1326.792 Y=-3298.558 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.49:317][468]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1638.557 Y=436.791 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.55:414][834]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1633.208 Y=-3041.441 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.02.58:465][ 17]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1381.443 Y=743.209 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.01:536][200]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1050.000 Y=-390.001 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.03.01:536][200]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1326.792 Y=-3298.558 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.07:638][566]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.03.07:638][566]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1326.792 Y=-3298.558 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.19:837][298]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1209.998 Y=-190.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.03.28:986][847]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.001 Y=-590.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.03.32:039][ 30]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1387.433 Y=487.154 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.35:125][213]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-797.154 Y=-2767.432 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.38:177][396]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1050.000 Y=-390.001 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.03.47:325][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1377.153 Y=-3047.434 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.47:325][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1053.209 Y=-2761.443 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.47:326][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1381.443 Y=743.209 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.56:474][494]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1326.792 Y=-3298.558 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.03.59:525][677]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1050.000 Y=-390.001 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.04.02:608][860]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1053.209 Y=-2761.443 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.04.05:660][ 43]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1326.792 Y=-3298.558 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.04.11:758][409]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1210.001 Y=-590.000 Z=480.000] for [Enemy1_C]
+[2021.05.22-05.04.14:810][592]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1387.433 Y=487.154 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.04.23:958][141]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1326.792 Y=-3298.558 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.04.30:059][507]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1381.443 Y=743.209 Z=50.000] for [Enemy1_C]
+[2021.05.22-05.04.33:007][684]LogNet: Browse: /Game/Levels/YouWonLevel
+[2021.05.22-05.04.33:007][684]LogLoad: LoadMap: /Game/Levels/YouWonLevel
+[2021.05.22-05.04.33:007][684]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.05.22-05.04.33:009][684]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.04.33:010][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.04.33:033][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.04.33:037][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.22-05.04.33:200][684]LogAudio: Display: Audio Device (ID: 7) registered with world 'YouWonLevel'.
+[2021.05.22-05.04.33:201][684]LogAIModule: Creating AISystem for world YouWonLevel
+[2021.05.22-05.04.33:201][684]LogLoad: Game class is 'WonGM_C'
+[2021.05.22-05.04.33:203][684]LogWorld: Bringing World /Game/Levels/UEDPIE_0_YouWonLevel.YouWonLevel up for play (max tick rate 60) at 2021.05.21-22.04.33
+[2021.05.22-05.04.33:203][684]LogWorld: Bringing up level for play took: 0.000760
+[2021.05.22-05.04.33:203][684]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.22-05.04.33:206][684]LogLoad: Took 0.198639 seconds to LoadMap(/Game/Levels/YouWonLevel)
+[2021.05.22-05.04.43:811][315]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2021.05.22-05.04.43:811][315]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2021.05.22-05.04.43:811][315]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_YouWonLevel
+[2021.05.22-05.04.43:812][315]LogWorld: UWorld::CleanupWorld for YouWonLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.04.43:812][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.04.43:831][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.04.43:833][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.05.22-05.04.43:950][315]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenuLevel'.
+[2021.05.22-05.04.43:951][315]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.22-05.04.43:951][315]LogLoad: Game class is 'MainMenuGM_C'
+[2021.05.22-05.04.43:953][315]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2021.05.21-22.04.43
+[2021.05.22-05.04.43:953][315]LogWorld: Bringing up level for play took: 0.000380
+[2021.05.22-05.04.43:953][315]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.22-05.04.43:954][315]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-05.04.43:954][315]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-05.04.43:954][315]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-05.04.43:954][315]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-05.04.43:954][315]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-05.04.43:955][315]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-05.04.43:955][315]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.22-05.04.43:956][315]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-05.04.43:956][315]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-05.04.43:956][315]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-05.04.43:960][315]LogLoad: Took 0.148582 seconds to LoadMap(/Game/Levels/MainMenuLevel)
+[2021.05.22-05.04.45:952][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.04.45:952][430]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2021.05.22-05.04.45:952][430]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.04.45:953][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.04.45:963][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-05.04.45:972][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.04.45:990][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-05.04.45:990][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.04.45:991][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-05.04.46:011][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.05.22-05.04.46:168][437]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.05.22-05.05.15:604][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.22-05.05.15:625][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.22-05.05.15:655][ 17]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap79CD506C43107DA93CFA4F9651A1599B.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap.umap'
+[2021.05.22-05.05.15:663][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2021.05.22-05.05.15:675][ 17]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/TestMap_BuiltDataAEB044DE4B4600A4C3F8E58AFABC43CE.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/TestMap_BuiltData.uasset'
+[2021.05.22-05.05.15:705][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-05.05.15:705][ 17]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.05.22-05.05.15:705][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2021.05.22-05.05.19:346][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.22-05.05.19:490][153]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2021.05.22-05.05.19:490][153]Cmd: MAP LOAD FILE="B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.22-05.05.19:490][153]LightingResults: New page: Lighting Build
+[2021.05.22-05.05.19:490][153]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.05.22-05.05.19:491][153]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-05.05.19:491][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-05.05.19:491][153]MapCheck: New page: Map Check
+[2021.05.22-05.05.19:491][153]LightingResults: New page: Lighting Build
+[2021.05.22-05.05.19:510][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.22-05.05.19:513][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.05.22-05.05.19:514][153]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.05.22-05.05.19:578][153]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.22-05.05.19:578][153]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.05.22-05.05.19:601][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.22-05.05.19:605][153]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.22-05.05.19:606][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2021.05.22-05.05.19:606][153]LogFileHelpers: Loading map 'MainMenuLevel' took 0.116
+[2021.05.22-05.05.20:896][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.22-05.05.20:902][204]LogSavePackage: Moving 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Saved/MainMenuLevel8F72DFB3451D5AFD84775A94138A4440.tmp' to 'B:/HardDrive Program Storage/UnrealEngine4/ErasedGameJam2021/GBErased/Content/Levels/MainMenuLevel.umap'
+[2021.05.22-05.05.20:997][204]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.05.22-05.05.20:997][204]LogContentValidation: Display: Validating World /Game/Levels/MainMenuLevel.MainMenuLevel
