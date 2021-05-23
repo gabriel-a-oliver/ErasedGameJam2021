@@ -1,5 +1,7 @@
 # ErasedGameJam2021
 
+Playable Here: https://gabrieloliver.itch.io/gberased
+
 Made for the University of Washington Bothell's Spring 2021 Game Jam
 
 Credits:
